@@ -11,3 +11,9 @@ Useful remarks:
 * Remark 1. The test/validation loss is a good indicator of the network’s convergence
 * Remark 2. The takeaway is that achieving the horizontal part of the test loss is the goal of hyperparameter tuning
 * Remark 3: the amount of regularization must be balanced for each dataset and architecture. Smaller learning rates leads to overfitting, and higher weight decay leads to regularise. So, possible combinations: small LR with high WD, or high LR with small WD.
+
+
+One cycle learning: Use one cycle that is smaller than the total number of iterations and allow learning rate to decrease several orders of magnitude less than initial learning rate for the remaining iterations. 1cycle learning rate policy is a
+combination of curriculum learning (Bengio et al., 2009) and simulated annealing (Aarts & Korst, 1988).
+
+
