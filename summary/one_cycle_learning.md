@@ -24,6 +24,8 @@ One cycle learning:
 * Remark 5: Cyclical momentum, where decreases in momentum with increase in learning rate is proven to be effecive for convergence
 ![Cyclical momentum](https://github.com/keyurfaldu/grad-AI/blob/master/summary/images/cyclical_momentum.png)
 
+* Remark 6: Cyclical weight decay is not useful, and experiments shows that it should remain constant through out training. Gridsearch is worthwhile for finding WD value. The the amount of regularization must be balanced for each dataset and architecture. Smaller datasets and architecture requires larger WD value, whereas larger dataset and complex architecture requires smaller WD value (i.e. typically between `$10^-3, 10^-4, 10^-5` etc)
+
 
 
 
