@@ -10,3 +10,9 @@ This paper aims to reduce Internal Covariate Shift, by taking following actions:
 <p align="center">
 <img align="centre", src="https://render.githubusercontent.com/render/math?math=\Large%20y^{(k)}%20=%20\gamma^{(k)}\hat%20x^{(k)}%20%2B%20\beta^{(k)}">
 </p>
+
+
+Batch normalization reduces the dependencies on the scale of parameters and their initial values, that has beneficial effect on the gradient flow through network, 
+* It allows use of much higher learning rates
+* It regularize the model as well
+* It makes it possible to use saturating nonlinearities by preventing the network from getting stuck in the saturated mode.
