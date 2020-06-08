@@ -1,4 +1,4 @@
-Internal Covariate Shift: Change in distribution of network activations due to change in network parameters during traing.
+**Internal Covariate Shift**: Change in distribution of network activations due to change in network parameters during traing.
 This paper aims to reduce Internal Covariate Shift, by taking following actions:
 * Instead of whitelisting features inputs and outputs jointly, it normalise each scalar feature independently, by making its mean zero and variance 1.
 * Each dimension of d-dimensional features would be normalised as follow 
