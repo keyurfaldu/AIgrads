@@ -4,6 +4,7 @@ This is a niche collection of research papers proven to be gradients defining th
 
 ## Natural Language Processing
 * [ALBERT: A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS](summary/albert.md), Zhenzhong Lan1, Mingda Chen, 2020 [[arXiv](https://arxiv.org/pdf/1909.11942.pdf)]
+* [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](summary/T5.md), Raffel et al, Google, 2019 [[arXiv](https://arxiv.org/pdf/1910.10683.pdf)]
 
 ## Deep Learning
 * [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](summary/one_cycle_learning.md), Leslie N Smith, 2018 [[arXiv](https://arxiv.org/abs/1803.09820)]
