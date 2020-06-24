@@ -31,3 +31,11 @@ Major Contributions:
 * **Objective Function**:
     * SpanBERT sums the loss from both SBO and MLM. 
    <p align="center"> <img align="center" src="https://render.githubusercontent.com/render/math?math=\Large%20\mathcal{L}(x_i)%20=%20\mathcal{L}_{MLM}(x_i)%2B\mathcal{L}_{SBO}(x_i)"> </p>
+
+* **Example**
+    * An example illustrating how SpanBERT works, 
+
+<p align="center">
+<img width=600 src="images/span_bert_example.png">
+<em>Source: Author</em>
+</p>
