@@ -16,6 +16,7 @@ This is a niche collection of research papers proven to be gradients defining th
 
 * [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](summary/bart.md), Lewis et al. [[arXiv](https://arxiv.org/pdf/1910.13461.pdf)]
 
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](summary/bert.md) Devlin et al. 2018, Google AI Language [[arXiv](https://arxiv.org/pdf/1810.04805.pdf)]
 
 * [Attention Is All You Need](summary/transformers.md), Vaswani et al, 2017 [[arXiv](https://arxiv.org/pdf/1706.03762.pdf)]
 
