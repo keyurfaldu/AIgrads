@@ -29,9 +29,9 @@ Major Contributions:
 * Insights:
     * As we can see in the figure below, syntatics taks are solved in earlier layers of BERT, while deep semantic tasks have expected layer higher. 
     <p align="center">
-    <img src="images/bert_analysis_nlp_center_of_gravity_expected_layer.png"></p>
+    <img width=250 src="images/bert_analysis_nlp_center_of_gravity_expected_layer.png"></p>
     * Distribution scaling weights (softmax) and differntial weights further reinforces the value addition of each layer for various tasks.
-    <p align="center"><img src="images/bert_analysis_nlp_scaling_weights_differential_scores.png"></p>
+    <p align="center"><img width=250 src="images/bert_analysis_nlp_scaling_weights_differential_scores.png"></p>
 
 
                 
