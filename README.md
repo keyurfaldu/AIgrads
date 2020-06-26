@@ -14,6 +14,8 @@ This is a niche collection of research papers proven to be gradients defining th
 
 * [BERT Rediscovers the Classical NLP Pipeline](summary/bert_analysis_nlp_pipeline.md), Ian Tenney, Dipanjan Das, Ellie Pavlick, 2019 [[arXiv](https://arxiv.org/pdf/1905.05950.pdf)]
 
+* [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](summary/bart.md), Lewis et al. [[arXiv](https://arxiv.org/pdf/1910.13461.pdf)]
+
 
 * [Attention Is All You Need](summary/transformers.md), Vaswani et al, 2017 [[arXiv](https://arxiv.org/pdf/1706.03762.pdf)]
 
