@@ -8,15 +8,17 @@ This is a niche collection of research papers proven to be gradients defining th
 * [ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations](summary/albert.md), Zhenzhong Lan1, Mingda Chen, 2020 [[arXiv](https://arxiv.org/pdf/1909.11942.pdf)]
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](summary/T5.md), Raffel et al, Google, 2019 [[arXiv](https://arxiv.org/pdf/1910.10683.pdf)]
 * [SpanBERT: Improving Pre-training by Representing and Predicting Spans](summary/spanBERT.md), Joshi, Chen, AllenAI, Facebook Research, 2020 [[arXiv](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00300)]
-* [Multi-Task Deep Neural Networks for Natural Language Understanding](summary/MTDNN_GLUE.md), Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, 2019 [[arXiv](https://arxiv.org/abs/1901.11504)]
+
 * [Huggingface's Transformers: State-of-the-art Natural Language Processing](summary/huggingface.md), Wolf et al, 2020 [[arXiv](https://arxiv.org/pdf/1910.03771.pdf)]
 * [DistilBERT, a distilled version of BERT: smaller,faster, cheaper and lighter](summary/distilbert.md), Victor SANH, Lysandre DEBUT, Julien CHAUMOND, Thomas WOLF, 2020 [[arXiv](https://arxiv.org/abs/1910.01108)]
+
+* [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](summary/bart.md), Lewis et al. [[arXiv](https://arxiv.org/pdf/1910.13461.pdf)]
+
+* [Multi-Task Deep Neural Networks for Natural Language Understanding](summary/MTDNN_GLUE.md), Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, 2019 [[arXiv](https://arxiv.org/abs/1901.11504)]
 
 * [What Does BERT Look At? An Analysis of BERT’s Attention](summary/bert_analysis.md), Kevin Clark, Urvashi Khandelwal, Omer Levy, Christopher D. Manning, 2019 [[arXiv](https://arxiv.org/abs/1906.04341)]
 
 * [BERT Rediscovers the Classical NLP Pipeline](summary/bert_analysis_nlp_pipeline.md), Ian Tenney, Dipanjan Das, Ellie Pavlick, 2019 [[arXiv](https://arxiv.org/pdf/1905.05950.pdf)]
-
-* [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](summary/bart.md), Lewis et al. [[arXiv](https://arxiv.org/pdf/1910.13461.pdf)]
 
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](summary/bert.md) Devlin et al. 2018, Google AI Language [[arXiv](https://arxiv.org/pdf/1810.04805.pdf)]
 
