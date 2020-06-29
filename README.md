@@ -23,6 +23,8 @@ This is a niche collection of research papers proven gradients for pushing ahead
 
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](summary/bert.md) Devlin et al. 2018, Google AI Language [[arXiv](https://arxiv.org/pdf/1810.04805.pdf)]
 
+* [GPT: Improving Language Understanding by Generative Pre-Training](summary/gpt.md) Alec Radford, Karthik Narasimhan, Tim Saliman, Ilya Sutskever @ OpenAI, 2018 [[OpenAI](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)]
+
 * [Attention Is All You Need](summary/transformers.md), Vaswani et al, 2017 [[arXiv](https://arxiv.org/pdf/1706.03762.pdf)]
 
 ## Deep Learning
