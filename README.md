@@ -4,6 +4,8 @@ This is a niche collection of research papers proven gradients for pushing ahead
 
 
 ## Natural Language Processing
+* [GPT3: Language Models are Few Shot Learners](summary/GPT3.md), Brown et al, Open AI, 2020 [[arXiv](https://arxiv.org/pdf/2005.14165.pdf)]
+
 * [ELECTRA: Pre-Training Text Encoders As Discriminators Rather Than Genererators](summary/electra.md), Clark et al., Stanford and Google, 2020 [[arXiv](https://arxiv.org/pdf/2003.10555.pdf)]
 
 * [ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations](summary/albert.md), Zhenzhong Lan1, Mingda Chen, 2020 [[arXiv](https://arxiv.org/pdf/1909.11942.pdf)]
