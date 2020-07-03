@@ -12,6 +12,8 @@ This is a niche collection of research papers proven gradients for pushing ahead
 
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](summary/T5.md), Raffel et al, Google, 2019 [[arXiv](https://arxiv.org/pdf/1910.10683.pdf)]
 
+* [RoBERTa: A Robustly Optimized BERT Pretraining Approach](summary/roberta.md), Liu et al. Facebook AI, 2019 [[arXiv](https://arxiv.org/pdf/1907.11692.pdf)]
+
 * [SpanBERT: Improving Pre-training by Representing and Predicting Spans](summary/spanBERT.md), Joshi, Chen, AllenAI, Facebook Research, 2020 [[arXiv](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00300)]
 
 * [Huggingface's Transformers: State-of-the-art Natural Language Processing](summary/huggingface.md), Wolf et al, 2020 [[arXiv](https://arxiv.org/pdf/1910.03771.pdf)]
