@@ -1,6 +1,5 @@
 # grad-AI
-This is a niche collection of research papers proven gradients for pushing ahead the field of Natural Language Processing, Deep Learning and Artificial Intelligence
-
+This is a niche collection of research papers which are proven to be gradients pushing the field of Natural Language Processing, Deep Learning and Artificial Intelligence
 
 
 ## Natural Language Processing
