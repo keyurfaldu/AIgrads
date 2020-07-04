@@ -16,6 +16,8 @@ This is a niche collection of research papers proven gradients for pushing ahead
 
 * [SpanBERT: Improving Pre-training by Representing and Predicting Spans](summary/spanBERT.md), Joshi, Chen, AllenAI, Facebook Research, 2020 [[arXiv](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00300)]
 
+* [UniLM: Unified Language Model Pre-training for Natural Language Understanding and Generation](summary/unilm.md), Dong et al., Microsoft Research, 2019 [[NIPS](http://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation.pdf)]
+
 * [Huggingface's Transformers: State-of-the-art Natural Language Processing](summary/huggingface.md), Wolf et al, 2020 [[arXiv](https://arxiv.org/pdf/1910.03771.pdf)]
 
 * [DistilBERT, a distilled version of BERT: smaller,faster, cheaper and lighter](summary/distilbert.md), Victor SANH, Lysandre DEBUT, Julien CHAUMOND, Thomas WOLF, 2020 [[arXiv](https://arxiv.org/abs/1910.01108)]
