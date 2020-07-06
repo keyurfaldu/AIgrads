@@ -8,6 +8,8 @@ This is a niche collection of research papers proven gradients for pushing ahead
 
 * [ELECTRA: Pre-Training Text Encoders As Discriminators Rather Than Genererators](summary/electra.md), Clark et al., Stanford and Google, 2020 [[arXiv](https://arxiv.org/pdf/2003.10555.pdf)]
 
+* [XLNet: Generalized Autoregressive Pretraining for Language Understanding](summary/xlnet.md), Yang et al. NIPS 2019, Google AI Brain, 2019 [[arXiv](https://arxiv.org/pdf/1906.08237.pdf)]
+
 * [ALBERT: A Lite BERT for Self-Supervised Learning of Language Representations](summary/albert.md), Zhenzhong Lan1, Mingda Chen, 2020 [[arXiv](https://arxiv.org/pdf/1909.11942.pdf)]
 
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](summary/T5.md), Raffel et al, Google, 2019 [[arXiv](https://arxiv.org/pdf/1910.10683.pdf)]
