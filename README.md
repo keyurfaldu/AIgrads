@@ -3,6 +3,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 
 ## Natural Language Processing
+
+* [CHECKLIST: Beyond Accuracy: Behavioral Testing of NLP Models with CHECKLIST](summary/checklist.md), Ribeiro, Wu, Guestrin, Sameer Singh, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)]
+
 * [GPT3: Language Models are Few Shot Learners](summary/GPT3.md), Brown et al, Open AI, 2020 [[arXiv](https://arxiv.org/pdf/2005.14165.pdf)]
 
 * [ELECTRA: Pre-Training Text Encoders As Discriminators Rather Than Genererators](summary/electra.md), Clark et al., Stanford and Google, 2020 [[arXiv](https://arxiv.org/pdf/2003.10555.pdf)]
