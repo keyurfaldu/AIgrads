@@ -6,11 +6,11 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [CHECKLIST: Beyond Accuracy: Behavioral Testing of NLP Models with CHECKLIST](summary/checklist.md), Ribeiro, Wu, Guestrin, Sameer Singh, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)]
 
-* [What do you Learn from Context? Probing for Sentence Structure in Contextualized Word Representations](https://openreview.net/pdf?id=SJzSgnRcKX), ICLR 2019, Tenney at el [[openreview](https://openreview.net/pdf?id=SJzSgnRcKX)]
-
 * [GPT3: Language Models are Few Shot Learners](summary/GPT3.md), Brown et al, Open AI, 2020 [[arXiv](https://arxiv.org/pdf/2005.14165.pdf)]
 
 * [ELECTRA: Pre-Training Text Encoders As Discriminators Rather Than Genererators](summary/electra.md), Clark et al., Stanford and Google, 2020 [[arXiv](https://arxiv.org/pdf/2003.10555.pdf)]
+
+* [What do you Learn from Context? Probing for Sentence Structure in Contextualized Word Representations](https://openreview.net/pdf?id=SJzSgnRcKX), ICLR 2019, Tenney at el [[openreview](https://openreview.net/pdf?id=SJzSgnRcKX)]
 
 * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](summary/xlnet.md), Yang et al. NIPS 2019, Google AI Brain, 2019 [[arXiv](https://arxiv.org/pdf/1906.08237.pdf)]
 
