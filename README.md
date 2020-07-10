@@ -10,7 +10,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [ELECTRA: Pre-Training Text Encoders As Discriminators Rather Than Genererators](summary/electra.md), Clark et al., Stanford and Google, 2020 [[arXiv](https://arxiv.org/pdf/2003.10555.pdf)]
 
-* [What do you Learn from Context? Probing for Sentence Structure in Contextualized Word Representations](https://openreview.net/pdf?id=SJzSgnRcKX), ICLR 2019, Tenney at el [[openreview](https://openreview.net/pdf?id=SJzSgnRcKX)]
+* [What do you Learn from Context? Probing for Sentence Structure in Contextualized Word Representations](summary/edge_probing.md), ICLR 2019, Tenney at el [[openreview](https://openreview.net/pdf?id=SJzSgnRcKX)]
 
 * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](summary/xlnet.md), Yang et al. NIPS 2019, Google AI Brain, 2019 [[arXiv](https://arxiv.org/pdf/1906.08237.pdf)]
 
