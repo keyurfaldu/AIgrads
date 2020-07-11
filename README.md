@@ -8,6 +8,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [GPT3: Language Models are Few Shot Learners](summary/GPT3.md), Brown et al, Open AI, 2020 [[arXiv](https://arxiv.org/pdf/2005.14165.pdf)]
 
+
 * [ELECTRA: Pre-Training Text Encoders As Discriminators Rather Than Genererators](summary/electra.md), Clark et al., Stanford and Google, 2020 [[arXiv](https://arxiv.org/pdf/2003.10555.pdf)]
 
 * [What do you Learn from Context? Probing for Sentence Structure in Contextualized Word Representations](summary/edge_probing.md), ICLR 2019, Tenney at el [[openreview](https://openreview.net/pdf?id=SJzSgnRcKX)]
@@ -24,7 +25,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [UniLM: Unified Language Model Pre-training for Natural Language Understanding and Generation](summary/unilm.md), Dong et al., Microsoft Research, 2019 [[NIPS](http://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation.pdf)]
 
-* [Huggingface's Transformers: State-of-the-art Natural Language Processing](summary/huggingface.md), Wolf et al, 2020 [[arXiv](https://arxiv.org/pdf/1910.03771.pdf)]
+
 
 * [DistilBERT, a distilled version of BERT: smaller,faster, cheaper and lighter](summary/distilbert.md), Victor SANH, Lysandre DEBUT, Julien CHAUMOND, Thomas WOLF, 2020 [[arXiv](https://arxiv.org/abs/1910.01108)]
 
@@ -47,6 +48,12 @@ This is a niche collection of research papers which are proven to be gradients p
 * [GPT: Improving Language Understanding by Generative Pre-Training](summary/gpt.md) Alec Radford, Karthik Narasimhan, Tim Saliman, Ilya Sutskever @ OpenAI, 2018 [[OpenAI](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)]
 
 * [Attention Is All You Need](summary/transformers.md), Vaswani et al, 2017 [[arXiv](https://arxiv.org/pdf/1706.03762.pdf)]
+
+## Software packages on NLP
+* [jiant: A Software Toolkit for Research
+on General-Purpose Text Understanding Models](summary/jiant.md), Pruksachatkun et al, 2020 [[arXiv](https://arxiv.org/pdf/2003.02249.pdf)]
+
+* [Huggingface's Transformers: State-of-the-art Natural Language Processing](summary/huggingface.md), Wolf et al, 2020 [[arXiv](https://arxiv.org/pdf/1910.03771.pdf)]
 
 ## Deep Learning
 * [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](summary/one_cycle_learning.md), Leslie N Smith, 2018 [[arXiv](https://arxiv.org/abs/1803.09820)]

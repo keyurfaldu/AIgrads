@@ -37,6 +37,8 @@
 
         <img width=600 src="https://i.upmath.me/svg/%5Cmathcal%7BL%7D_%7B%5Cmathrm%7BDisc%7D%7D%5Cleft(%5Cboldsymbol%7Bx%7D%2C%20%5Ctheta_%7BD%7D%5Cright)%3D%5Cmathbb%7BE%7D%5Cleft(%5Csum_%7Bt%3D1%7D%5E%7Bn%7D-%5Cmathbb%7B1%7D%5Cleft(x_%7Bt%7D%5E%7B%5Cmathrm%7Bcorrupt%7D%7D%3Dx_%7Bt%7D%5Cright)%20%5Clog%20D%5Cleft(%5Cboldsymbol%7Bx%7D%5E%7B%5Cmathrm%7Bcorrupt%7D%7D%2C%20t%5Cright)-%5Cmathbb%7B1%7D%5Cleft(x_%7Bt%7D%5E%7B%5Cmathrm%7Bcorrupt%7D%7D%20%5Cneq%20x_%7Bt%7D%5Cright)%20%5Clog%20%5Cleft(1-D%5Cleft(%5Cboldsymbol%7Bx%7D%5E%7B%5Cmathrm%7Bcorrupt%7D%7D%2C%20t%5Cright)%5Cright)%5Cright)" alt="\mathcal{L}_{\mathrm{Disc}}\left(\boldsymbol{x}, \theta_{D}\right)=\mathbb{E}\left(\sum_{t=1}^{n}-\mathbb{1}\left(x_{t}^{\mathrm{corrupt}}=x_{t}\right) \log D\left(\boldsymbol{x}^{\mathrm{corrupt}}, t\right)-\mathbb{1}\left(x_{t}^{\mathrm{corrupt}} \neq x_{t}\right) \log \left(1-D\left(\boldsymbol{x}^{\mathrm{corrupt}}, t\right)\right)\right)" />
 
+* It ties embeddings and positional embeddings of generators and discriminator, the real benefit in learning represnetation comes from generator, as its softmaxt modifies all the embeddings, while discriminator only alter tokens present in the input.
+
 * Experiments shows generator of size 1/4 does better 
 
 * Electra small takes just 4 days on 1 GPU V100 to get trained from scratch, and gives 79.9 performance on GLUE Benchmark.
