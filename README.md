@@ -1,9 +1,6 @@
 # grad-AI
 This is a niche collection of research papers which are proven to be gradients pushing the field of Natural Language Processing, Deep Learning and Artificial Intelligence
 
-## Knowledge Graphs + NLP
-
-* [EmbedKGQA: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](summary/embed_kgqa.md), Apoorv Saxena, Aditay Tripathi, Partha Talukdar, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.412.pdf)]
 
 ## Natural Language Processing
 
@@ -29,7 +26,6 @@ This is a niche collection of research papers which are proven to be gradients p
 * [UniLM: Unified Language Model Pre-training for Natural Language Understanding and Generation](summary/unilm.md), Dong et al., Microsoft Research, 2019 [[NIPS](http://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation.pdf)]
 
 
-
 * [DistilBERT, a distilled version of BERT: smaller,faster, cheaper and lighter](summary/distilbert.md), Victor SANH, Lysandre DEBUT, Julien CHAUMOND, Thomas WOLF, 2020 [[arXiv](https://arxiv.org/abs/1910.01108)]
 
 * [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](summary/bart.md), Lewis et al. [[arXiv](https://arxiv.org/pdf/1910.13461.pdf)]
@@ -51,6 +47,11 @@ This is a niche collection of research papers which are proven to be gradients p
 * [GPT: Improving Language Understanding by Generative Pre-Training](summary/gpt.md) Alec Radford, Karthik Narasimhan, Tim Saliman, Ilya Sutskever @ OpenAI, 2018 [[OpenAI](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)]
 
 * [Attention Is All You Need](summary/transformers.md), Vaswani et al, 2017 [[arXiv](https://arxiv.org/pdf/1706.03762.pdf)]
+
+## Knowledge Graphs + NLP
+
+* [EmbedKGQA: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](summary/embed_kgqa.md), Apoorv Saxena, Aditay Tripathi, Partha Talukdar, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.412.pdf)]
+
 
 ## Software packages on NLP
 * [jiant: A Software Toolkit for Research
