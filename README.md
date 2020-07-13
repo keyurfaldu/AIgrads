@@ -1,6 +1,9 @@
 # grad-AI
 This is a niche collection of research papers which are proven to be gradients pushing the field of Natural Language Processing, Deep Learning and Artificial Intelligence
 
+## Knowledge Graphs + NLP
+
+* [EmbedKGQA: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](summary/embedkgqa.md), Apoorv Saxena, Aditay Tripathi, Partha Talukdar, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.412.pdf)]
 
 ## Natural Language Processing
 

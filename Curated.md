@@ -3,3 +3,5 @@
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](https://www.aclweb.org/anthology/D19-3002.pdf) 
 * [jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models](https://arxiv.org/pdf/2003.02249.pdf)
 * [Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs](https://arxiv.org/pdf/1909.02597.pdf)
+
+* [NILE : Natural Language Inference with Faithful Natural LanguageExplanations](https://www.aclweb.org/anthology/2020.acl-main.771.pdf)
