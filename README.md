@@ -30,15 +30,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](summary/bart.md), Lewis et al. [[arXiv](https://arxiv.org/pdf/1910.13461.pdf)]
 
-* [Multi-Task Deep Neural Networks for Natural Language Understanding](summary/MTDNN_GLUE.md), Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, 2019 [[arXiv](https://arxiv.org/abs/1901.11504)]
 
 * [MASS: Masked Sequence to Sequence Pre-training for Language Generation](summary/mass.md), Song et al. [[arXiv](https://arxiv.org/pdf/1905.02450.pdf)]
-
-* [Are Sixteen Heads Really Better than One?](summary/sixteen_heads.md), Paul Michel, Omer Levy, Graham Neubig, 2019 [[arXiv](https://arxiv.org/pdf/1905.10650.pdf)]
-
-* [What Does BERT Look At? An Analysis of BERT’s Attention](summary/bert_analysis.md), Kevin Clark, Urvashi Khandelwal, Omer Levy, Christopher D. Manning, 2019 [[arXiv](https://arxiv.org/abs/1906.04341)]
-
-* [BERT Rediscovers the Classical NLP Pipeline](summary/bert_analysis_nlp_pipeline.md), Ian Tenney, Dipanjan Das, Ellie Pavlick, 2019 [[arXiv](https://arxiv.org/pdf/1905.05950.pdf)]
 
 * [GPT-2: Language Models are Unsupervised Multitask Learners](summary/gpt2.md) Radford et al. 2018, OpenAI [[OpenAI](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)]
 
@@ -47,6 +40,20 @@ This is a niche collection of research papers which are proven to be gradients p
 * [GPT: Improving Language Understanding by Generative Pre-Training](summary/gpt.md) Alec Radford, Karthik Narasimhan, Tim Saliman, Ilya Sutskever @ OpenAI, 2018 [[OpenAI](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)]
 
 * [Attention Is All You Need](summary/transformers.md), Vaswani et al, 2017 [[arXiv](https://arxiv.org/pdf/1706.03762.pdf)]
+
+## Multi task learning
+
+* [Multi-Task Deep Neural Networks for Natural Language Understanding](summary/MTDNN_GLUE.md), Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, 2019 [[arXiv](https://arxiv.org/abs/1901.11504)]
+
+* [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](summary/bam_mutli_task.md), Kevin Clark, Christopher D. Manning et al. [[arXiv](https://arxiv.org/pdf/1907.04829.pdf)]
+
+## Probing and Interpretability
+
+* [Are Sixteen Heads Really Better than One?](summary/sixteen_heads.md), Paul Michel, Omer Levy, Graham Neubig, 2019 [[arXiv](https://arxiv.org/pdf/1905.10650.pdf)]
+
+* [What Does BERT Look At? An Analysis of BERT’s Attention](summary/bert_analysis.md), Kevin Clark, Urvashi Khandelwal, Omer Levy, Christopher D. Manning, 2019 [[arXiv](https://arxiv.org/abs/1906.04341)]
+
+* [BERT Rediscovers the Classical NLP Pipeline](summary/bert_analysis_nlp_pipeline.md), Ian Tenney, Dipanjan Das, Ellie Pavlick, 2019 [[arXiv](https://arxiv.org/pdf/1905.05950.pdf)]
 
 ## Knowledge Graphs + NLP
 
@@ -67,6 +74,8 @@ on General-Purpose Text Understanding Models](summary/jiant.md), Pruksachatkun e
 * [Kaiming Initialization: Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](summary/kaiming_initialization.md), Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun [[arXiv]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
 
 * [LAMB: Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](summary/lamb.md), Yang You, Jing Li [[arXiv]](https://arxiv.org/abs/1904.00962)
+
+
 
 
 
