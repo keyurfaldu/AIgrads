@@ -45,7 +45,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Multi-Task Deep Neural Networks for Natural Language Understanding](summary/MTDNN_GLUE.md), Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, 2019 [[arXiv](https://arxiv.org/abs/1901.11504)]
 
-* [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](summary/bam_mutli_task.md), Kevin Clark, Christopher D. Manning et al. [[arXiv](https://arxiv.org/pdf/1907.04829.pdf)]
+* [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](summary/bam_multi_task.md), Kevin Clark, Christopher D. Manning et al. [[arXiv](https://arxiv.org/pdf/1907.04829.pdf)]
 
 ## Probing and Interpretability
 
