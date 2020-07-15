@@ -55,6 +55,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [BERT Rediscovers the Classical NLP Pipeline](summary/bert_analysis_nlp_pipeline.md), Ian Tenney, Dipanjan Das, Ellie Pavlick, 2019 [[arXiv](https://arxiv.org/pdf/1905.05950.pdf)]
 
+* [NILE:  NILE : Natural Language Inference with Faithful Natural Language Explanations](summary/nile.md), Sawan Kumar, Partha Talukdar, 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.771.pdf)]
+
 ## Knowledge Graphs + NLP
 
 * [EmbedKGQA: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](summary/embed_kgqa.md), Apoorv Saxena, Aditay Tripathi, Partha Talukdar, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.412.pdf)]
