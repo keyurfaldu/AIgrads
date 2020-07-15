@@ -47,3 +47,8 @@
         * These models are independent for each labels
 
     * Explanation processor has cross entropy loss over label prediction
+
+**Results and takeaways**
+* NILE with access to premise, hypothesis, and negative sampling has done much better, and its almost similar in performance with NILE:post-hoc, where explanations are produced in post hoc manner.
+* NILE without negative sampling is not faitful, as sensitivity analysis reveals it.
+* NILE-PH rely just on the explanation, that is interesting, and it is outperforming ETPA (e-SNLI: Natural Language Inference with Natural Language Explanations, Camburu 2018)
