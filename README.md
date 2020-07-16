@@ -55,6 +55,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [BERT Rediscovers the Classical NLP Pipeline](summary/bert_analysis_nlp_pipeline.md), Ian Tenney, Dipanjan Das, Ellie Pavlick, 2019 [[arXiv](https://arxiv.org/pdf/1905.05950.pdf)]
 
+* [A Structural Probe for Finding Syntax in Word Representations](summary/structural_probe.md), John Hewitt, Christopher D. Manning, 2019, NAACL 2019, Standford [[arXiv](https://nlp.stanford.edu/pubs/hewitt2019structural.pdf)]
+
 * [NILE:  NILE : Natural Language Inference with Faithful Natural Language Explanations](summary/nile.md), Sawan Kumar, Partha Talukdar, 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.771.pdf)]
 
 ## Knowledge Graphs + NLP
