@@ -17,3 +17,9 @@
 * [Multilingual Neural Machine Translation with Knowledge Distillation](https://arxiv.org/abs/1902.10461)
 
 * Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks
+
+* Open Sesame: Getting Inside BERT’s Linguistic Knowledge [MUST READ]
+
+* What does BERT learn about the structure of language? [Aug-2019,]
+
+* Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned

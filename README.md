@@ -61,7 +61,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [A Structural Probe for Finding Syntax in Word Representations](summary/structural_probe.md), John Hewitt, Christopher D. Manning, 2019, NAACL 2019, Standford [[arXiv](https://nlp.stanford.edu/pubs/hewitt2019structural.pdf)]
 
-* [NILE:  NILE : Natural Language Inference with Faithful Natural Language Explanations](summary/nile.md), Sawan Kumar, Partha Talukdar, 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.771.pdf)]
+* [On Identifiability in Transformers](summary/identifiability.md), Brunner, Liu, Pascual, Richter, Ciaramita, Wattenhofer, Google Research, ICLR 2020 [[arXiv](https://openreview.net/pdf?id=BJg1f6EFDB)]
+
+* [NILE : Natural Language Inference with Faithful Natural Language Explanations](summary/nile.md), Sawan Kumar, Partha Talukdar, 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.771.pdf)]
+
 
 ## Knowledge Graphs + NLP
 
