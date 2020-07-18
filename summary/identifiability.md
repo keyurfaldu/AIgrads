@@ -10,9 +10,10 @@
 * Effective Attention:
     * Mathematical proof on how left null space of T, LN(T)can be added into Attention matrix and it would still produce same outcomes.
 
-    <img src="https://i.upmath.me/svg/%5Ctext%20%7B%20Attention%20%7D(%5Cboldsymbol%7BQ%7D%2C%20%5Cboldsymbol%7BK%7D%2C%20%5Cboldsymbol%7BV%7D)%20%5Cboldsymbol%7BH%7D%3D%5Cboldsymbol%7BA%7D%20%5Cboldsymbol%7BE%7D%20%5Cboldsymbol%7BW%7D%5E%7BV%7D%20%5Cboldsymbol%7BH%7D%3D%5Cboldsymbol%7BA%7D%20%5Cboldsymbol%7BT%7D" alt="\text { Attention }(\boldsymbol{Q}, \boldsymbol{K}, \boldsymbol{V}) \boldsymbol{H}=\boldsymbol{A} \boldsymbol{E} \boldsymbol{W}^{V} \boldsymbol{H}=\boldsymbol{A} \boldsymbol{T}" />
+    * <img src="https://i.upmath.me/svg/%5Ctext%20%7B%20Attention%20%7D(%5Cboldsymbol%7BQ%7D%2C%20%5Cboldsymbol%7BK%7D%2C%20%5Cboldsymbol%7BV%7D)%20%5Cboldsymbol%7BH%7D%3D%5Cboldsymbol%7BA%7D%20%5Cboldsymbol%7BE%7D%20%5Cboldsymbol%7BW%7D%5E%7BV%7D%20%5Cboldsymbol%7BH%7D%3D%5Cboldsymbol%7BA%7D%20%5Cboldsymbol%7BT%7D" alt="\text { Attention }(\boldsymbol{Q}, \boldsymbol{K}, \boldsymbol{V}) \boldsymbol{H}=\boldsymbol{A} \boldsymbol{E} \boldsymbol{W}^{V} \boldsymbol{H}=\boldsymbol{A} \boldsymbol{T}" />
 
-    <img src="https://i.upmath.me/svg/%5Cboldsymbol%7BW%7D%5E%7BV%7D%20%5Cin%20%5Cmathbb%7BR%7D%5E%7Bd%20%5Ctimes%20d_%7Bv%7D%7D%2C%20%5Cboldsymbol%7BV%7D%3D%5Cboldsymbol%7BE%7D%20%5Cboldsymbol%7BW%7D%5E%7BV%7D%2C%20%5Cboldsymbol%7BT%7D%3D%5Cboldsymbol%7BE%7D%20%5Cboldsymbol%7BW%7D%5E%7BV%7D%20%5Cboldsymbol%7BH%7D" alt="\boldsymbol{W}^{V} \in \mathbb{R}^{d \times d_{v}}, \boldsymbol{V}=\boldsymbol{E} \boldsymbol{W}^{V}, \boldsymbol{T}=\boldsymbol{E} \boldsymbol{W}^{V} \boldsymbol{H}" />
+
+    * <img src="https://i.upmath.me/svg/%5Cboldsymbol%7BW%7D%5E%7BV%7D%20%5Cin%20%5Cmathbb%7BR%7D%5E%7Bd%20%5Ctimes%20d_%7Bv%7D%7D%2C%20%5Cboldsymbol%7BV%7D%3D%5Cboldsymbol%7BE%7D%20%5Cboldsymbol%7BW%7D%5E%7BV%7D%2C%20%5Cboldsymbol%7BT%7D%3D%5Cboldsymbol%7BE%7D%20%5Cboldsymbol%7BW%7D%5E%7BV%7D%20%5Cboldsymbol%7BH%7D" alt="\boldsymbol{W}^{V} \in \mathbb{R}^{d \times d_{v}}, \boldsymbol{V}=\boldsymbol{E} \boldsymbol{W}^{V}, \boldsymbol{T}=\boldsymbol{E} \boldsymbol{W}^{V} \boldsymbol{H}" />
 
     * LN(T) would be non empty if rank of matrix T is lesser than sequence_legth, and that would be the case when sequence_length is greater than dimensions of attention heads. Which is 64 in BERT.
 
