@@ -15,15 +15,27 @@ This paper tries to analyse BERT's representation and attentions, and establish 
     * Main Auxiliary: Sharply increase in initial layers, reaches peak at layer 5, and tapers off afterwards
     * Subject Noun: Improves initially, peak at layer 5 and then gradually dropa
     * Nth token: Falls sharply on layer on layer, with max value at initial layer. Almost give away positional info after 4th layer or so.
+    * Dataset sample for training and testing with generalisation is as below:
+
+    <p align="center">
+        <img width=600 src="images/sesame_table1.png">
+        <em>Source: Author</em>
+        </p>
 
 * Diagnostic Attention: Intrusion effect on attention: 
     * Datasets were augmented using CFG to inroduce distractor nouns etc. It inserts relative clause for subject, and additional nouns with match and mismatch genders.
+    * Dataset sample for training and testing with generalisation is as below:
+     <p align="center">
+        <img width=600 src="images/sesame_table2.png">
+        <em>Source: Author</em>
+        </p>
     * Compute attention as some over all heads in layer l from X to Y. Where, x_i \in X are lignuistic units of interest (potential trigger) and Y is dependecy target. It computes attentions for each pair (x_i, Y)
     * Confusion score is negative log of expected attention (i.e. attn(x_1, Y)) over attention over all x_i.
     * Two tasks were analysed. 
         * Subject verb aggrement and 
         * Reflexive anaphora 
     * Analysis shows that confusion score is similar to random baseline (so, attention do not directly maximi) but it is sensitive towards distractors. i.e. in following figure confusion score gets lower as layers increases. And, each line are for different kinds of distractors with varying complexity. 
+    
 
     <p align="center">
         <img width=600 src="images/sesame_confusion_score.png">
