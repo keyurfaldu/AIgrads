@@ -67,6 +67,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [NILE : Natural Language Inference with Faithful Natural Language Explanations](summary/nile.md), Sawan Kumar, Partha Talukdar, 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.771.pdf)]
 
+* [Quantifying Attention Flow in Transformers](summary/attention_flow.md), Samira Abnar, Willem Zuidema, ACL 2020 [[arXiv](https://arxiv.org/pdf/2005.00928.pdf)] 
+
 
 ## Knowledge Graphs + NLP
 
