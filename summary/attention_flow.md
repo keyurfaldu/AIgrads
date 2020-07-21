@@ -36,3 +36,5 @@
         <img width=600 src="images/attention_flow_rollout_flow.png">
         <em>Source: Author</em>
         </p>
+
+    * SpearmanR correlation with importance computed with input gradient was computed and it was higher for Attention Flow followed by Attention Rollout. 
