@@ -20,13 +20,13 @@
 
 * What does BERT learn about the structure of language? [Aug-2019,]
 
+* Analyzing the Structure of Attention in a Transformer Language Model
+
 * Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned
 
 * Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?, ACL 2020
 
 * Towards Transparent and Explainable Attention Models, ACL 2020
-
-* Understanding Attention for Text Classification, ACL 2020
 
 * Spying on Your Neighbors: Fine-grained Probing of Contextual Embeddings for Information about Surrounding Words, ACL 2020
 

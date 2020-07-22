@@ -72,6 +72,7 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Human Attention Maps for Text Classification: Do Humans and Neural Networks Focus on the Same Words?](summary/human_attention_comparision.md) Sen et al, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.419.pdf)]
 ]
 
+* [Understanding Attention for Text Classification](summary/understanding_attention.md), Xiaobing Sun and Wei Lu, Singapore University, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.312.pdf)]
 
 ## Knowledge Graphs + NLP
 
