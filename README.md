@@ -6,6 +6,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [CHECKLIST: Beyond Accuracy: Behavioral Testing of NLP Models with CHECKLIST](summary/checklist.md), Ribeiro, Wu, Guestrin, Sameer Singh, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)]
 
+* [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](summary/pegasus.md), Jingqing Zhang, Yao Zhao, Mohammad Saleh, Peter J Liu. Google Research, ICML 2020 [[arXiv](https://arxiv.org/pdf/1912.08777.pdf)]
+
 * [GPT3: Language Models are Few Shot Learners](summary/GPT3.md), Brown et al, Open AI, 2020 [[arXiv](https://arxiv.org/pdf/2005.14165.pdf)]
 
 
