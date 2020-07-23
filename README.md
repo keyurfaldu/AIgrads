@@ -1,19 +1,13 @@
 # grad-AI
 This is a niche collection of research papers which are proven to be gradients pushing the field of Natural Language Processing, Deep Learning and Artificial Intelligence
 
-
-## Natural Language Processing
-
-* [CHECKLIST: Beyond Accuracy: Behavioral Testing of NLP Models with CHECKLIST](summary/checklist.md), Ribeiro, Wu, Guestrin, Sameer Singh, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)]
+## NLP Pretraining
 
 * [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](summary/pegasus.md), Jingqing Zhang, Yao Zhao, Mohammad Saleh, Peter J Liu. Google Research, ICML 2020 [[arXiv](https://arxiv.org/pdf/1912.08777.pdf)]
 
 * [GPT3: Language Models are Few Shot Learners](summary/GPT3.md), Brown et al, Open AI, 2020 [[arXiv](https://arxiv.org/pdf/2005.14165.pdf)]
 
-
 * [ELECTRA: Pre-Training Text Encoders As Discriminators Rather Than Genererators](summary/electra.md), Clark et al., Stanford and Google, 2020 [[arXiv](https://arxiv.org/pdf/2003.10555.pdf)]
-
-* [What do you Learn from Context? Probing for Sentence Structure in Contextualized Word Representations](summary/edge_probing.md), ICLR 2019, Tenney at el [[openreview](https://openreview.net/pdf?id=SJzSgnRcKX)]
 
 * [XLNet: Generalized Autoregressive Pretraining for Language Understanding](summary/xlnet.md), Yang et al. NIPS 2019, Google AI Brain, 2019 [[arXiv](https://arxiv.org/pdf/1906.08237.pdf)]
 
@@ -27,11 +21,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [UniLM: Unified Language Model Pre-training for Natural Language Understanding and Generation](summary/unilm.md), Dong et al., Microsoft Research, 2019 [[NIPS](http://papers.nips.cc/paper/9464-unified-language-model-pre-training-for-natural-language-understanding-and-generation.pdf)]
 
-
 * [DistilBERT, a distilled version of BERT: smaller,faster, cheaper and lighter](summary/distilbert.md), Victor SANH, Lysandre DEBUT, Julien CHAUMOND, Thomas WOLF, 2020 [[arXiv](https://arxiv.org/abs/1910.01108)]
 
 * [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](summary/bart.md), Lewis et al. [[arXiv](https://arxiv.org/pdf/1910.13461.pdf)]
-
 
 * [MASS: Masked Sequence to Sequence Pre-training for Language Generation](summary/mass.md), Song et al. [[arXiv](https://arxiv.org/pdf/1905.02450.pdf)]
 
@@ -54,6 +46,8 @@ This is a niche collection of research papers which are proven to be gradients p
 * [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](summary/bam_multi_task.md), Kevin Clark, Christopher D. Manning et al. [[arXiv](https://arxiv.org/pdf/1907.04829.pdf)]
 
 ## Probing and Interpretability
+
+* [What do you Learn from Context? Probing for Sentence Structure in Contextualized Word Representations](summary/edge_probing.md), ICLR 2019, Tenney at el [[openreview](https://openreview.net/pdf?id=SJzSgnRcKX)]
 
 * [Are Sixteen Heads Really Better than One?](summary/sixteen_heads.md), Paul Michel, Omer Levy, Graham Neubig, 2019 [[arXiv](https://arxiv.org/pdf/1905.10650.pdf)]
 
@@ -80,14 +74,17 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [EmbedKGQA: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](summary/embed_kgqa.md), Apoorv Saxena, Aditay Tripathi, Partha Talukdar, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.412.pdf)]
 
-
 ## Software packages on NLP
-* [jiant: A Software Toolkit for Research
-on General-Purpose Text Understanding Models](summary/jiant.md), Pruksachatkun et al, 2020 [[arXiv](https://arxiv.org/pdf/2003.02249.pdf)]
+* [jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models](summary/jiant.md), Pruksachatkun et al, 2020 [[arXiv](https://arxiv.org/pdf/2003.02249.pdf)]
 
 * [Huggingface's Transformers: State-of-the-art Natural Language Processing](summary/huggingface.md), Wolf et al, 2020 [[arXiv](https://arxiv.org/pdf/1910.03771.pdf)]
 
-## Deep Learning
+
+## NLP Metrics
+
+* [CHECKLIST: Beyond Accuracy: Behavioral Testing of NLP Models with CHECKLIST](summary/checklist.md), Ribeiro, Wu, Guestrin, Sameer Singh, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)]
+
+## Deep Learning Building Blocks
 * [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](summary/one_cycle_learning.md), Leslie N Smith, 2018 [[arXiv](https://arxiv.org/abs/1803.09820)]
 
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](summary/batch_normalization), Sergey Ioffe, Christian Szegedy, 2015 [[arXiv](https://arxiv.org/pdf/1502.03167.pdf)]
@@ -95,8 +92,3 @@ on General-Purpose Text Understanding Models](summary/jiant.md), Pruksachatkun e
 * [Kaiming Initialization: Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](summary/kaiming_initialization.md), Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun [[arXiv]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
 
 * [LAMB: Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](summary/lamb.md), Yang You, Jing Li [[arXiv]](https://arxiv.org/abs/1904.00962)
-
-
-
-
-
