@@ -55,6 +55,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [BERT Rediscovers the Classical NLP Pipeline](summary/bert_analysis_nlp_pipeline.md), Ian Tenney, Dipanjan Das, Ellie Pavlick, 2019 [[arXiv](https://arxiv.org/pdf/1905.05950.pdf)]
 
+* [Designing and Interpreting Probes with Control Tasks](summary/designing_probes.md), John Hewitt, Percy Liang [[arXiv](https://www.aclweb.org/anthology/D19-1275.pdf)]
+
 * [Open Sesame: Getting Inside BERT’s Linguistic Knowledge](summary/sesame.md), Yongjie Lin, Yi Chern Tan, Robert Frank, 2019 [[arXiv](https://arxiv.org/pdf/1906.01698.pdf)]
 
 * [A Structural Probe for Finding Syntax in Word Representations](summary/structural_probe.md), John Hewitt, Christopher D. Manning, 2019, NAACL 2019, Standford [[arXiv](https://nlp.stanford.edu/pubs/hewitt2019structural.pdf)]
