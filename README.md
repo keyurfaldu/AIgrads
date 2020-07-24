@@ -55,7 +55,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [BERT Rediscovers the Classical NLP Pipeline](summary/bert_analysis_nlp_pipeline.md), Ian Tenney, Dipanjan Das, Ellie Pavlick, 2019 [[arXiv](https://arxiv.org/pdf/1905.05950.pdf)]
 
-* [Designing and Interpreting Probes with Control Tasks](summary/designing_probes.md), John Hewitt, Percy Liang [[arXiv](https://www.aclweb.org/anthology/D19-1275.pdf)]
+* [Designing and Interpreting Probes with Control Tasks](summary/designing_probes.md), John Hewitt, Percy Liang, EMNLP-2019 [[arXiv](https://www.aclweb.org/anthology/D19-1275.pdf)]
 
 * [Open Sesame: Getting Inside BERT’s Linguistic Knowledge](summary/sesame.md), Yongjie Lin, Yi Chern Tan, Robert Frank, 2019 [[arXiv](https://arxiv.org/pdf/1906.01698.pdf)]
 
@@ -80,6 +80,8 @@ This is a niche collection of research papers which are proven to be gradients p
 * [jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models](summary/jiant.md), Pruksachatkun et al, 2020 [[arXiv](https://arxiv.org/pdf/2003.02249.pdf)]
 
 * [Huggingface's Transformers: State-of-the-art Natural Language Processing](summary/huggingface.md), Wolf et al, 2020 [[arXiv](https://arxiv.org/pdf/1910.03771.pdf)]
+
+* [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](summary/allen_nlp.md), Wallace et al, 2019 EMNLP [[arXiv](https://www.aclweb.org/anthology/D19-3002.pdf)]
 
 
 ## NLP Metrics
