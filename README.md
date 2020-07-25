@@ -96,3 +96,5 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Kaiming Initialization: Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](summary/kaiming_initialization.md), Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun [[arXiv]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
 
 * [LAMB: Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](summary/lamb.md), Yang You, Jing Li [[arXiv]](https://arxiv.org/abs/1904.00962)
+
+* [Sentencepience: Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates](summary/sentencepiece.md) Taku Kudo, Google, 2018 [[arXiv](https://arxiv.org/abs/1804.10959)]
