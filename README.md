@@ -51,6 +51,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Are Sixteen Heads Really Better than One?](summary/sixteen_heads.md), Paul Michel, Omer Levy, Graham Neubig, 2019 [[arXiv](https://arxiv.org/pdf/1905.10650.pdf)]
 
+* [Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs](summary/bert_npi.md) Warstadt et al. [[arXiv](https://arxiv.org/pdf/1909.02597.pdf)]
+
 * [What Does BERT Look At? An Analysis of BERT’s Attention](summary/bert_analysis.md), Kevin Clark, Urvashi Khandelwal, Omer Levy, Christopher D. Manning, 2019 [[arXiv](https://arxiv.org/abs/1906.04341)]
 
 * [BERT Rediscovers the Classical NLP Pipeline](summary/bert_analysis_nlp_pipeline.md), Ian Tenney, Dipanjan Das, Ellie Pavlick, 2019 [[arXiv](https://arxiv.org/pdf/1905.05950.pdf)]
