@@ -15,6 +15,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [T5: Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](summary/T5.md), Raffel et al, Google, 2019 [[arXiv](https://arxiv.org/pdf/1910.10683.pdf)]
 
+
 * [RoBERTa: A Robustly Optimized BERT Pretraining Approach](summary/roberta.md), Liu et al. Facebook AI, 2019 [[arXiv](https://arxiv.org/pdf/1907.11692.pdf)]
 
 * [SpanBERT: Improving Pre-training by Representing and Predicting Spans](summary/spanBERT.md), Joshi, Chen, AllenAI, Facebook Research, 2020 [[arXiv](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00300)]
@@ -75,6 +76,8 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Understanding Attention for Text Classification](summary/understanding_attention.md), Xiaobing Sun and Wei Lu, Singapore University, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.312.pdf)]
 
 ## Knowledge Graphs + NLP
+
+* [ERNIE: Enhanced Language Representation with Informative Entities](summary/ernie.md), Zhang et al, ACL 2019 [[arXiv](https://arxiv.org/pdf/1905.07129.pdf)]
 
 * [EmbedKGQA: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](summary/embed_kgqa.md), Apoorv Saxena, Aditay Tripathi, Partha Talukdar, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.412.pdf)]
 
