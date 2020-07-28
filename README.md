@@ -48,6 +48,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Probing and Interpretability
 
+* [Attention is not Explanation](summary/attention_not_explanation.md), Sarthak Jain, Byron C Wallace, NAACL-2019, [[arXiv](https://arxiv.org/pdf/1902.10186.pdf)]
+
 * [What do you Learn from Context? Probing for Sentence Structure in Contextualized Word Representations](summary/edge_probing.md), ICLR 2019, Tenney at el [[openreview](https://openreview.net/pdf?id=SJzSgnRcKX)]
 
 * [Are Sixteen Heads Really Better than One?](summary/sixteen_heads.md), Paul Michel, Omer Levy, Graham Neubig, 2019 [[arXiv](https://arxiv.org/pdf/1905.10650.pdf)]

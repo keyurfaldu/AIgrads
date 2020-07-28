@@ -1,6 +1,8 @@
 **DEEP LEARNING BUILDING BLOCKS**
 * [Adam: A Method for Stochastic Optimization](https://arxiv.org/abs/1412.6980), 2014, [49687 citations]
 
+* [Additive Attention: Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473), ICLR 2015, [13149 citations]
+
 * [Exact solutions to the nonlinear dynamics of learning in deep linear neural networks](https://arxiv.org/abs/1312.6120) ICLR2014 [894 citations]
 
 * [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/abs/1508.07909), ACL 2016, 3000 citations **BPE Paper**
@@ -128,8 +130,6 @@
 * [THE CURIOUS CASE OF NEURAL TEXT DeGENERATION](https://arxiv.org/pdf/1904.09751.pdf), ICLR 2020
 
 **INTERPRETABILITY**
-
-* [Attention is not Explanation](https://arxiv.org/abs/1902.10186), NAACL-2019, [152 citations]
 
 * [Is Attention Interpretable?](https://arxiv.org/abs/1906.03731), ACL 2019, [62 citations]
 
