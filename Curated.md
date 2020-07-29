@@ -133,8 +133,6 @@
 
 * [Is Attention Interpretable?](https://arxiv.org/abs/1906.03731), ACL 2019, [62 citations]
 
-* [Attention is not not explanation](https://arxiv.org/abs/1908.04626), EMNLP 2019 [56 citations]
-
 * [Specializing Word Embeddings (for Parsing) by Information Bottleneck](https://www.aclweb.org/anthology/D19-1276.pdf), **Best paper EMNLP 2019**
 
 * [What does BERT learn about the structure of language?](https://hal.inria.fr/hal-02131630/document) [Aug-2019] [87 Citations]
