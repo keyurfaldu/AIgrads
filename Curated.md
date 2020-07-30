@@ -65,6 +65,8 @@
 
 **FINETUNING / TRANSFER-LEARNING**
 
+* [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/pdf/1811.01088.pdf), 2018
+
 * [Leveraging Pre-trained Checkpoints for Sequence Generation Tasks](https://arxiv.org/abs/1907.12461), 2020
 
 * [Learning and Evaluating General Linguistic Intelligence](https://arxiv.org/pdf/1901.11373.pdf), 2019
@@ -129,7 +131,16 @@
 
 * [THE CURIOUS CASE OF NEURAL TEXT DeGENERATION](https://arxiv.org/pdf/1904.09751.pdf), ICLR 2020
 
+
 **INTERPRETABILITY**
+
+* [Revealing the Dark Secrets of BERT](https://arxiv.org/abs/1908.08593), ACL 2019, (47 citations)
+
+* [SHAP: A Unified Approach to Interpreting Model Predictions](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf), NIPS, 2017, (1354 citations)
+
+* [LIME: "Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf), KDD 2016, (3439 citations)
+
+* [DeepLIFT: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/pdf/1704.02685.pdf), ICML 2017, (630 citations)
 
 * [Is Attention Interpretable?](https://arxiv.org/abs/1906.03731), ACL 2019, [62 citations]
 
@@ -162,6 +173,7 @@
 
 * [SEQUENTIAL LATENT KNOWLEDGE SELECTION FOR KNOWLEDGE-GROUNDED DIALOGUE](https://arxiv.org/abs/2002.07510), ICLR 2020
 
+* [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164), Oct-2019, (40 citations)
 
 * Partha Talukdar's work
 

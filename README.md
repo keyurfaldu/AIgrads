@@ -46,6 +46,11 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](summary/bam_multi_task.md), Kevin Clark, Christopher D. Manning et al. [[arXiv](https://arxiv.org/pdf/1907.04829.pdf)]
 
+## Datasets and Benchmarks 
+
+* [SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems](summary/superGLUE.md), Wang et al, NIPS 2019 [[arXiv](https://arxiv.org/pdf/1905.00537.pdf)]
+
+
 ## Probing and Interpretability
 
 * [Attention is not not explanation](summary/attention_not_not.md) Sarah Wiegreffe, Yuval Pinter,  EMNLP 2019 [[arXiv](https://arxiv.org/abs/1908.04626)]
