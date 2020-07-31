@@ -46,9 +46,12 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](summary/bam_multi_task.md), Kevin Clark, Christopher D. Manning et al. [[arXiv](https://arxiv.org/pdf/1907.04829.pdf)]
 
-## Datasets and Benchmarks 
+## Datasets, Benchmarks & Metrics
 
 * [SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems](summary/superGLUE.md), Wang et al, NIPS 2019 [[arXiv](https://arxiv.org/pdf/1905.00537.pdf)]
+
+* [CHECKLIST: Beyond Accuracy: Behavioral Testing of NLP Models with CHECKLIST](summary/checklist.md), Ribeiro, Wu, Guestrin, Sameer Singh, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)]
+
 
 
 ## Probing and Interpretability
@@ -96,11 +99,6 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Huggingface's Transformers: State-of-the-art Natural Language Processing](summary/huggingface.md), Wolf et al, 2020 [[arXiv](https://arxiv.org/pdf/1910.03771.pdf)]
 
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](summary/allen_nlp.md), Wallace et al, 2019 EMNLP [[arXiv](https://www.aclweb.org/anthology/D19-3002.pdf)]
-
-
-## NLP Metrics
-
-* [CHECKLIST: Beyond Accuracy: Behavioral Testing of NLP Models with CHECKLIST](summary/checklist.md), Ribeiro, Wu, Guestrin, Sameer Singh, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)]
 
 ## AI Ethics
 
