@@ -102,6 +102,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [CHECKLIST: Beyond Accuracy: Behavioral Testing of NLP Models with CHECKLIST](summary/checklist.md), Ribeiro, Wu, Guestrin, Sameer Singh, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)]
 
+## AI Ethics
+
+* [THIEVES ON SESAME STREET! MODEL EXTRACTION OF BERT-BASED APIS](summary/bert_extraction.md), Krishna, Mohit Iyyer et al. ICLR 2020 [[arXiv](https://arxiv.org/pdf/1910.12366.pdf)]
+
 ## Deep Learning Building Blocks
 * [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](summary/one_cycle_learning.md), Leslie N Smith, 2018 [[arXiv](https://arxiv.org/abs/1803.09820)]
 
