@@ -38,6 +38,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Fine Tuning
 
+* [Leveraging Pre-trained Checkpoints for Sequence Generation Tasks](summary/seq_generation_from_pretrained.md) Sascha Rothe, Shashi Narayan, Aliaksei Severyn, ACL 2020 [[arXiv](https://arxiv.org/pdf/1907.12461.pdf)]
+
 * [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](summary/finetuning_wi_do.md), Dodge et al. 2020  [[arXiv](https://arxiv.org/pdf/2002.06305.pdf)]
 
 ## Multi task learning

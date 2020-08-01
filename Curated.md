@@ -13,6 +13,8 @@
 
 * [Nesterov's Accelerated Gradient and Momentum as approximations to Regularised Update Descent](https://arxiv.org/abs/1607.01981), 2016, [22 citations]
 
+* [Wordpiece: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144), Google, 2016, (2974 citations)
+
 * [All you need is a good init](https://arxiv.org/abs/1511.06422), ICLR 2016 [386 citations]
 
 * [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412), 2017, [881 citations]
@@ -64,6 +66,12 @@
 
 
 **FINETUNING / TRANSFER-LEARNING**
+
+* [To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](https://arxiv.org/abs/1903.05987), ACL 2019 (97 citations)
+
+* [To Tune or Not To Tune? How About the Best of Both Worlds?](https://arxiv.org/abs/1907.05338), 2019
+
+* [Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling](https://arxiv.org/abs/1812.10860) ACL 2019 (18 citations)
 
 * [Sentence Encoders on STILTs: Supplementary Training on Intermediate Labeled-data Tasks](https://arxiv.org/pdf/1811.01088.pdf), 2018
 
