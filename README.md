@@ -58,6 +58,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Probing and Interpretability
 
+* [Axiomatic Attribution for Deep Networks](summary/integrated_gradients.md), Sundararajan, Taly, Yan, Google, ICML 2027 [[arXiv](https://arxiv.org/pdf/1703.01365.pdf)]
+
+
 * [Attention is not not explanation](summary/attention_not_not.md) Sarah Wiegreffe, Yuval Pinter,  EMNLP 2019 [[arXiv](https://arxiv.org/abs/1908.04626)]
 
 * [Attention is not Explanation](summary/attention_not_explanation.md), Sarthak Jain, Byron C Wallace, NAACL-2019, [[arXiv](https://arxiv.org/pdf/1902.10186.pdf)]

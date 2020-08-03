@@ -140,8 +140,6 @@
 
 **INTERPRETABILITY**
 
-* [Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1703.01365.pdf), ICML 2017, (750 citations)
-
 * [Revealing the Dark Secrets of BERT](https://arxiv.org/abs/1908.08593), ACL 2019, (47 citations)
 
 * [SHAP: A Unified Approach to Interpreting Model Predictions](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf), NIPS, 2017, (1354 citations)
