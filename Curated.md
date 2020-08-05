@@ -142,8 +142,6 @@
 
 * [Revealing the Dark Secrets of BERT](https://arxiv.org/abs/1908.08593), ACL 2019, (47 citations)
 
-* [LIME: "Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf), KDD 2016, (3439 citations)
-
 * [DeepLIFT: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/pdf/1704.02685.pdf), ICML 2017, (630 citations)
 
 * [Is Attention Interpretable?](https://arxiv.org/abs/1906.03731), ACL 2019, [62 citations]

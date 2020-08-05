@@ -58,6 +58,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Probing and Interpretability
 
+* [LIME: "Why Should I Trust You?": Explaining the Predictions of Any Classifier](summary/LIME.md) Ribeiro, Sameer Singh, Guestrin, University of Washington, KDD 2016 [[arXiv](https://arxiv.org/pdf/1602.04938.pdf)]
+
 * [Axiomatic Attribution for Deep Networks](summary/integrated_gradients.md), Sundararajan, Taly, Yan, Google, ICML 2027 [[arXiv](https://arxiv.org/pdf/1703.01365.pdf)]
 
 * [SHAP: A Unified Approach to Interpreting Model Predictions](summary/shap.md), Lundberg, Lee, University of Washington, NIPS 2017 [[arXiv](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf)]
