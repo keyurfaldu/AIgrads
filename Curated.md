@@ -64,12 +64,15 @@
 
 * [Mogrifier LSTM](https://arxiv.org/abs/1909.01792), ICLR 2020
 
+* [Enhanced LSTM for Natural Language Inference](https://arxiv.org/abs/1609.06038), ACL 2017, 450 citations
 
 **FINETUNING / TRANSFER-LEARNING**
 
-* [To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](https://arxiv.org/abs/1903.05987), ACL 2019 (97 citations)
+* [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583), 2019, (50 citations)
 
-* [To Tune or Not To Tune? How About the Best of Both Worlds?](https://arxiv.org/abs/1907.05338), 2019
+* [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671), ICML 2019, (50 citations)
+
+* [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232), NAACL 2019 (63 citations)
 
 * [Can You Tell Me How to Get Past Sesame Street? Sentence-Level Pretraining Beyond Language Modeling](https://arxiv.org/abs/1812.10860) ACL 2019 (18 citations)
 

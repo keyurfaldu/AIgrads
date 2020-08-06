@@ -40,6 +40,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](summary/adapting_pretrained_repr.md) Peters, Ruder, Smith, AI2, ACL 2019 [[arXiv](https://arxiv.org/abs/1903.05987)]
 
+* [To Tune or Not To Tune? How About the Best of Both Worlds?](summary/stack_and_finetune.md), Wang et al, 2019, [[arXiv](https://arxiv.org/abs/1907.05338)]
+
+
 * [Leveraging Pre-trained Checkpoints for Sequence Generation Tasks](summary/seq_generation_from_pretrained.md) Sascha Rothe, Shashi Narayan, Aliaksei Severyn, ACL 2020 [[arXiv](https://arxiv.org/pdf/1907.12461.pdf)]
 
 * [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](summary/finetuning_wi_do.md), Dodge et al. 2020  [[arXiv](https://arxiv.org/pdf/2002.06305.pdf)]
