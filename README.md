@@ -38,6 +38,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Fine Tuning
 
+* [How to Fine-Tune BERT for Text Classification?](summary/finetune_bert_text_classification.md) Sun et al, 2019[[arXiv](https://arxiv.org/abs/1905.05583)]
+
+
 * [To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks](summary/adapting_pretrained_repr.md) Peters, Ruder, Smith, AI2, ACL 2019 [[arXiv](https://arxiv.org/abs/1903.05987)]
 
 * [To Tune or Not To Tune? How About the Best of Both Worlds?](summary/stack_and_finetune.md), Wang et al, 2019, [[arXiv](https://arxiv.org/abs/1907.05338)]

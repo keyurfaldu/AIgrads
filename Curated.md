@@ -68,8 +68,6 @@
 
 **FINETUNING / TRANSFER-LEARNING**
 
-* [How to Fine-Tune BERT for Text Classification?](https://arxiv.org/abs/1905.05583), 2019, (50 citations)
-
 * [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671), ICML 2019, (50 citations)
 
 * [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232), NAACL 2019 (63 citations)
