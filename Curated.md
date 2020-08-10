@@ -168,8 +168,6 @@
 
 **KG + NLP**
 
-* [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](https://www.aclweb.org/anthology/P19-1470/), ACL 2019
-
 * [Barack’s Wife Hillary: Using Knowledge Graphs for Fact-Aware Language Modeling](https://www.aclweb.org/anthology/P19-1598/), ACL 2019
 
 * [Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition](https://www.aclweb.org/anthology/N19-1117/), ACL 2019
