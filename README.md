@@ -108,6 +108,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [COMET: Commonsense Transformers for Automatic Knowledge Graph Construction](summary/comet.md), Bosselut et al. ACL 2019 [[arXiv](https://www.aclweb.org/anthology/P19-1470/)]
+
+
 * [ERNIE: Enhanced Language Representation with Informative Entities](summary/ernie.md), Zhang et al, ACL 2019 [[arXiv](https://arxiv.org/pdf/1905.07129.pdf)]
 
 * [EmbedKGQA: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](summary/embed_kgqa.md), Apoorv Saxena, Aditay Tripathi, Partha Talukdar, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.412.pdf)]
