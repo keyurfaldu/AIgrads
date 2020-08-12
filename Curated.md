@@ -168,8 +168,6 @@
 
 **KG + NLP**
 
-* [Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition](https://www.aclweb.org/anthology/N19-1117/), ACL 2019
-
 * [SEQUENTIAL LATENT KNOWLEDGE SELECTION FOR KNOWLEDGE-GROUNDED DIALOGUE](https://arxiv.org/abs/2002.07510), ICLR 2020
 
 * [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164), Oct-2019, (40 citations)

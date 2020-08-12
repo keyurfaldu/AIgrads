@@ -108,6 +108,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition](summary/KALM.md), Angli Liu, Jingfei Du, Veselin Stoyanov [[arXiv](https://www.aclweb.org/anthology/N19-1117/)]
+]
+
 * [Barack’s Wife Hillary: Using Knowledge Graphs for Fact-Aware Language Modeling](summary/KGLM.md), Logan IV, ACL 2019, [[arXiv](https://www.aclweb.org/anthology/P19-1598/)]
 
 * [Knowledge Infused Learning (K-IL): Towards Deep Incorporation of Knowledge in Deep Learning](summary/KIL.md), Kursuncu et al. AAAI 2020 [[arXiv](https://arxiv.org/pdf/1912.00512.pdf)]
