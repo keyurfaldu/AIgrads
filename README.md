@@ -108,6 +108,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [KnowBERT: Knowledge Enhanced Contextual Word Representations](summary/knowbert.md) Peters et al, ACL 2019 [[arXiv](https://arxiv.org/abs/1909.04164)]
+
 * [Sequential Latent Knowledge Selection For Knowledge-Grounded Dialogue](summary/KGD_SKT.md), Byeongchang Kim, Jaewoo Ahn, Gunhee Kim, ICLR 2020 [[arXiv](https://arxiv.org/abs/2002.07510)]
 
 * [Knowledge-Augmented Language Model and Its Application to Unsupervised Named-Entity Recognition](summary/KALM.md), Angli Liu, Jingfei Du, Veselin Stoyanov [[arXiv](https://www.aclweb.org/anthology/N19-1117/)]
