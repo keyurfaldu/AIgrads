@@ -108,6 +108,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [ERWISE: Zero-shot Word Sense Disambiguation using Sense Definition Embeddings](summary/ERWISE.md) Sawan Kumar, Partha Talukdar, ACL 2019 [[[arXiv]((https://malllabiisc.github.io/publications/papers/EWISE_ACL19.pdf)]
+
 * [KnowBERT: Knowledge Enhanced Contextual Word Representations](summary/knowbert.md) Peters et al, ACL 2019 [[arXiv](https://arxiv.org/abs/1909.04164)]
 
 * [Sequential Latent Knowledge Selection For Knowledge-Grounded Dialogue](summary/KGD_SKT.md), Byeongchang Kim, Jaewoo Ahn, Gunhee Kim, ICLR 2020 [[arXiv](https://arxiv.org/abs/2002.07510)]

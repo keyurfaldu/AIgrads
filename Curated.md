@@ -113,7 +113,6 @@
 
 **Representation**
 
-* [Zero-shot Word Sense Disambiguation using Sense Definition Embeddings](https://malllabiisc.github.io/publications/papers/EWISE_ACL19.pdf), ACL 2019
 
 * [Universal Sentence Encoder](https://arxiv.org/pdf/1803.11175.pdf), 2018 [485 citations]
 
@@ -167,8 +166,6 @@
 
 
 **KG + NLP**
-
-* [Knowledge Enhanced Contextual Word Representations](https://arxiv.org/abs/1909.04164), Oct-2019, (40 citations)
 
 * Partha Talukdar's work
 
