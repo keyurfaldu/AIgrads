@@ -33,6 +33,11 @@
 
 * [Fixup Initialization: Residual Learning Without Normalization](https://arxiv.org/abs/1901.09321), [ICLR 2019] [87 Citations]
 
+**NN Architecture**
+* [PAY LESS ATTENTION WITH LIGHTWEIGHT AND DYNAMIC CONVOLUTIONS](https://arxiv.org/pdf/1901.10430.pdf), Facebook AI Research
+
+* [Rethinking complex neural network architectures for document classification](https://www.aclweb.org/anthology/N19-1408/), NAACL 2019
+
 
 **PRE-TRAINING**
 

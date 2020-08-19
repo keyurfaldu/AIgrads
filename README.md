@@ -69,6 +69,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Probing and Interpretability
 
+* [Revealing the Dark Secrets of BERT](summary/dark_secret_BERT.md) Olga Kovaleva, ACL 2019 [[arXiv](https://arxiv.org/abs/1908.08593)]
+
+* [DeepLift: Learning Important Features Through Propagating Activation Differences](summary/deeplift.md) Avanti Shrikumar et al, Stanford University, ICML 2019 [[arXiv](https://arxiv.org/pdf/1704.02685.pdf)]
+
 * [Analysis Methods in Neural Language Processing: A Survey](summary/survey_nlp_analysis.md), Belinkov, Glass 2019 [[arXiv](https://www.mitpressjournals.org/doi/pdfplus/10.1162/tacl_a_00254)]
 
 * [LIME: "Why Should I Trust You?": Explaining the Predictions of Any Classifier](summary/LIME.md) Ribeiro, Sameer Singh, Guestrin, University of Washington, KDD 2016 [[arXiv](https://arxiv.org/pdf/1602.04938.pdf)]
