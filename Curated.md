@@ -145,9 +145,7 @@
 
 **INTERPRETABILITY**
 
-* [Revealing the Dark Secrets of BERT](https://arxiv.org/abs/1908.08593), ACL 2019, (47 citations)
-
-* [DeepLIFT: Learning Important Features Through Propagating Activation Differences](https://arxiv.org/pdf/1704.02685.pdf), ICML 2017, (630 citations)
+* [TOWARDS BETTER UNDERSTANDING OF GRADIENT-BASED ATTRIBUTION METHODS FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=Sy21R9JAW), ICLR 2018
 
 * [Is Attention Interpretable?](https://arxiv.org/abs/1906.03731), ACL 2019, [62 citations]
 
@@ -158,8 +156,6 @@
 * [Analyzing the Structure of Attention in a Transformer Language Model](https://arxiv.org/abs/1906.04284) [ACL-2019] [25 Citations]
 
 * [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://arxiv.org/pdf/1905.09418.pdf) [ACL-2019] [96 Citations]
-
-* [Towards Transparent and Explainable Attention Models](https://arxiv.org/abs/2004.14243), Mitesh Khapra, ACL 2020
 
 * [Spying on Your Neighbors: Fine-grained Probing of Contextual Embeddings for Information about Surrounding Words](https://arxiv.org/abs/2005.01810), ACL 2020
 

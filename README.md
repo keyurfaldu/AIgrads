@@ -69,6 +69,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Probing and Interpretability
 
+* [Towards Transparent and Explainable Attention Models](summary/diversity_attention.md) Mohankumar, Mitesh Khapra et al. ACL 2020 [[arXiv](https://arxiv.org/abs/2004.14243)]
+
 * [Revealing the Dark Secrets of BERT](summary/dark_secret_BERT.md) Olga Kovaleva, ACL 2019 [[arXiv](https://arxiv.org/abs/1908.08593)]
 
 * [DeepLift: Learning Important Features Through Propagating Activation Differences](summary/deeplift.md) Avanti Shrikumar et al, Stanford University, ICML 2019 [[arXiv](https://arxiv.org/pdf/1704.02685.pdf)]
