@@ -38,6 +38,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Fine Tuning
 
+* [Unifying Question Answering, Text Classification, and Regression via Span Extraction](SpEx-BERT.md) Nitish Keskar, Richard Socher et al [[arXiv](https://arxiv.org/pdf/1904.09286.pdf)]
+
 * [How to Fine-Tune BERT for Text Classification?](summary/finetune_bert_text_classification.md) Sun et al, 2019[[arXiv](https://arxiv.org/abs/1905.05583)]
 
 
@@ -53,7 +55,6 @@ This is a niche collection of research papers which are proven to be gradients p
 ## Multi task learning
 
 * [MT-DNNKD: Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](summary/MTDNNKD.md), Xiaodong Liu et al. [[arXiv](https://arxiv.org/pdf/1904.09482.pdf)]
-
 
 * [Multi-Task Deep Neural Networks for Natural Language Understanding](summary/MTDNN_GLUE.md), Xiaodong Liu, Pengcheng He, Weizhu Chen, Jianfeng Gao, 2019 [[arXiv](https://arxiv.org/abs/1901.11504)]
 

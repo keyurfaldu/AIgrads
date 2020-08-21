@@ -41,8 +41,6 @@
 
 **PRE-TRAINING**
 
-* [Unifying Question Answering, Text Classification, and Regression via Span Extraction](https://arxiv.org/pdf/1904.09286.pdf)
-
 * [BAN: Born Again Neural Networks](https://arxiv.org/abs/1805.04770) : one of the initial distillation paper
 
 * [Multilingual Neural Machine Translation with Knowledge Distillation](https://arxiv.org/abs/1902.10461)
@@ -164,6 +162,8 @@
 * [Perturbed Masking: Parameter-free Probing for Analyzing and Interpreting BERT](https://arxiv.org/abs/2004.14786), ACL 2020
 
 * [WHAT CAN NEURAL NETWORKS REASON ABOUT?](https://arxiv.org/pdf/1905.13211.pdf), ICLR 2020
+
+* [TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP](https://arxiv.org/pdf/2005.05909.pdf)
 
 
 **KG + NLP**
