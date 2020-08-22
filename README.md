@@ -2,6 +2,7 @@
 This is a niche collection of research papers which are proven to be gradients pushing the field of Natural Language Processing, Deep Learning and Artificial Intelligence
 
 ## NLP Pretraining
+* [STRUCTBERT: INCORPORATING LANGUAGE STRUCTURES INTO PRETRAINING FOR DEEP LANGUAGE UNDERSTANDING](summary/structbert.md) Wang et al, ICLR 2020 [[arXiv](https://openreview.net/pdf?id=BJgQ4lSFPH)]
 
 * [PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization](summary/pegasus.md), Jingqing Zhang, Yao Zhao, Mohammad Saleh, Peter J Liu. Google Research, ICML 2020 [[arXiv](https://arxiv.org/pdf/1912.08777.pdf)]
 

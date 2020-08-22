@@ -71,8 +71,6 @@
 
 **FINETUNING / TRANSFER-LEARNING**
 
-* [STRUCTBERT: INCORPORATING LANGUAGE STRUCTURES INTO PRETRAINING FOR DEEP LANGUAGE UNDERSTANDING](https://openreview.net/pdf?id=BJgQ4lSFPH), ICLR 2020.
-
 * [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](https://arxiv.org/abs/1902.02671), ICML 2019, (50 citations)
 
 * [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232), NAACL 2019 (63 citations)
