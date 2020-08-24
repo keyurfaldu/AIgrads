@@ -169,3 +169,12 @@
 * Partha Talukdar's work
 
 
+**Best NLP Papers ACL 2019 & 2020**
+
+* [How Can We Accelerate Progress Towards Human-like Linguistic Generalization?](https://arxiv.org/pdf/2005.00955.pdf)
+
+* [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)
+
+* [CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://einstein.ai/presentations/ctrl.pdf)
+
+
