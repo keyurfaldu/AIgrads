@@ -55,8 +55,6 @@
 
 * [Unsupervised Pretraining for Sequence to Sequence Learning](https://www.aclweb.org/anthology/D17-1039/), EMNLP 2017
 
-* [ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding](https://arxiv.org/pdf/1907.12412.pdf), AAAI 2020
-
 * [DeFINE: Deep Factorized Input Token Embeddings for Neural Sequence Modeling](https://openreview.net/forum?id=rJeXS04FPH), ICLR 2020
 
 * [Depth-Adaptive Transformer](https://arxiv.org/abs/1910.10073), ICLR 2020
