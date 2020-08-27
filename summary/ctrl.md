@@ -20,5 +20,28 @@ This paper is about creating conditional transformer language model, which is tr
 
 * Around 140 GB data was used as training data which was drawn from different domains like wikipedia etc
 
-* Data was tokenized using fastBPE with vocabolary size of 2
+* Data was tokenized using fastBPE with vocabolary size of 250K tokens. 
+
+* CTRL is really a big model with dimension of 1048, with inner dimension of 8192, 48 layers, 16 heads.
+
+* It was trained on 256 cores of a Cloud TPU v3 Pod, and got trained for 2 weeks.
+
+* Controllable Generation:
+    * Given temperature T, and scores x_i, the probability of predicting that token i is 
+
+        <img src="https://i.upmath.me/svg/p_%7Bi%7D%3D%5Cfrac%7B%5Cexp%20%5Cleft(x_%7Bi%7D%20%2F%20T%5Cright)%7D%7B%5Csum_%7Bj%7D%20%5Cexp%20%5Cleft(x_%7Bj%7D%20%2F%20T%5Cright)%7D" alt="p_{i}=\frac{\exp \left(x_{i} / T\right)}{\sum_{j} \exp \left(x_{j} / T\right)}" />
+
+    * Generally, top-K tokens are chosen using the probability score. T=0, it would become greedy. T=infinite will flatten distribution to uniform
+    * Common practice, the nucleus sampling approach chooses probability p_t and sets k to be the lowest value such that sigma of top k elements are greater then the probability threshold. 
+        * So, if model is confident, automatically k would be lower.
+        * Some factual information requires only unique token to be generated. Relaxing that would choose wrong information, but on other hand it would also suffer from repetations. In order to balance both, **"Penaliaing Sampling"** works by discounting the score of already generated samples.
+
+        <img src="https://i.upmath.me/svg/p_%7Bi%7D%3D%5Cfrac%7B%5Cexp%20%5Cleft(x_%7Bi%7D%20%2F(T%20%5Ccdot%20I(i%20%5Cin%20g))%5Cright.%7D%7B%5Csum_%7Bj%7D%20%5Cexp%20%5Cleft(x_%7Bj%7D%20%2F(T%20%5Ccdot%20I(j%20%5Cin%20g))%5Cright.%7D" alt="p_{i}=\frac{\exp \left(x_{i} /(T \cdot I(i \in g))\right.}{\sum_{j} \exp \left(x_{j} /(T \cdot I(j \in g))\right.}" />
+* Control codes and examples
+    * Style by domain: Few examples are, Wikipedia, books, horror, legal, relationships etc
+    * More complex control codes: like URLs
+    * Triggering specific tasks: specific tasks can be triggered by using control codes
+
+
+
 
