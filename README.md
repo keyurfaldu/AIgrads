@@ -42,6 +42,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Fine Tuning
 
+* [CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](summary/ctrl.md) Nitish Shirish Keskar, Richard Socher, 2020 [[arXiv](https://einstein.ai/presentations/ctrl.pdf)]
+
 * [Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks](summary/domain_task_adaptive_training.md), Gururangan et al, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.740.pdf)]
 
 * [Unifying Question Answering, Text Classification, and Regression via Span Extraction](SpEx-BERT.md) Nitish Keskar, Richard Socher et al [[arXiv](https://arxiv.org/pdf/1904.09286.pdf)]

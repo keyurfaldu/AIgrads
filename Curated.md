@@ -161,6 +161,8 @@
 
 * [TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP](https://arxiv.org/pdf/2005.05909.pdf)
 
+* [Attention in Natural Language Processing](https://arxiv.org/pdf/1902.02181.pdf) Referred by Prof Amit Sheth
+
 
 **KG + NLP**
 
@@ -171,6 +173,6 @@
 
 * [How Can We Accelerate Progress Towards Human-like Linguistic Generalization?](https://arxiv.org/pdf/2005.00955.pdf)
 
-* [CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://einstein.ai/presentations/ctrl.pdf)
+
 
 
