@@ -132,8 +132,6 @@
 
 * [Dynamic Meta-Embeddings for Improved Sentence Representations](https://arxiv.org/abs/1804.07983), EMNLP 2018
 
-* [Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](https://arxiv.org/abs/1909.00109), ACL 2019
-
 * [THE CURIOUS CASE OF NEURAL TEXT DeGENERATION](https://arxiv.org/pdf/1904.09751.pdf), ICLR 2020
 
 
