@@ -42,6 +42,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Fine Tuning & Down-stream Tasks
 
+* [Syntax-guided Controlled Generation of Paraphrases](summary/SGCP.md), Ashutosh Kumar, Kabir Ahuja, Raghuram Vadapalli, Partha Talukdar, ACL 2020 [[arXiv](https://arxiv.org/pdf/2005.08417.pdf)]
+
 * [Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](summary/bert_calculator.md) Daniel Andor, Luheng He, Kenton Lee, Emily Pitler, ACL 2019 [[arXiv](https://arxiv.org/abs/1909.00109)]
 
 * [CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](summary/ctrl.md) Nitish Shirish Keskar, Richard Socher, 2020 [[arXiv](https://einstein.ai/presentations/ctrl.pdf)]
