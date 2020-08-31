@@ -130,6 +130,7 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Understanding Attention for Text Classification](summary/understanding_attention.md), Xiaobing Sun and Wei Lu, Singapore University, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.312.pdf)]
 
 ## Knowledge Graphs + NLP
+* [K-Adapters: Infusing Knowledge into Pre-Trained Models with Adapters](summary/k-adapter.md), Ruize Wang, Ming Zhou et al. ACL 2020 [[arXiv](https://arxiv.org/pdf/2002.01808.pdf)]
 
 * [ERWISE: Zero-shot Word Sense Disambiguation using Sense Definition Embeddings](summary/ERWISE.md) Sawan Kumar, Partha Talukdar, ACL 2019 [[arXiv](https://malllabiisc.github.io/publications/papers/EWISE_ACL19.pdf)]
 
