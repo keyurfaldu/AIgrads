@@ -22,7 +22,7 @@ This paper proposes a technique to extend language model with supplimentory adap
     <em>Source: Author</em>
     </p>
 * **Factual Adapter**
-    * Subset from TREx, a collection of sentences where surface form of the relation appears. 430 relations, and 50 entity pairs.
+    * Subset from TREx, a collection of sentences where surface form of the relation appears. 430 relations, and 5.5 millions sentences.
     * Pre-training objective of relationship classification task, given two entities.
 * **Linguistic Adapter**
     * Dependency parser on a book corpus of 1M examples. 

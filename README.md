@@ -112,6 +112,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [BERT Rediscovers the Classical NLP Pipeline](summary/bert_analysis_nlp_pipeline.md), Ian Tenney, Dipanjan Das, Ellie Pavlick, 2019 [[arXiv](https://arxiv.org/pdf/1905.05950.pdf)]
 
+* [Visualizing and Measuring the Geometry of BERT](summary/bert_geometry.md), Andy Coenen, Martin Wattenberg et al, NIPS 2019 [[arXiv](https://arxiv.org/pdf/1906.02715.pdf)]
+
 * [Designing and Interpreting Probes with Control Tasks](summary/designing_probes.md), John Hewitt, Percy Liang, EMNLP-2019 [[arXiv](https://www.aclweb.org/anthology/D19-1275.pdf)]
 
 * [Open Sesame: Getting Inside BERT’s Linguistic Knowledge](summary/sesame.md), Yongjie Lin, Yi Chern Tan, Robert Frank, 2019 [[arXiv](https://arxiv.org/pdf/1906.01698.pdf)]
