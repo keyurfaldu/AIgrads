@@ -108,6 +108,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Assessing BERT’s Syntactic Abilities](summary/bert_syntactic.md), Yoav Goldberg, 2019 [[arXiv](https://arxiv.org/pdf/1901.05287.pdf)]
 
+* [Generating Derivational Morphology with BERT](summary/bert_derivational_morphology.md) Valentin Hofmann, Janet B. Pierrehumbert, Hinrich Schutze, 2020 [[arXiv](https://arxiv.org/pdf/2005.00672.pdf)]
+
 * [Investigating BERT’s Knowledge of Language: Five Analysis Methods with NPIs](summary/bert_npi.md) Warstadt et al. [[arXiv](https://arxiv.org/pdf/1909.02597.pdf)]
 
 * [What Does BERT Look At? An Analysis of BERT’s Attention](summary/bert_analysis.md), Kevin Clark, Urvashi Khandelwal, Omer Levy, Christopher D. Manning, 2019 [[arXiv](https://arxiv.org/abs/1906.04341)]
