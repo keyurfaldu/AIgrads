@@ -137,6 +137,8 @@
 
 **INTERPRETABILITY**
 
+* [Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?](https://arxiv.org/abs/2004.03685), ACL 2020, Yoav Goldberg
+
 * [TOWARDS BETTER UNDERSTANDING OF GRADIENT-BASED ATTRIBUTION METHODS FOR DEEP NEURAL NETWORKS](https://openreview.net/pdf?id=Sy21R9JAW), ICLR 2018
 
 * [Is Attention Interpretable?](https://arxiv.org/abs/1906.03731), ACL 2019, [62 citations]

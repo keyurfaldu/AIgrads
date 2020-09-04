@@ -106,6 +106,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Are Sixteen Heads Really Better than One?](summary/sixteen_heads.md), Paul Michel, Omer Levy, Graham Neubig, 2019 [[arXiv](https://arxiv.org/pdf/1905.10650.pdf)]
 
+* [Fine-Grained Analysis of Sentence Embedding Using Auxiliary Prediction Tasks](summary/aux_pred.md), Yossi Adi, Yoav Goldberg et al, ICLR 2017 [[arXiv](https://arxiv.org/pdf/1608.04207.pdf)]
+
 * [Assessing BERT’s Syntactic Abilities](summary/bert_syntactic.md), Yoav Goldberg, 2019 [[arXiv](https://arxiv.org/pdf/1901.05287.pdf)]
 
 * [Generating Derivational Morphology with BERT](summary/bert_derivational_morphology.md) Valentin Hofmann, Janet B. Pierrehumbert, Hinrich Schutze, 2020 [[arXiv](https://arxiv.org/pdf/2005.00672.pdf)]
