@@ -138,6 +138,9 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Understanding Attention for Text Classification](summary/understanding_attention.md), Xiaobing Sun and Wei Lu, Singapore University, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.312.pdf)]
 
 ## Knowledge Graphs + NLP
+
+* [InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions](summary/InteractE.md), Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar, AAAI 2020 [[arXiv](https://arxiv.org/pdf/1911.00219.pdf)]
+
 * [Translating Embeddings for Modeling Multi-relational Data](summary/TransE.md), Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, NIPS 2013 [[arXiv](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)]
 
 * [K-Adapters: Infusing Knowledge into Pre-Trained Models with Adapters](summary/k-adapter.md), Ruize Wang, Ming Zhou et al. ACL 2020 [[arXiv](https://arxiv.org/pdf/2002.01808.pdf)]
