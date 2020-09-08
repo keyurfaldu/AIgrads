@@ -139,6 +139,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [Convolutional 2D Knowledge Graph Embeddings](summary/ConvE.md), Dettmers et al, AAAI 2018 [[arXiv](https://arxiv.org/abs/1707.01476)]
+
 * [InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions](summary/InteractE.md), Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar, AAAI 2020 [[arXiv](https://arxiv.org/pdf/1911.00219.pdf)]
 
 * [Translating Embeddings for Modeling Multi-relational Data](summary/TransE.md), Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, NIPS 2013 [[arXiv](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)]
