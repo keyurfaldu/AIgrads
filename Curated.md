@@ -173,6 +173,9 @@
 
 * [How Can We Accelerate Progress Towards Human-like Linguistic Generalization?](https://arxiv.org/pdf/2005.00955.pdf)
 
+**Suggestions from Prof Amit Sheth**
+* [Attention in Natural Language Processing](https://arxiv.org/pdf/1902.02181.pdf) 2020
+
 
 
 
