@@ -74,6 +74,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Datasets, Benchmarks & Metrics
 
+* [Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison](summary/WSD.md),Alessandro Raganato, Jose Camacho-Collados and Roberto Navigli, ACL 2017 [[arXiv](https://www.aclweb.org/anthology/E17-1010.pdf)]
+
 * [SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems](summary/superGLUE.md), Wang et al, NIPS 2019 [[arXiv](https://arxiv.org/pdf/1905.00537.pdf)]
 
 * [CHECKLIST: Beyond Accuracy: Behavioral Testing of NLP Models with CHECKLIST](summary/checklist.md), Ribeiro, Wu, Guestrin, Sameer Singh, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)]
