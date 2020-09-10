@@ -139,6 +139,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](summary/Hyperbolic_KG_embedding.md) Chami et al, ACL 2020 [[arXiv](aclweb.org/anthology/2020.acl-main.617.pdf)]
+
 * [Convolutional 2D Knowledge Graph Embeddings](summary/ConvE.md), Dettmers et al, AAAI 2018 [[arXiv](https://arxiv.org/abs/1707.01476)]
 
 * [InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions](summary/InteractE.md), Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar, AAAI 2020 [[arXiv](https://arxiv.org/pdf/1911.00219.pdf)]
