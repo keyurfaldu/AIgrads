@@ -139,6 +139,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Understanding Attention for Text Classification](summary/understanding_attention.md), Xiaobing Sun and Wei Lu, Singapore University, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.312.pdf)]
 
+## Conversational AI
+
+* [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](summary/cai_synthetic_data.md), Giovanni Campagna Agata Foryciarz Mehrad Moradshahi Monica S. Lam, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.12.pdf)]
+
 ## Knowledge Graphs + NLP
 
 * [Structural Information Preserving for Graph-to-Text Generation](summary/graph_to_text_RATrans.md), Linfeng Song et al., ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.712.pdf)]
