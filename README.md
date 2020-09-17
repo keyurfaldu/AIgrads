@@ -145,6 +145,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [Improving Natural Language Inference Using External Knowledge in the Science Questions Domain](summary/ConSeqNet.md) Wang et al, AAAI 2019 [[arXiv](https://www.aaai.org/ojs/index.php/AAAI/article/view/4705)]
+
 * [KG-BERT: BERT for Knowledge Graph Completion](summary/KG_BERT.md), Liang Yao, Chengsheng Mao, Yuan Luo, AAAI 2020 [[arXiv](https://arxiv.org/pdf/1909.03193.pdf)]
 
 * [K-BERT: Enabling Language Representation with Knowledge Graph](summary/k-bert.md), Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Qi Ju, Haotang Deng, Ping Wang, AAAI 2020 [[arXiv](https://arxiv.org/pdf/1909.07606.pdf)]
