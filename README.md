@@ -145,6 +145,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [KG-BERT: BERT for Knowledge Graph Completion](summary/KG_BERT.md), Liang Yao, Chengsheng Mao, Yuan Luo, AAAI 2020 [[arXiv](https://arxiv.org/pdf/1909.03193.pdf)]
+
 * [K-BERT: Enabling Language Representation with Knowledge Graph](summary/k-bert.md), Weijie Liu, Peng Zhou, Zhe Zhao, Zhiruo Wang, Qi Ju, Haotang Deng, Ping Wang, AAAI 2020 [[arXiv](https://arxiv.org/pdf/1909.07606.pdf)]
 
 * [Structural Information Preserving for Graph-to-Text Generation](summary/graph_to_text_RATrans.md), Linfeng Song et al., ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.712.pdf)]
