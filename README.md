@@ -145,6 +145,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](summary/KagNet.md) Bill Yuchen Lin et al. EMNLP-IJCNLP 19 [[arXiv](https://arxiv.org/pdf/1909.02151.pdf)]
+
 * [Improving question answering with external knowledge](summary/qa_external_knowledge.md) Xiaoman Pan et al. MRQA 2019 [[arXiv](https://arxiv.org/pdf/1902.00993.pdf)]
 
 * [Improving Natural Language Inference Using External Knowledge in the Science Questions Domain](summary/ConSeqNet.md) Wang et al, AAAI 2019 [[arXiv](https://www.aaai.org/ojs/index.php/AAAI/article/view/4705)]
