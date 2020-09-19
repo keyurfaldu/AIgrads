@@ -42,6 +42,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Fine Tuning & Down-stream Tasks
 
+* [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](summary/GlossBERT.md) Huang et al. 2020 [[arXiv](summary/https://arxiv.org/pdf/1908.07245.pdf)]
+
 * [Syntax-guided Controlled Generation of Paraphrases](summary/SGCP.md), Ashutosh Kumar, Kabir Ahuja, Raghuram Vadapalli, Partha Talukdar, ACL 2020 [[arXiv](https://arxiv.org/pdf/2005.08417.pdf)]
 
 * [Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension](summary/bert_calculator.md) Daniel Andor, Luheng He, Kenton Lee, Emily Pitler, ACL 2019 [[arXiv](https://arxiv.org/abs/1909.00109)]
