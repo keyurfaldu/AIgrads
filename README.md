@@ -147,6 +147,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [KEPLER: A Unified Model for Knowledge Embedding and  Pre-trained Language Representation](summary/KEPLER.md) Wang et al, Preprint, Feb 2020 [[arXiv](https://arxiv.org/pdf/1911.06136.pdf)]
+
 * [KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning](summary/KagNet.md) Bill Yuchen Lin et al. EMNLP-IJCNLP 19 [[arXiv](https://arxiv.org/pdf/1909.02151.pdf)]
 
 * [Improving question answering with external knowledge](summary/qa_external_knowledge.md) Xiaoman Pan et al. MRQA 2019 [[arXiv](https://arxiv.org/pdf/1902.00993.pdf)]
