@@ -167,9 +167,6 @@
 **KG + NLP**
 
 * SCITAIL: A Textual Entailment Dataset from Science Question Answering
-* KEPLER: A Unified Model for Knowledge Embedding and Pre-trained Language Representation
-* Neural Natural Language Inference Models Enhanced with External Knowledge
-* Knowledge Enhanced Contextual Word Representations
 
 
 **Best NLP Papers ACL 2019 & 2020**
