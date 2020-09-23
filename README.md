@@ -76,6 +76,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Datasets, Benchmarks & Metrics
 
+* [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](summary/conceptNet.md), Robyn Speer et al. AAAI 2017 [[arXiv](https://arxiv.org/pdf/1612.03975.pdf)]
+
 * [Word Sense Disambiguation: A Unified Evaluation Framework and Empirical Comparison](summary/WSD.md),Alessandro Raganato, Jose Camacho-Collados and Roberto Navigli, ACL 2017 [[arXiv](https://www.aclweb.org/anthology/E17-1010.pdf)]
 
 * [SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems](summary/superGLUE.md), Wang et al, NIPS 2019 [[arXiv](https://arxiv.org/pdf/1905.00537.pdf)]

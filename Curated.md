@@ -168,9 +168,6 @@
 
 * SCITAIL: A Textual Entailment Dataset from Science Question Answering
 
-
-* ConceptNet 5.5: An Open Multilingual Graph of General Knowledge
-
 * Augmenting Neural Networks with First-order Logic
 
 * Improving Question Answering by Commonsense-Based Pre-Training
