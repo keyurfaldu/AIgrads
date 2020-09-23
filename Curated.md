@@ -169,6 +169,22 @@
 * SCITAIL: A Textual Entailment Dataset from Science Question Answering
 
 
+* ConceptNet 5.5: An Open Multilingual Graph of General Knowledge
+
+* Augmenting Neural Networks with First-order Logic
+
+* Improving Question Answering by Commonsense-Based Pre-Training
+
+* Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering
+
+* EXPLOITING STRUCTURED KNOWLEDGE IN TEXT VIA GRAPH-GUIDED REPRESENTATION LEARNING
+
+* WorldTree V2: A Corpus of Science-Domain Structured Explanations and Inference Patterns supporting Multi-Hop Inference
+
+* SemEval-2020 Task 4: Commonsense Validation and Explanation
+
+* ECNU-SenseMaker at SemEval-2020 Task 4: Leveraging Heterogeneous Knowledge Resources for Commonsense Validation and Explanation
+
 **Best NLP Papers ACL 2019 & 2020**
 
 * [How Can We Accelerate Progress Towards Human-like Linguistic Generalization?](https://arxiv.org/pdf/2005.00955.pdf)

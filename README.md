@@ -147,6 +147,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [Towards Generalizable Neuro-Symbolic Systems for Commonsense Question Answering](summary/OCNKI.md) Kaixin Ma et al. COIN workshop, ACL 2019 [[arXiv](https://www.aclweb.org/anthology/D19-6003.pdf)]
+
 * [Neural Natural Language Inference Models Enhanced with External Knowledge](summary/NIL_knowledge_KIM.md) Qian Chen et al. ACL 2018 [[arXiv](https://www.aclweb.org/anthology/P18-1224.pdf)]
 
 * [KEPLER: A Unified Model for Knowledge Embedding and  Pre-trained Language Representation](summary/KEPLER.md) Wang et al, Preprint, Feb 2020 [[arXiv](https://arxiv.org/pdf/1911.06136.pdf)]
