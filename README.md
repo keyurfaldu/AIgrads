@@ -149,6 +149,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Graphs + NLP
 
+* [Augmenting Neural Networks with First-order Logic](summary/first-order-logic.md) Tao Li, Vivek Srikumar, Archive Preprint, 2019 [[arXiv](https://arxiv.org/pdf/1906.06298.pdf)] 
+
 * [Towards Generalizable Neuro-Symbolic Systems for Commonsense Question Answering](summary/OCNKI.md) Kaixin Ma et al. COIN workshop, ACL 2019 [[arXiv](https://www.aclweb.org/anthology/D19-6003.pdf)]
 
 * [Neural Natural Language Inference Models Enhanced with External Knowledge](summary/NIL_knowledge_KIM.md) Qian Chen et al. ACL 2018 [[arXiv](https://www.aclweb.org/anthology/P18-1224.pdf)]
