@@ -147,6 +147,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](summary/cai_synthetic_data.md), Giovanni Campagna Agata Foryciarz Mehrad Moradshahi Monica S. Lam, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.12.pdf)]
 
+## Question Generation
+
+* [Learning to Ask: Neural Question Generation for Reading Comprehension](summary/learning_to_ask.md) Xinya Du et al. ACL 2017 [[arXiv](https://arxiv.org/pdf/1705.00106.pdf)]
+
 ## Knowledge Graphs + NLP
 
 * [Augmenting Neural Networks with First-order Logic](summary/first-order-logic.md) Tao Li, Vivek Srikumar, Archive Preprint, 2019 [[arXiv](https://arxiv.org/pdf/1906.06298.pdf)] 

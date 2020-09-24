@@ -164,11 +164,23 @@
 * [Attention in Natural Language Processing](https://arxiv.org/pdf/1902.02181.pdf) Referred by Prof Amit Sheth
 
 
+**Question Generation**
+* Learning to Ask: Neural Question Generation for Reading Comprehension, ACL 2017
+* Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks
+* Question Generation for Question Answering
+* Machine Comprehension by Text-to-Text Neural Question Generation
+* Neural Models for Key Phrase Extraction and Question Generation
+* LearningQ: A Large-scale Dataset for Educational Question Generation
+* Improving Neural Question Generation Using Answer Separation
+* CopyBERT: A Unified Approach to Question Generation with Self-Attention
+* Learning to Automatically Generate Fill-In-The-Blank Quizzes
+* Difficulty-aware Distractor Generation for Gap-Fill Items
+* A Systematic Review of Automatic Question Generation for Educational Purposes
+* Knowledge-Driven Distractor Generation for Cloze-style Multiple Choice Questions
+
 **KG + NLP**
 
 * SCITAIL: A Textual Entailment Dataset from Science Question Answering
-
-* Augmenting Neural Networks with First-order Logic
 
 * Improving Question Answering by Commonsense-Based Pre-Training
 
