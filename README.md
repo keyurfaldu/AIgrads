@@ -84,7 +84,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [CHECKLIST: Beyond Accuracy: Behavioral Testing of NLP Models with CHECKLIST](summary/checklist.md), Ribeiro, Wu, Guestrin, Sameer Singh, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)]
 
-
+* [HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering](summary/hotpotqa.md) Zhilin Yang et al. ACL 2018 [[arXiv](https://arxiv.org/pdf/1809.09600.pdf)]
 
 ## Probing and Interpretability
 

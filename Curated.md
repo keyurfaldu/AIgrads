@@ -163,6 +163,9 @@
 
 * [Attention in Natural Language Processing](https://arxiv.org/pdf/1902.02181.pdf) Referred by Prof Amit Sheth
 
+**e-Learning**
+* Mastering Rate based Curriculum Learning
+
 
 **Question Generation**
 * LearningQ: A Large-scale Dataset for Educational Question Generation
@@ -178,6 +181,9 @@
 * Difficulty-aware Distractor Generation for Gap-Fill Items
 * A Systematic Review of Automatic Question Generation for Educational Purposes
 * Knowledge-Driven Distractor Generation for Cloze-style Multiple Choice Questions
+
+**Question Answering**
+* Simple and Effective Multi-Paragraph Reading Comprehension 
 
 **KG + NLP**
 
