@@ -86,6 +86,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering](summary/hotpotqa.md) Zhilin Yang et al. ACL 2018 [[arXiv](https://arxiv.org/pdf/1809.09600.pdf)]
 
+* [LearningQ: A Large-scale Dataset for Educational Question Generation
+](summary/learningQ.md) Guanliang Chen et al. AAAI 2018, [[PDF](https://doc.rero.ch/record/309023/files/yan_lls.pdf)]
+
 ## Probing and Interpretability
 
 * [Towards Transparent and Explainable Attention Models](summary/diversity_attention.md) Mohankumar, Mitesh Khapra et al. ACL 2020 [[arXiv](https://arxiv.org/abs/2004.14243)]
