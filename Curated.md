@@ -165,12 +165,13 @@
 
 
 **Question Generation**
-* Learning to Ask: Neural Question Generation for Reading Comprehension, ACL 2017
+* LearningQ: A Large-scale Dataset for Educational Question Generation
+* Recent Advances in Neural Question Generation
+* Semantic Graphs for Generating Deep Questions
+* HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering
 * Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks
 * Question Generation for Question Answering
 * Machine Comprehension by Text-to-Text Neural Question Generation
-* Neural Models for Key Phrase Extraction and Question Generation
-* LearningQ: A Large-scale Dataset for Educational Question Generation
 * Improving Neural Question Generation Using Answer Separation
 * CopyBERT: A Unified Approach to Question Generation with Self-Attention
 * Learning to Automatically Generate Fill-In-The-Blank Quizzes

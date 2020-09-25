@@ -151,6 +151,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Learning to Ask: Neural Question Generation for Reading Comprehension](summary/learning_to_ask.md) Xinya Du et al. ACL 2017 [[arXiv](https://arxiv.org/pdf/1705.00106.pdf)]
 
+* [Neural Models for Key Phrase Extraction and Question Generation](phrase_extraction_que_generation.md) Sandeep Subramanian et al. Machine Reading for Question Answering workshop at ACL 2018 [[arXiv](https://arxiv.org/pdf/1706.04560.pdf)]
+
 ## Knowledge Graphs + NLP
 
 * [Augmenting Neural Networks with First-order Logic](summary/first-order-logic.md) Tao Li, Vivek Srikumar, Archive Preprint, 2019 [[arXiv](https://arxiv.org/pdf/1906.06298.pdf)] 
