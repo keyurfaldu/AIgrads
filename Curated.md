@@ -168,7 +168,6 @@
 
 
 **Question Generation**
-* LearningQ: A Large-scale Dataset for Educational Question Generation
 * Recent Advances in Neural Question Generation
 * Semantic Graphs for Generating Deep Questions
 * HotpotQA: A Dataset for Diverse, Explainable Multi-hop Question Answering

@@ -91,6 +91,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Probing and Interpretability
 
+* [Definitions, methods, and applications in interpretable machine learning](summary/interpretable_ml.md) W. James Murdocha, Chandan Singhb, Karl Kumbiera, Reza Abbasi-Asl, and Bin Yua, PNAS 2019 [[PNAS](https://www.pnas.org/content/pnas/116/44/22071.full.pdf)]
+
+
 * [Towards Transparent and Explainable Attention Models](summary/diversity_attention.md) Mohankumar, Mitesh Khapra et al. ACL 2020 [[arXiv](https://arxiv.org/abs/2004.14243)]
 
 * [Revealing the Dark Secrets of BERT](summary/dark_secret_BERT.md) Olga Kovaleva, ACL 2019 [[arXiv](https://arxiv.org/abs/1908.08593)]
