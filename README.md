@@ -210,6 +210,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [EmbedKGQA: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](summary/embed_kgqa.md), Apoorv Saxena, Aditay Tripathi, Partha Talukdar, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.412.pdf)]
 
+## Emperical Systems
+* [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
+
 ## Software packages on NLP
 * [jiant: A Software Toolkit for Research on General-Purpose Text Understanding Models](summary/jiant.md), Pruksachatkun et al, 2020 [[arXiv](https://arxiv.org/pdf/2003.02249.pdf)]
 
