@@ -155,6 +155,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Question Generation
 
+* [Recent Advances in Neural Question Generation](summary/NQG_survey), Liangming Pan, Min-Yen Kan et al. 2019 [[arXiv](https://arxiv.org/pdf/1905.08949.pdf)]
+
+* [Semantic Graphs for Generating Deep Questions](summary/NQG_semantic_graphs.md), Liangming Pan, Min-Yen Kan et al. 2019 [[arXiv](https://arxiv.org/pdf/2004.12704.pdf)]
+
 * [Learning to Ask: Neural Question Generation for Reading Comprehension](summary/learning_to_ask.md) Xinya Du et al. ACL 2017 [[arXiv](https://arxiv.org/pdf/1705.00106.pdf)]
 
 * [Neural Models for Key Phrase Extraction and Question Generation](phrase_extraction_que_generation.md) Sandeep Subramanian et al. Machine Reading for Question Answering workshop at ACL 2018 [[arXiv](https://arxiv.org/pdf/1706.04560.pdf)]
