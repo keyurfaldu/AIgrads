@@ -168,9 +168,6 @@
 
 
 **Question Generation**
-* Generating Natural Language Question-Answer Pairs from a Knowledge Graph Using a RNN Based Question Generation Model - How it solves the problem of over-general question like who was born in new york.
-* Recent Advances in Neural Question Generation
-* Semantic Graphs for Generating Deep Questions
 * Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks
 * Question Generation for Question Answering
 * Machine Comprehension by Text-to-Text Neural Question Generation
