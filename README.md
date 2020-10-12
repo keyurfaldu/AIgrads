@@ -155,6 +155,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Question Generation
 
+* [Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks](summary/QG_maxout.md), Yao Zhao, Xiaochuan Ni, Yuanyuan Ding, Qifa Ke, ACL 2018 [[arXiv](https://www.aclweb.org/anthology/D18-1424.pdf)]
+
 * [CopyBERT: A Unified Approach to Question Generation with Self-Attention](summary/CopyBERT.md), Stalin Varanasi, Saadullah Amin, Gunter Neumann, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.nlp4convai-1.3.pdf)]
 
 * [Generating Natural Language Question-Answer Pairs from a Knowledge Graph Using a RNN Based Question Generation Model](summary/K2Q_RNN.md), Sathish Indurthi, Dinesh Raghu, Mitesh M. Khapra and Sachindra Joshi. ACL 2017 [[arXiv](https://www.aclweb.org/anthology/E17-1036.pdf)]

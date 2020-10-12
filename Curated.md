@@ -166,6 +166,37 @@
 **e-Learning**
 * Mastering Rate based Curriculum Learning
 
+**Knowledge @ NIPS 2020**
+* https://neurips.cc/Conferences/2020/AcceptedPapersInitial
+
+* Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher
+* Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning
+* Knowledge Augmented Deep Neural Networks for Joint Facial Expression and Action Unit Recognition
+* Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
+* Knowledge Transfer in Multi-Task Deep Reinforcement Learning for Continuous Control
+* Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
+* Learning Retrospective Knowledge with Reverse Reinforcement Learning
+* Learning Deep Attribution Priors Based On Prior Knowledge
+* Searching Recurrent Architecture for Path-based Knowledge Graph Embedding
+* BoxE: A Box Embedding Model for Knowledge Base Completion
+* Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space
+* Algorithmic recourse under imperfect causal knowledge: a probabilistic approach
+* Zero-Resource Knowledge-Grounded Dialogue Generation
+* Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+* Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability
+* Dynamic Fusion of Eye Movement Data and Verbal Narrations in Knowledge-rich Domains
+* Faithful Embeddings for Knowledge Base Queries
+* Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs
+* Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge
+* Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge
+* Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models
+
+
+* MPNet: Masked and Permuted Pre-training for Language Understanding
+* A Benchmark for Systematic Generalization in Grounded Language Understanding
+* Towards Understanding Hierarchical Learning: Benefits of Neural Representations
+
+
 
 **Question Generation**
 * Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks
@@ -174,10 +205,8 @@
 * Improving Neural Question Generation Using Answer Separation
 * CopyBERT: A Unified Approach to Question Generation with Self-Attention
 ** BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model
-** Unified language
-model pre-training for natural language understanding and generation. 
+** Unified language model pre-training for natural language understanding and generation. 
 * A Recurrent BERT-based Model for Question Generation
-
 * Learning to Automatically Generate Fill-In-The-Blank Quizzes
 * Difficulty-aware Distractor Generation for Gap-Fill Items
 * A Systematic Review of Automatic Question Generation for Educational Purposes
