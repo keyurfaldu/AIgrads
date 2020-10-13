@@ -154,6 +154,7 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](summary/cai_synthetic_data.md), Giovanni Campagna Agata Foryciarz Mehrad Moradshahi Monica S. Lam, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.12.pdf)]
 
 ## Question Generation
+* [Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks](summary/Graph2Seq_QG.md) Yu Chen, Lingfei Wu, Mohammed J. Zaki, 2020 [[arXiv](https://arxiv.org/pdf/2004.06015.pdf)] 
 
 * [Paragraph-level Neural Question Generation with Maxout Pointer and Gated Self-attention Networks](summary/QG_maxout.md), Yao Zhao, Xiaochuan Ni, Yuanyuan Ding, Qifa Ke, ACL 2018 [[arXiv](https://www.aclweb.org/anthology/D18-1424.pdf)]
 
