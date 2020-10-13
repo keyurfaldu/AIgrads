@@ -199,7 +199,6 @@
 
 
 **Question Generation**
-* Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks
 * Question Generation for Question Answering
 * Machine Comprehension by Text-to-Text Neural Question Generation
 * Improving Neural Question Generation Using Answer Separation
@@ -211,6 +210,7 @@
 * Difficulty-aware Distractor Generation for Gap-Fill Items
 * A Systematic Review of Automatic Question Generation for Educational Purposes
 * Knowledge-Driven Distractor Generation for Cloze-style Multiple Choice Questions
+* Difficulty-controllable multi-hop question generation from knowledge graphs, 2019
 
 **Question Answering**
 * Simple and Effective Multi-Paragraph Reading Comprehension 
