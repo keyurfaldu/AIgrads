@@ -40,6 +40,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Attention Is All You Need](summary/transformers.md), Vaswani et al, 2017 [[arXiv](https://arxiv.org/pdf/1706.03762.pdf)]
 
+* [GRAPH ATTENTION NETWORKS](summary/GAT.md) Petar Velickovi, Yoshua Bengio et. al., ICLR 2018 [[arXiv](https://arxiv.org/pdf/1710.10903.pdf)]]
+
 ## Fine Tuning & Down-stream Tasks
 
 * [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](summary/GlossBERT.md) Huang et al. 2020 [[arXiv](summary/https://arxiv.org/pdf/1908.07245.pdf)]
