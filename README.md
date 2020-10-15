@@ -160,6 +160,8 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Get To The Point: Summarization with Pointer-Generator Networks](summary/pointer_coverage.md) Abigail See, Peter J. Liu, Christopher D. Manning, 2017 [[arXiv](https://arxiv.org/pdf/1704.04368.pdf)] 
 
 ## Question Generation
+* [Improving Neural Question Generation using Answer Separation](summary/NQG_answer_sep.md), Yanghoon Kim, Hwanhee Lee, Joongbo Shin and Kyomin Jung, AAAI 2018 [[arXiv](https://arxiv.org/pdf/1809.02393.pdf)]
+
 * [Question Generation for Question Answering](summary/QGforQA.md), Nan Duan, Duyu Tang, Peng Chen, Ming Zhou, EMNLP 2017 [[arXiv](aclweb.org/anthology/D17-1090.pdf)]
 
 * [Toward Subgraph Guided Knowledge Graph Question Generation with Graph Neural Networks](summary/Graph2Seq_QG.md) Yu Chen, Lingfei Wu, Mohammed J. Zaki, 2020 [[arXiv](https://arxiv.org/pdf/2004.06015.pdf)] 
