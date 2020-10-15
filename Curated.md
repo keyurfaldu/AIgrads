@@ -199,17 +199,14 @@
 
 
 **Question Generation**
-* Question Generation for Question Answering
 * Machine Comprehension by Text-to-Text Neural Question Generation
 * Improving Neural Question Generation Using Answer Separation
 * CopyBERT: A Unified Approach to Question Generation with Self-Attention
 ** BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model
 ** Unified language model pre-training for natural language understanding and generation. 
 * A Recurrent BERT-based Model for Question Generation
-* Learning to Automatically Generate Fill-In-The-Blank Quizzes
 * Difficulty-aware Distractor Generation for Gap-Fill Items
 * A Systematic Review of Automatic Question Generation for Educational Purposes
-* Knowledge-Driven Distractor Generation for Cloze-style Multiple Choice Questions
 * Difficulty-controllable multi-hop question generation from knowledge graphs, 2019
 
 **Question Answering**
