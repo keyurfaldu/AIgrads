@@ -200,7 +200,6 @@
 
 **Question Generation**
 * Machine Comprehension by Text-to-Text Neural Question Generation
-* Improving Neural Question Generation Using Answer Separation
 * CopyBERT: A Unified Approach to Question Generation with Self-Attention
 ** BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model
 ** Unified language model pre-training for natural language understanding and generation. 
