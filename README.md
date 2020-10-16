@@ -183,7 +183,12 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Neural Models for Key Phrase Extraction and Question Generation](phrase_extraction_que_generation.md) Sandeep Subramanian et al. Machine Reading for Question Answering workshop at ACL 2018 [[arXiv](https://arxiv.org/pdf/1706.04560.pdf)]
 
-## Knowledge Graphs + NLP
+## Knowledge Graph Tasks
+
+* [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](summary/extrapolate_knowledge.md) Jinheon Baek, Dong Bok Lee, Sung Ju Hwang, NIPS 2020 [[arXiv](https://arxiv.org/pdf/2006.06648.pdf)]
+
+
+## Knowledge Infusion 
 
 * [Augmenting Neural Networks with First-order Logic](summary/first-order-logic.md) Tao Li, Vivek Srikumar, Archive Preprint, 2019 [[arXiv](https://arxiv.org/pdf/1906.06298.pdf)] 
 

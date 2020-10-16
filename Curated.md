@@ -172,7 +172,6 @@
 * Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher
 * Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning
 * Knowledge Augmented Deep Neural Networks for Joint Facial Expression and Action Unit Recognition
-* Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction
 * Knowledge Transfer in Multi-Task Deep Reinforcement Learning for Continuous Control
 * Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion
 * Learning Retrospective Knowledge with Reverse Reinforcement Learning
@@ -203,8 +202,6 @@
 * CopyBERT: A Unified Approach to Question Generation with Self-Attention
 ** BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model
 ** Unified language model pre-training for natural language understanding and generation. 
-* A Recurrent BERT-based Model for Question Generation
-* Difficulty-aware Distractor Generation for Gap-Fill Items
 * A Systematic Review of Automatic Question Generation for Educational Purposes
 * Difficulty-controllable multi-hop question generation from knowledge graphs, 2019
 
