@@ -180,7 +180,6 @@
 * BoxE: A Box Embedding Model for Knowledge Base Completion
 * Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space
 * Algorithmic recourse under imperfect causal knowledge: a probabilistic approach
-* Zero-Resource Knowledge-Grounded Dialogue Generation
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
 * Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability
 * Dynamic Fusion of Eye Movement Data and Verbal Narrations in Knowledge-rich Domains
@@ -191,7 +190,6 @@
 * Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models
 
 
-* MPNet: Masked and Permuted Pre-training for Language Understanding
 * A Benchmark for Systematic Generalization in Grounded Language Understanding
 * Towards Understanding Hierarchical Learning: Benefits of Neural Representations
 

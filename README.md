@@ -3,6 +3,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## NLP Pretraining
 
+* [MPNet: Masked and Permuted Pre-training for Language Understanding](summary/mpnet.md) Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu, Tie-Yan Liu et al. NIPS 2020 [[arXiv](https://arxiv.org/pdf/2004.09297.pdf)]
+
 * [ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding](summary/ERNIE2.md) Sun et al. AAAI 2020 [[arXiv](https://arxiv.org/pdf/1907.12412.pdf)]
 
 * [STRUCTBERT: INCORPORATING LANGUAGE STRUCTURES INTO PRETRAINING FOR DEEP LANGUAGE UNDERSTANDING](summary/structbert.md) Wang et al, ICLR 2020 [[arXiv](https://openreview.net/pdf?id=BJgQ4lSFPH)]
