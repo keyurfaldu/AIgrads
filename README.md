@@ -95,6 +95,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Probing and Interpretability
 
+* [A Survey of the State of Explainable AI for Natural Language Processing](summary/XAI_NLP_survey.md) Danilevsky et al. [[arXiv](https://arxiv.org/pdf/2010.00711v1.pdf)]
+
 * [Definitions, methods, and applications in interpretable machine learning](summary/interpretable_ml.md) W. James Murdocha, Chandan Singhb, Karl Kumbiera, Reza Abbasi-Asl, and Bin Yua, PNAS 2019 [[PNAS](https://www.pnas.org/content/pnas/116/44/22071.full.pdf)]
 
 
