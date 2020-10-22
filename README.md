@@ -70,6 +70,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](summary/finetuning_wi_do.md), Dodge et al. 2020  [[arXiv](https://arxiv.org/pdf/2002.06305.pdf)]
 
+* [Taming Pretrained Transformers for Extreme Multi-label Text Classification](summary/XMC_XTransformer.md)], Wei-Cheng Chang, Hsiang-Fu Yu, Kai Zhong, Yiming Yang, Inderjit S. Dhillon, 2020 [[arXiv](https://assets.amazon.science/32/d7/bb602e97419ead030dde419b9191/taming-pretrained-transformers-for-extreme-multi-label-text-classification.pdf)]
+
 ## Multi task learning
 
 * [MT-DNNKD: Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](summary/MTDNNKD.md), Xiaodong Liu et al. [[arXiv](https://arxiv.org/pdf/1904.09482.pdf)]
@@ -90,8 +92,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering](summary/hotpotqa.md) Zhilin Yang et al. ACL 2018 [[arXiv](https://arxiv.org/pdf/1809.09600.pdf)]
 
-* [LearningQ: A Large-scale Dataset for Educational Question Generation
-](summary/learningQ.md) Guanliang Chen et al. AAAI 2018, [[PDF](https://doc.rero.ch/record/309023/files/yan_lls.pdf)]
+* [LearningQ: A Large-scale Dataset for Educational Question Generation](summary/learningQ.md) Guanliang Chen et al. AAAI 2018, [[PDF](https://doc.rero.ch/record/309023/files/yan_lls.pdf)]
 
 ## Probing and Interpretability
 
