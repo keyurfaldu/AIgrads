@@ -160,6 +160,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](summary/cai_synthetic_data.md), Giovanni Campagna Agata Foryciarz Mehrad Moradshahi Monica S. Lam, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.12.pdf)]
 
+## Automated Essay Scoring
+* [Automated Essay Scoring with Discourse-Aware Neural Models](summary/AES_discore_aware.md), Farah Nadeem et al. ACL 2019 [[arXiv](https://www.aclweb.org/anthology/W19-4450.pdf)]
+
 ## Summarisation
 
 * [Get To The Point: Summarization with Pointer-Generator Networks](summary/pointer_coverage.md) Abigail See, Peter J. Liu, Christopher D. Manning, 2017 [[arXiv](https://arxiv.org/pdf/1704.04368.pdf)] 
