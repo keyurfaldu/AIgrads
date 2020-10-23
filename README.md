@@ -3,6 +3,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## NLP Pretraining
 
+* [UNILMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training](summary/unilmv2.md) Hangbo Bao et al. 2020 [[arXiv](https://arxiv.org/pdf/2002.12804.pdf)]
+
 * [MPNet: Masked and Permuted Pre-training for Language Understanding](summary/mpnet.md) Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu, Tie-Yan Liu et al. NIPS 2020 [[arXiv](https://arxiv.org/pdf/2004.09297.pdf)]
 
 * [ERNIE 2.0: A Continual Pre-Training Framework for Language Understanding](summary/ERNIE2.md) Sun et al. AAAI 2020 [[arXiv](https://arxiv.org/pdf/1907.12412.pdf)]
