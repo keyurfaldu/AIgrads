@@ -186,7 +186,6 @@
 * Faithful Embeddings for Knowledge Base Queries
 * Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs
 * Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge
-* Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge
 * Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models
 
 

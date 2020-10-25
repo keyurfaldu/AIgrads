@@ -96,6 +96,11 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [LearningQ: A Large-scale Dataset for Educational Question Generation](summary/learningQ.md) Guanliang Chen et al. AAAI 2018, [[PDF](https://doc.rero.ch/record/309023/files/yan_lls.pdf)]
 
+## Knowledge Probes
+
+* [Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge](summary/reason_implicit_knowledge.md) Alon Talmor, Peter Clark et al, NIPS 2020 [[arXiv](https://arxiv.org/pdf/2006.06609.pdf)]
+
+
 ## Probing and Interpretability
 
 * [A Survey of the State of Explainable AI for Natural Language Processing](summary/XAI_NLP_survey.md) Danilevsky et al. [[arXiv](https://arxiv.org/pdf/2010.00711v1.pdf)]
