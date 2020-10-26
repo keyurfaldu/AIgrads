@@ -188,6 +188,9 @@
 * Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge
 * Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models
 
+* What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge
+* oLMpics -- On what Language Model Pre-training Captures
+
 
 * A Benchmark for Systematic Generalization in Grounded Language Understanding
 * Towards Understanding Hierarchical Learning: Benefits of Neural Representations

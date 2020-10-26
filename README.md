@@ -100,6 +100,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge](summary/reason_implicit_knowledge.md) Alon Talmor, Peter Clark et al, NIPS 2020 [[arXiv](https://arxiv.org/pdf/2006.06609.pdf)]
 
+* [oLMpics - On what Language Model Pre-training Captures](summary/oLMpics.md) Alon Talmor, Yoav Goldberg et al. The Allen Institute for AI, 2020 [[arXiv](https://arxiv.org/pdf/1912.13283.pdf)]
 
 ## Probing and Interpretability
 
