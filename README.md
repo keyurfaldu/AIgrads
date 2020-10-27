@@ -206,6 +206,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Knowledge Infusion 
 
+* [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](summary/RAG.md) Piktus et al, Facebook AI Research, NIPS 2020 [[arXiv](https://arxiv.org/pdf/2005.11401.pdf)]
+
 * [Augmenting Neural Networks with First-order Logic](summary/first-order-logic.md) Tao Li, Vivek Srikumar, Archive Preprint, 2019 [[arXiv](https://arxiv.org/pdf/1906.06298.pdf)] 
 
 * [Towards Generalizable Neuro-Symbolic Systems for Commonsense Question Answering](summary/OCNKI.md) Kaixin Ma et al. COIN workshop, ACL 2019 [[arXiv](https://www.aclweb.org/anthology/D19-6003.pdf)]

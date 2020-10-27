@@ -180,7 +180,10 @@
 * BoxE: A Box Embedding Model for Knowledge Base Completion
 * Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space
 * Algorithmic recourse under imperfect causal knowledge: a probabilistic approach
+
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+   
+
 * Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability
 * Dynamic Fusion of Eye Movement Data and Verbal Narrations in Knowledge-rich Domains
 * Faithful Embeddings for Knowledge Base Queries
@@ -189,13 +192,18 @@
 * Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models
 
 * What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge
-* oLMpics -- On what Language Model Pre-training Captures
 
 
 * A Benchmark for Systematic Generalization in Grounded Language Understanding
 * Towards Understanding Hierarchical Learning: Benefits of Neural Representations
 
+* Billion-scale similarity search with gpus.
 
+ * The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence
+* REALM: Retrieval-Augmented Language Model Pre-Training
+* Dense passage retrieval for open-domain question answering. (DPR) 
+* How Context Affects Language Models' Factual Predictions
+* Latent retrieval for weakly supervised open domain question answering - ACL 2019
 
 **Question Generation**
 * Machine Comprehension by Text-to-Text Neural Question Generation
