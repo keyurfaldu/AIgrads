@@ -273,6 +273,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [THIEVES ON SESAME STREET! MODEL EXTRACTION OF BERT-BASED APIS](summary/bert_extraction.md), Krishna, Mohit Iyyer et al. ICLR 2020 [[arXiv](https://arxiv.org/pdf/1910.12366.pdf)]
 
+## Model Compression
+
+* [Optimal Subarchitecture Extraction For BERT](summary/BORT.md) Adrian de Wynter and Daniel J. Perry, 2020 [[arXiv](https://arxiv.org/pdf/2010.10499.pdf)]
+
 ## Deep Learning Building Blocks
 * [A disciplined approach to neural network hyper-parameters: Part 1 -- learning rate, batch size, momentum, and weight decay](summary/one_cycle_learning.md), Leslie N Smith, 2018 [[arXiv](https://arxiv.org/abs/1803.09820)]
 

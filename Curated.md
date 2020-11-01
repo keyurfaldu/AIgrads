@@ -199,6 +199,11 @@
 
 * Billion-scale similarity search with gpus.
 
+* Well-Read Students Learn Better: On the Importance of Pre-training Compact Models
+* An Algorithm for Learning Smaller Representations of Models With Scarce Data [Agora]
+* An Approximation Algorithm for Optimal Subarchitecture Extraction [FPTAS]
+* 
+
  * The Next Decade in AI: Four Steps Towards Robust Artificial Intelligence
 * REALM: Retrieval-Augmented Language Model Pre-Training
 * Dense passage retrieval for open-domain question answering. (DPR) 
