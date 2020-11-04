@@ -225,8 +225,6 @@
 
 * SCITAIL: A Textual Entailment Dataset from Science Question Answering
 
-* Improving Question Answering by Commonsense-Based Pre-Training
-
 * Graph-Based Reasoning over Heterogeneous External Knowledge for Commonsense Question Answering
 
 * EXPLOITING STRUCTURED KNOWLEDGE IN TEXT VIA GRAPH-GUIDED REPRESENTATION LEARNING
