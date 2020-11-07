@@ -205,6 +205,9 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](summary/CAGE.md) Rajani, McCann, Xiong, Richard Socher, 2019 [[arXiv](summary/https://arxiv.org/pdf/1906.02361.pdf)]
 
+## Meta Learning
+* [DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference](summary/DReCa.md) Shikhar Murty,  Tatsunori B. Hashimoto, Christopher D. Manning, 2020 [[arXiv](https://openreview.net/pdf?id=PqsalKqGudW)]
+
 ## Knowledge Graph Tasks
 
 * [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](summary/extrapolate_knowledge.md) Jinheon Baek, Dong Bok Lee, Sung Ju Hwang, NIPS 2020 [[arXiv](https://arxiv.org/pdf/2006.06648.pdf)]
