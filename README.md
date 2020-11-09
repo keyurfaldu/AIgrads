@@ -215,6 +215,8 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 ## Knowledge Infusion 
 
+* [SenseBERT: Driving Some Sense into BERT](summary/SenseBERT.md) Yoav Levine et al. AI21 Labs, May 2020 [[arXiv](https://arxiv.org/pdf/1908.05646.pdf)]
+
 * [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](summary/RAG.md) Piktus et al, Facebook AI Research, NIPS 2020 [[arXiv](https://arxiv.org/pdf/2005.11401.pdf)]
 
 * [Augmenting Neural Networks with First-order Logic](summary/first-order-logic.md) Tao Li, Vivek Srikumar, Archive Preprint, 2019 [[arXiv](https://arxiv.org/pdf/1906.06298.pdf)] 
