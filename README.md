@@ -284,6 +284,8 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [THIEVES ON SESAME STREET! MODEL EXTRACTION OF BERT-BASED APIS](summary/bert_extraction.md), Krishna, Mohit Iyyer et al. ICLR 2020 [[arXiv](https://arxiv.org/pdf/1910.12366.pdf)]
 
+* [What Can We Do to Improve Peer Review in NLP?](summary/peer_review.md), Anna Rogers, Anna Rogers, 2020 [[arXiv](https://arxiv.org/pdf/2010.03863.pdf)]
+
 ## Model Compression
 
 * [Optimal Subarchitecture Extraction For BERT](summary/BORT.md) Adrian de Wynter and Daniel J. Perry, 2020 [[arXiv](https://arxiv.org/pdf/2010.10499.pdf)]
