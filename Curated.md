@@ -242,6 +242,8 @@
 **Suggestions from Prof Amit Sheth**
 * [Attention in Natural Language Processing](https://arxiv.org/pdf/1902.02181.pdf) 2020
 
+**Medhas Discussion** 
 
+* [GATE: Graph Attention Transformer Encoder for Cross-lingual Relation and Event Extraction](https://arxiv.org/pdf/2010.03009.pdf)
 
 

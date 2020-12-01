@@ -302,3 +302,7 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 * [LAMB: Large Batch Optimization for Deep Learning: Training BERT in 76 minutes](summary/lamb.md), Yang You, Jing Li [[arXiv]](https://arxiv.org/abs/1904.00962)
 
 * [Sentencepience: Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates](summary/sentencepiece.md) Taku Kudo, Google, 2018 [[arXiv](https://arxiv.org/abs/1804.10959)]
+
+* [Self-Attention with Relative Position Representations](summary/relative_position.md) Peter Shaw, Jakob Uszkoreit, Ashish Vaswani [[arXiv](https://arxiv.org/abs/1803.02155)]
+
+
