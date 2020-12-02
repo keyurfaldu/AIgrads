@@ -244,6 +244,5 @@
 
 **Medhas Discussion** 
 
-* [GATE: Graph Attention Transformer Encoder for Cross-lingual Relation and Event Extraction](https://arxiv.org/pdf/2010.03009.pdf)
 
 
