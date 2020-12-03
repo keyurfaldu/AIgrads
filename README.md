@@ -312,3 +312,6 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 * [Self-Attention with Relative Position Representations](summary/relative_position.md) Peter Shaw, Jakob Uszkoreit, Ashish Vaswani [[arXiv](https://arxiv.org/abs/1803.02155)]
 
 
+## Learning Outcomes 
+* [Prerequisite-Driven Deep Knowledge Tracing](summary/PDKTC.md) Penghe Chen, Yu Lu, Vincent W. Zheng, Yang Pian, ICDM 2018 [[arXiv](https://aic-fe.bnu.edu.cn/docs/20190108101850881476.pdf)]
+
