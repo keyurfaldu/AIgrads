@@ -102,6 +102,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [oLMpics - On what Language Model Pre-training Captures](summary/oLMpics.md) Alon Talmor, Yoav Goldberg et al. The Allen Institute for AI, 2020 [[arXiv](https://arxiv.org/pdf/1912.13283.pdf)]
 
+## Explainable AI
+
+* [A Framework for Understanding Unintended Consequences of Machine Learning](summary/formalising_bias.md) Harini Suresh, John V. Guttag, 2020 [[arXiv](https://arxiv.org/pdf/1901.10002.pdf)]
+
 ## Probing and Interpretability
 
 * [A Survey of the State of Explainable AI for Natural Language Processing](summary/XAI_NLP_survey.md) Danilevsky et al. [[arXiv](https://arxiv.org/pdf/2010.00711v1.pdf)]
