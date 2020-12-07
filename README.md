@@ -315,3 +315,5 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 ## Learning Outcomes 
 * [Prerequisite-Driven Deep Knowledge Tracing](summary/PDKTC.md) Penghe Chen, Yu Lu, Vincent W. Zheng, Yang Pian, ICDM 2018 [[arXiv](https://aic-fe.bnu.edu.cn/docs/20190108101850881476.pdf)]
 
+* [Deep Knowledge Tracing](summary/DKT.md) Piech et al, [[NIPS 2015]](https://proceedings.neurips.cc/paper/2015/file/bac9162b47c56fc8a4d2a519803d51b3-Paper.pdf)
+
