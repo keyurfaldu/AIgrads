@@ -317,3 +317,6 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [Deep Knowledge Tracing](summary/DKT.md) Piech et al, [[NIPS 2015]](https://proceedings.neurips.cc/paper/2015/file/bac9162b47c56fc8a4d2a519803d51b3-Paper.pdf)
 
+* [Individualized Bayesian Knowledge Tracing
+Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger, and Geoffrey J. Gordon, CMU, [[Springer 2013](https://www.cs.cmu.edu/~ggordon/yudelson-koedinger-gordon-individualized-bayesian-knowledge-tracing.pdf)]
+
