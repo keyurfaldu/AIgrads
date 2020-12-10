@@ -168,7 +168,6 @@
 
 **Knowledge @ NIPS 2020**
 * https://neurips.cc/Conferences/2020/AcceptedPapersInitial
-
 * Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher
 * Online Fast Adaptation and Knowledge Accumulation: a New Approach to Continual Learning
 * Knowledge Augmented Deep Neural Networks for Joint Facial Expression and Action Unit Recognition
@@ -180,25 +179,17 @@
 * BoxE: A Box Embedding Model for Knowledge Base Completion
 * Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space
 * Algorithmic recourse under imperfect causal knowledge: a probabilistic approach
-
 * Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
-   
-
 * Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability
 * Dynamic Fusion of Eye Movement Data and Verbal Narrations in Knowledge-rich Domains
 * Faithful Embeddings for Knowledge Base Queries
 * Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs
 * Group Knowledge Transfer: Collaborative Training of Large CNNs on the Edge
 * Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models
-
 * What Does My QA Model Know? Devising Controlled Probes using Expert Knowledge
-
-
 * A Benchmark for Systematic Generalization in Grounded Language Understanding
 * Towards Understanding Hierarchical Learning: Benefits of Neural Representations
-
 * Billion-scale similarity search with gpus.
-
 * Well-Read Students Learn Better: On the Importance of Pre-training Compact Models
 * An Algorithm for Learning Smaller Representations of Models With Scarce Data [Agora]
 * An Approximation Algorithm for Optimal Subarchitecture Extraction [FPTAS]
@@ -209,6 +200,30 @@
 * Dense passage retrieval for open-domain question answering. (DPR) 
 * How Context Affects Language Models' Factual Predictions
 * Latent retrieval for weakly supervised open domain question answering - ACL 2019
+
+**Explainability in NIPS2020**
+* How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods [DONE]
+* Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models
+* Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability
+* Margins are Insufficient for Explaining Gradient Boosting
+* What Did You Think Would Happen? Explaining Agent Behaviour Through Intended Outcomes
+* PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks
+* Implicit Regularization in Deep Learning May Not Be Explainable by Norms
+* Model Interpretability through the lens of Computational Complexity
+* Attribution Preservation in Network Compression for Reliable Network Interpretation
+* GANSpace: Discovering Interpretable GAN Controls
+* Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses
+* How does This Interaction Affect Me? Interpretable Attribution for Feature Interactions
+* Towards Interpretable Natural Language Understanding with Explanations as Latent Variables
+* Benchmarking Deep Learning Interpretability in Time Series Predictions
+* ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping
+* Regularizing Black-box Models for Improved Interpretability
+* Fourier-transform-based attribution priors improve the interpretability and stability of deep learning models for genomics
+* Learning identifiable and interpretable latent models of high-dimensional neural activity using pi-VAE
+* Learning outside the Black-Box: The pursuit of interpretable models
+* Incorporating Interpretable Output Constraints in Bayesian Neural Networks
+* Interpretable Sequence Learning for Covid-19 Forecasting
+
 
 **Question Generation**
 * Machine Comprehension by Text-to-Text Neural Question Generation
