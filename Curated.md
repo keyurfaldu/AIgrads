@@ -203,6 +203,7 @@
 
 **Explainability in NIPS2020**
 * How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods [DONE]
+* Towards Interpretable Natural Language Understanding with Explanations as Latent Variables [DONE - Summary Pending]
 * Causal Shapley Values: Exploiting Causal Knowledge to Explain Individual Predictions of Complex Models
 * Asymmetric Shapley values: incorporating causal knowledge into model-agnostic explainability
 * Margins are Insufficient for Explaining Gradient Boosting
@@ -214,7 +215,6 @@
 * GANSpace: Discovering Interpretable GAN Controls
 * Beyond Individualized Recourse: Interpretable and Interactive Summaries of Actionable Recourses
 * How does This Interaction Affect Me? Interpretable Attribution for Feature Interactions
-* Towards Interpretable Natural Language Understanding with Explanations as Latent Variables
 * Benchmarking Deep Learning Interpretability in Time Series Predictions
 * ICAM: Interpretable Classification via Disentangled Representations and Feature Attribution Mapping
 * Regularizing Black-box Models for Improved Interpretability

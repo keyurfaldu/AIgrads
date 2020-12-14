@@ -110,6 +110,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](summary/integrated_hessians.md) Janizek, Sturmfels, Lee, 2020 [[arXiv](https://arxiv.org/pdf/2002.04138.pdf)]
 
+* [Towards Interpretable Natural Language Understanding with Explanations as Latent Variables](summary/latent_explanations.md) Zhou, Hu, Zhang, Liang, Sun, Xiong, Tang et al. [[arXiv](https://arxiv.org/pdf/2011.05268.pdf)]
+
 ## Probing and Interpretability
 
 * [A Survey of the State of Explainable AI for Natural Language Processing](summary/XAI_NLP_survey.md) Danilevsky et al. [[arXiv](https://arxiv.org/pdf/2010.00711v1.pdf)]
