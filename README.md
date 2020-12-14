@@ -108,6 +108,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [How Can I Explain This to You? An Empirical Study of Deep Neural Network Explanation Methods](summary/explainabilty_emperical_study.md) Jeya Vikranth Jeyakumar, Joseph Noor, Yu-Hsi Cheng, Luis Garcia, Mani Srivastava, NIPS 2020 [[arXiv](https://proceedings.neurips.cc//paper/2020/file/2c29d89cc56cdb191c60db2f0bae796b-Paper.pdf)]
 
+* [Explaining Explanations: Axiomatic Feature Interactions for Deep Networks](summary/integrated_hessians.md) Janizek, Sturmfels, Lee, 2020 [[arXiv](https://arxiv.org/pdf/2002.04138.pdf)]
+
 ## Probing and Interpretability
 
 * [A Survey of the State of Explainable AI for Natural Language Processing](summary/XAI_NLP_survey.md) Danilevsky et al. [[arXiv](https://arxiv.org/pdf/2010.00711v1.pdf)]
