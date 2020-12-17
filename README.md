@@ -114,6 +114,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Principles and Practice of Explainable Machine Learning](summary/explainable_ml.md) Vaishak Belle, Ioannis Papantonis [[arXiv](https://arxiv.org/pdf/2009.11698.pdf)]
 
+* [Explainable Artificial Intelligence (XAI): Concepts, Taxonomies, Opportunities and Challenges toward Responsible AI](summary/xai_concepts.md), Arrieta et al., 2019 [[arXiv](https://arxiv.org/abs/1910.10045)]
+
 ## Probing and Interpretability
 
 * [A Survey of the State of Explainable AI for Natural Language Processing](summary/XAI_NLP_survey.md) Danilevsky et al. [[arXiv](https://arxiv.org/pdf/2010.00711v1.pdf)]
