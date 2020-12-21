@@ -226,6 +226,8 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [Learning to Extrapolate Knowledge: Transductive Few-shot Out-of-Graph Link Prediction](summary/extrapolate_knowledge.md) Jinheon Baek, Dong Bok Lee, Sung Ju Hwang, NIPS 2020 [[arXiv](https://arxiv.org/pdf/2006.06648.pdf)]
 
+* [Query2box: Reasoning over Knowledge Graphs in Vector Space using Box Embeddings](summary/Query2Box.md), Hongyu Ren, Weihua Hu, Jure Leskovec, ICLR 2020 [[arXiv](https://arxiv.org/pdf/2002.05969.pdf)]
+
 
 ## Knowledge Infusion 
 

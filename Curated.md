@@ -257,7 +257,18 @@
 **Suggestions from Prof Amit Sheth**
 * [Attention in Natural Language Processing](https://arxiv.org/pdf/1902.02181.pdf) 2020
 
-**Medhas Discussion** 
-
+**Tutorial** 
+* Query2box: Reasoning over Knowledge Graphs in Vector Space using Box Embeddings, ICLR 2020  [DONE]
+* BoxE: A Box Embedding Model for Knowledge Base Completion, NIPS 2020
+* A Multidisciplinary Survey and Framework for Design and Evaluation of Explainable AI Systems, 2020
+* Neural-Symbolic Computing: An Effective Methodology for Principled Integration of Machine Learning and Reasoning, 2019
+* Black-Box vs. White-Box: Understanding Their Advantages and Weaknesses From a Practical Point of View
+* Beta Embeddings for Multi-Hop Logical Reasoning in Knowledge Graphs, NIPS 2020
+* PGM-Explainer: Probabilistic Graphical Model Explanations for Graph Neural Networks, NIPS 2020
+* Parameterized Explainer for Graph Neural Network, NIPS 2020
+* Learning Contextualized Knowledge Structures for Commonsense Reasoning, KR2ML NIPS 2020
+* Knowledge Graph Enhanced Relation Extraction, KR2ML NIPS 2020
+* LRTA: A Transparent Neural-Symbolic Reasoning Framework with Modular Supervision for Visual Question Answering
+* Inductive Quantum Embedding, NeurIPS 2020
 
 
