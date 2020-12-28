@@ -74,6 +74,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Taming Pretrained Transformers for Extreme Multi-label Text Classification](summary/XMC_XTransformer.md)], Wei-Cheng Chang, Hsiang-Fu Yu, Kai Zhong, Yiming Yang, Inderjit S. Dhillon, 2020 [[arXiv](https://assets.amazon.science/32/d7/bb602e97419ead030dde419b9191/taming-pretrained-transformers-for-extreme-multi-label-text-classification.pdf)]
 
+* [If Beam Search is the Answer, What was the Question?](summary/beam_search_objective.md), Clara Meister, Tim Vieira, Ryan Cotterell, Oct 2020, EMNLP [[arXiv](https://arxiv.org/pdf/2010.02650.pdf)]
+
 ## Multi task learning
 
 * [MT-DNNKD: Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](summary/MTDNNKD.md), Xiaodong Liu et al. [[arXiv](https://arxiv.org/pdf/1904.09482.pdf)]
@@ -217,7 +219,7 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Retrieve, Rerank, Read, then Iterate:
 Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.md) Peng Qi, Christopher Manning et al. 2020 [[arXiv](https://arxiv.org/pdf/2010.12527.pdf)]
 
-* [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](summary/CAGE.md) Rajani, McCann, Xiong, Richard Socher, 2019 [[arXiv](summary/https://arxiv.org/pdf/1906.02361.pdf)]
+* [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](summary/CAGE.md) Rajani, McCann, Xiong, Richard Socher, 2019 [[arXiv](https://arxiv.org/pdf/1906.02361.pdf)]
 
 ## Meta Learning
 * [DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference](summary/DReCa.md) Shikhar Murty,  Tatsunori B. Hashimoto, Christopher D. Manning, 2020 [[arXiv](https://openreview.net/pdf?id=PqsalKqGudW)]
