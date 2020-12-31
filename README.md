@@ -120,6 +120,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Jhamtani, Harsh, and Peter Clark. ["Learning to Explain: Datasets and Models for Identifying Valid Reasoning Chains in Multihop Question-Answering."](summary/GRC.md) arXiv preprint arXiv:2010.03274 (2020)[[arXiv](https://arxiv.org/pdf/2010.03274.pdf)]
 
+* Narang, Sharan, Colin Raffel, Katherine Lee, Adam Roberts, Noah Fiedel, and Karishma Malkan. ["WT5?! Training Text-to-Text Models to Explain their Predictions."](summary/WT5.md) arXiv preprint arXiv:2004.14546 (2020).[[arXiv](https://arxiv.org/pdf/2004.14546.pdf)]
+
 ## Probing and Interpretability
 
 * [A Survey of the State of Explainable AI for Natural Language Processing](summary/XAI_NLP_survey.md) Danilevsky et al. [[arXiv](https://arxiv.org/pdf/2010.00711v1.pdf)]
