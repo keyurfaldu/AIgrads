@@ -98,6 +98,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [LearningQ: A Large-scale Dataset for Educational Question Generation](summary/learningQ.md) Guanliang Chen et al. AAAI 2018, [[PDF](https://doc.rero.ch/record/309023/files/yan_lls.pdf)]
 
+* Khot, Tushar, Peter Clark, Michal Guerquin, Peter Jansen, and Ashish Sabharwal. ["QASC: A Dataset for Question Answering via Sentence Composition."](summary/QASC.md) In AAAI, pp. 8082-8090. 2020.
+
 ## Knowledge Probes
 
 * [Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge](summary/reason_implicit_knowledge.md) Alon Talmor, Peter Clark et al, NIPS 2020 [[arXiv](https://arxiv.org/pdf/2006.06609.pdf)]
