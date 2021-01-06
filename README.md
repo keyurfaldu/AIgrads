@@ -223,6 +223,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Ko, Wei-Jen, Te-Yuan Chen, Yiyan Huang, Greg Durrett, and Junyi Jessy Li. ["Inquisitive Question Generation for High Level Text Comprehension."](summary/inquirer.md) arXiv preprint arXiv:2010.01657 (2020).[[arXiv](https://arxiv.org/pdf/2010.01657.pdf)]
 
+* Sultan, Md Arafat, Shubham Chandel, Ramón Fernandez Astudillo, and Vittorio Castelli. ["On the importance of diversity in question generation for QA."](summary/QG_diversity.md) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 5651-5656. 2020.[[arXiv](https://www.aclweb.org/anthology/2020.acl-main.500.pdf)]
+
 ## Question Answering
 * [Retrieve, Rerank, Read, then Iterate:
 Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.md) Peng Qi, Christopher Manning et al. 2020 [[arXiv](https://arxiv.org/pdf/2010.12527.pdf)]
