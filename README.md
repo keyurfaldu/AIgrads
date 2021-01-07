@@ -76,6 +76,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [If Beam Search is the Answer, What was the Question?](summary/beam_search_objective.md), Clara Meister, Tim Vieira, Ryan Cotterell, Oct 2020, EMNLP [[arXiv](https://arxiv.org/pdf/2010.02650.pdf)]
 
+* Xu, Benfeng, Licheng Zhang, Zhendong Mao, Quan Wang, Hongtao Xie, and Yongdong Zhang. ["Curriculum learning for natural language understanding."](summary/NLU_CL.md) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 6095-6104. 2020. [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.542.pdf)]
+
 ## Multi task learning
 
 * [MT-DNNKD: Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding](summary/MTDNNKD.md), Xiaodong Liu et al. [[arXiv](https://arxiv.org/pdf/1904.09482.pdf)]
