@@ -46,6 +46,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [GRAPH ATTENTION NETWORKS](summary/GAT.md) Petar Velickovi, Yoshua Bengio et. al., ICLR 2018 [[arXiv](https://arxiv.org/pdf/1710.10903.pdf)]]
 
+* He, Pengcheng, Xiaodong Liu, Jianfeng Gao, and Weizhu Chen. ["DeBERTa: Decoding-enhanced BERT with Disentangled Attention."](summary/DeBERTa.md) arXiv preprint arXiv:2006.03654 (2020). [[arXiv](https://arxiv.org/pdf/2006.03654.pdf)]
+
 ## Fine Tuning & Down-stream Tasks
 
 * [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](summary/GlossBERT.md) Huang et al. 2020 [[arXiv](summary/https://arxiv.org/pdf/1908.07245.pdf)]
