@@ -277,12 +277,6 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](summary/Hyperbolic_KG_embedding.md) Chami et al, ACL 2020 [[arXiv](aclweb.org/anthology/2020.acl-main.617.pdf)]
 
-* [Convolutional 2D Knowledge Graph Embeddings](summary/ConvE.md), Dettmers et al, AAAI 2018 [[arXiv](https://arxiv.org/abs/1707.01476)]
-
-* [InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions](summary/InteractE.md), Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar, AAAI 2020 [[arXiv](https://arxiv.org/pdf/1911.00219.pdf)]
-
-* [Translating Embeddings for Modeling Multi-relational Data](summary/TransE.md), Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, NIPS 2013 [[arXiv](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)]
-
 * [K-Adapters: Infusing Knowledge into Pre-Trained Models with Adapters](summary/k-adapter.md), Ruize Wang, Ming Zhou et al. ACL 2020 [[arXiv](https://arxiv.org/pdf/2002.01808.pdf)]
 
 * [ERWISE: Zero-shot Word Sense Disambiguation using Sense Definition Embeddings](summary/ERWISE.md) Sawan Kumar, Partha Talukdar, ACL 2019 [[arXiv](https://malllabiisc.github.io/publications/papers/EWISE_ACL19.pdf)]
@@ -303,6 +297,16 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 * [ERNIE: Enhanced Language Representation with Informative Entities](summary/ernie.md), Zhang et al, ACL 2019 [[arXiv](https://arxiv.org/pdf/1905.07129.pdf)]
 
 * [EmbedKGQA: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](summary/embed_kgqa.md), Apoorv Saxena, Aditay Tripathi, Partha Talukdar, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.412.pdf)]
+
+## KG Embeddings
+
+* [Convolutional 2D Knowledge Graph Embeddings](summary/ConvE.md), Dettmers et al, AAAI 2018 [[arXiv](https://arxiv.org/abs/1707.01476)]
+
+* [Translating Embeddings for Modeling Multi-relational Data](summary/TransE.md), Antoine Bordes, Nicolas Usunier, Alberto Garcia-Duran, NIPS 2013 [[arXiv](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)]
+
+* [InteractE: Improving Convolution-based Knowledge Graph Embeddings by Increasing Feature Interactions](summary/InteractE.md), Shikhar Vashishth, Soumya Sanyal, Vikram Nitin, Nilesh Agrawal, Partha Talukdar, AAAI 2020 [[arXiv](https://arxiv.org/pdf/1911.00219.pdf)]
+
+* Abboud, Ralph, Ismail Ceylan, Thomas Lukasiewicz, and Tommaso Salvatori. ["BoxE: A Box Embedding Model for Knowledge Base Completion."](summary/BoxE.md) Advances in Neural Information Processing Systems 33 (2020).
 
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
