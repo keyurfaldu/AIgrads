@@ -235,6 +235,10 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](summary/CAGE.md) Rajani, McCann, Xiong, Richard Socher, 2019 [[arXiv](https://arxiv.org/pdf/1906.02361.pdf)]
 
+* Min, Sewon, Jordan Boyd-Graber, Chris Alberti, Danqi Chen, Eunsol Choi, Michael Collins, Kelvin Guu et al. ["NeurIPS 2020 EfficientQA Competition: Systems, Analyses and Lessons Learned."](summary/EfficientQA_analysis.md) arXiv preprint arXiv:2101.00133 (2021). [[arXiv](https://arxiv.org/abs/2101.00133)]
+
+* Karpukhin, Vladimir, Barlas Oğuz, Sewon Min, Ledell Wu, Sergey Edunov, Danqi Chen, and Wen-tau Yih. ["Dense Passage Retrieval for Open-Domain Question Answering."](summary/DPR.md), arXiv preprint arXiv:2004.04906 (2020).[[arXiv](https://arxiv.org/pdf/2004.04906.pdf)]
+
 ## Meta Learning
 * [DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference](summary/DReCa.md) Shikhar Murty,  Tatsunori B. Hashimoto, Christopher D. Manning, 2020 [[arXiv](https://openreview.net/pdf?id=PqsalKqGudW)]
 
