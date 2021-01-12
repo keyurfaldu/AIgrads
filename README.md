@@ -349,7 +349,7 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [Group Normalization](summary/group_norm.md) Wu, Yuxin, and Kaiming He. "Group normalization." Proceedings of the European conference on computer vision (ECCV). 2018. [[arXiv](https://arxiv.org/pdf/1803.08494.pdf)]
 
-
+* Cheng, Hao, Xiaodong Liu, Lis Pereira, Yaoliang Yu, and Jianfeng Gao. ["Posterior Differential Regularization with f-divergence for Improving Model Robustness."](summary/PDR.md) arXiv preprint arXiv:2010.12638 (2020) [[arXiv](https://arxiv.org/pdf/2010.12638.pdf)].
 
 ## Learning Outcomes 
 * [Prerequisite-Driven Deep Knowledge Tracing](summary/PDKTC.md) Penghe Chen, Yu Lu, Vincent W. Zheng, Yang Pian, ICDM 2018 [[arXiv](https://aic-fe.bnu.edu.cn/docs/20190108101850881476.pdf)]
