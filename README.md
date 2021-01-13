@@ -239,6 +239,8 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * Karpukhin, Vladimir, Barlas Oğuz, Sewon Min, Ledell Wu, Sergey Edunov, Danqi Chen, and Wen-tau Yih. ["Dense Passage Retrieval for Open-Domain Question Answering."](summary/DPR.md), arXiv preprint arXiv:2004.04906 (2020).[[arXiv](https://arxiv.org/pdf/2004.04906.pdf)]
 
+* Cheng, Hao, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. ["Probabilistic Assumptions Matter: Improved Models for Distantly-Supervised Document-Level Question Answering."](summary/DocumentQA.md) arXiv preprint arXiv:2005.01898 (2020).[[arXiv](https://arxiv.org/pdf/2005.01898.pdf)]
+
 ## Meta Learning
 * [DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference](summary/DReCa.md) Shikhar Murty,  Tatsunori B. Hashimoto, Christopher D. Manning, 2020 [[arXiv](https://openreview.net/pdf?id=PqsalKqGudW)]
 
