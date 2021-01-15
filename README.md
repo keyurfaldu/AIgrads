@@ -241,6 +241,8 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * Cheng, Hao, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. ["Probabilistic Assumptions Matter: Improved Models for Distantly-Supervised Document-Level Question Answering."](summary/DocumentQA.md) arXiv preprint arXiv:2005.01898 (2020).[[arXiv](https://arxiv.org/pdf/2005.01898.pdf)]
 
+* Ju, Ying, Fubang Zhao, Shijie Chen, Bowen Zheng, Xuefeng Yang, and Yunfeng Liu. ["Technical report on conversational question answering."](summary/QA_AT_KD.md) arXiv preprint arXiv:1909.10772 (2019).[[arXiv](https://arxiv.org/pdf/1909.10772.pdf)]
+
 ## Meta Learning
 * [DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference](summary/DReCa.md) Shikhar Murty,  Tatsunori B. Hashimoto, Christopher D. Manning, 2020 [[arXiv](https://openreview.net/pdf?id=PqsalKqGudW)]
 
