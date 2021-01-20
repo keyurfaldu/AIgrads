@@ -48,6 +48,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * He, Pengcheng, Xiaodong Liu, Jianfeng Gao, and Weizhu Chen. ["DeBERTa: Decoding-enhanced BERT with Disentangled Attention."](summary/DeBERTa.md) arXiv preprint arXiv:2006.03654 (2020). [[arXiv](https://arxiv.org/pdf/2006.03654.pdf)]
 
+* Lewis, Mike, Marjan Ghazvininejad, Gargi Ghosh, Armen Aghajanyan, Sida Wang, and Luke Zettlemoyer. ["MARGE: Pre-training via paraphrasing."](summary/MARGE.md) arXiv preprint arXiv:2006.15020 (2020).[[arXiv](https://arxiv.org/pdf/2006.15020.pdf)]
+
+* Mao, Yuning, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, and Weizhu Chen. ["Generation-augmented retrieval for open-domain question answering."](summary/GAR.md) arXiv preprint arXiv:2009.08553 (2020) [[arXiv](https://arxiv.org/pdf/2009.08553.pdf)].
+
 ## Fine Tuning & Down-stream Tasks
 
 * [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](summary/GlossBERT.md) Huang et al. 2020 [[arXiv](summary/https://arxiv.org/pdf/1908.07245.pdf)]
