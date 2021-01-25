@@ -52,6 +52,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Mao, Yuning, Pengcheng He, Xiaodong Liu, Yelong Shen, Jianfeng Gao, Jiawei Han, and Weizhu Chen. ["Generation-augmented retrieval for open-domain question answering."](summary/GAR.md) arXiv preprint arXiv:2009.08553 (2020) [[arXiv](https://arxiv.org/pdf/2009.08553.pdf)].
 
+* Fedus, William, Barret Zoph, and Noam Shazeer. ["Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity."](summary/switch_transformers.md) arXiv preprint arXiv:2101.03961 (2021) [[arXiv](https://arxiv.org/pdf/2101.03961.pdf)].
+
 ## Fine Tuning & Down-stream Tasks
 
 * [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](summary/GlossBERT.md) Huang et al. 2020 [[arXiv](summary/https://arxiv.org/pdf/1908.07245.pdf)]
