@@ -249,6 +249,8 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * Ju, Ying, Fubang Zhao, Shijie Chen, Bowen Zheng, Xuefeng Yang, and Yunfeng Liu. ["Technical report on conversational question answering."](summary/QA_AT_KD.md) arXiv preprint arXiv:1909.10772 (2019).[[arXiv](https://arxiv.org/pdf/1909.10772.pdf)]
 
+* Khashabi, Daniel, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter Clark, and Hannaneh Hajishirzi. ["Unifiedqa: Crossing format boundaries with a single qa system."](summary/unifiedQA.md) arXiv preprint [[arXiv:2005.00700](https://arxiv.org/pdf/2005.00700.pdf)] (2020).
+
 ## Meta Learning
 * [DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference](summary/DReCa.md) Shikhar Murty,  Tatsunori B. Hashimoto, Christopher D. Manning, 2020 [[arXiv](https://openreview.net/pdf?id=PqsalKqGudW)]
 
