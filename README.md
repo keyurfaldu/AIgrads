@@ -314,6 +314,8 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [EmbedKGQA: Improving Multi-hop Question Answering over Knowledge Graphs using Knowledge Base Embeddings](summary/embed_kgqa.md), Apoorv Saxena, Aditay Tripathi, Partha Talukdar, 2020 [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.412.pdf)]
 
+* Feng, Yanlin, Xinyue Chen, Bill Yuchen Lin, Peifeng Wang, Jun Yan, and Xiang Ren. ["Scalable multi-hop relational reasoning for knowledge-aware question answering."](summary/MHGRN.md) arXiv preprint [[arXiv:2005.00646](https://arxiv.org/pdf/2005.00646.pdf)] (2020).
+
 ## KG Embeddings
 
 * [Convolutional 2D Knowledge Graph Embeddings](summary/ConvE.md), Dettmers et al, AAAI 2018 [[arXiv](https://arxiv.org/abs/1707.01476)]
