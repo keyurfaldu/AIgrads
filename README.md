@@ -251,6 +251,8 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * Khashabi, Daniel, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter Clark, and Hannaneh Hajishirzi. ["Unifiedqa: Crossing format boundaries with a single qa system."](summary/unifiedQA.md) arXiv preprint [[arXiv:2005.00700](https://arxiv.org/pdf/2005.00700.pdf)] (2020).
 
+* Gomez-Perez, Jose Manuel, and Raul Ortega. ["ISAAQ--Mastering Textbook Questions with Pre-trained Transformers and Bottom-Up and Top-Down Attention."](summary/ISAAQ.md) arXiv preprint [[arXiv:2010.00562](https://arxiv.org/pdf/2010.00562.pdf)] (2020).
+
 ## Meta Learning
 * [DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference](summary/DReCa.md) Shikhar Murty,  Tatsunori B. Hashimoto, Christopher D. Manning, 2020 [[arXiv](https://openreview.net/pdf?id=PqsalKqGudW)]
 
