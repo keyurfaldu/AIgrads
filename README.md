@@ -375,3 +375,5 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 * [Individualized Bayesian Knowledge Tracing
 Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger, and Geoffrey J. Gordon, CMU, [[Springer 2013](https://www.cs.cmu.edu/~ggordon/yudelson-koedinger-gordon-individualized-bayesian-knowledge-tracing.pdf)]
 
+## Machine Learning Fundametals
+* [Linear Regression](summary/Linear_Regression.pdf)
