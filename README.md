@@ -377,3 +377,9 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 
 ## Machine Learning Fundametals
 * [Linear Regression](summary/Linear_Regression.pdf)
+* [Logistic Regression](summary/Logistic_Regression.pdf)
+* [Normal Equation and Newton's Method](summary/Normal_Equation_and_Newton_s_Method.pdf)
+* [Generalised Linear Models](summary/Generalised_Linear_Models.pdf.pdf)
+* [Generative Learning Algorithms](summary/Generative_Learning_Algorithms.pdf.pdf)
+* [Support Vector Machines](summary/Support_Vector_Machines.pdf)
+* [Learning Theory](summary/Learning_Theory.pdf)
