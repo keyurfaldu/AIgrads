@@ -383,3 +383,4 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 * [Generative Learning Algorithms](summary/Generative_Learning_Algorithms.pdf.pdf)
 * [Support Vector Machines](summary/Support_Vector_Machines.pdf)
 * [Learning Theory](summary/Learning_Theory.pdf)
+* [Regularisation and Model Selection](summary/Regularization_and_model_selection.pdf)
