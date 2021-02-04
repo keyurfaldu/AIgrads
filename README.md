@@ -384,3 +384,4 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 * [Support Vector Machines](summary/Support_Vector_Machines.pdf)
 * [Learning Theory](summary/Learning_Theory.pdf)
 * [Regularisation and Model Selection](summary/Regularization_and_model_selection.pdf)
+* [The perceptron and large margin classifer](summary/The_perceptron_and_large_margin_classifiers.pdf.pdf)
