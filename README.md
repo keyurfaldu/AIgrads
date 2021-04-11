@@ -385,3 +385,5 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 * [Learning Theory](summary/Learning_Theory.pdf)
 * [Regularisation and Model Selection](summary/Regularization_and_model_selection.pdf)
 * [The perceptron and large margin classifer](summary/The_perceptron_and_large_margin_classifiers.pdf.pdf)
+* [Trees, Bagging and Boosting](summary/trees_bagging_boosting.pdf)
+
