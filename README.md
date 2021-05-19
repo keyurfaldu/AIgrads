@@ -1,7 +1,7 @@
 # grad-AI
 This is a niche collection of research papers which are proven to be gradients pushing the field of Natural Language Processing, Deep Learning and Artificial Intelligence
 
-## NLP Pretraining
+## NLP Pretraining and Architectures
 
 * [UNILMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training](summary/unilmv2.md) Hangbo Bao et al. 2020 [[arXiv](https://arxiv.org/pdf/2002.12804.pdf)]
 
@@ -85,6 +85,9 @@ This is a niche collection of research papers which are proven to be gradients p
 * [If Beam Search is the Answer, What was the Question?](summary/beam_search_objective.md), Clara Meister, Tim Vieira, Ryan Cotterell, Oct 2020, EMNLP [[arXiv](https://arxiv.org/pdf/2010.02650.pdf)]
 
 * Xu, Benfeng, Licheng Zhang, Zhendong Mao, Quan Wang, Hongtao Xie, and Yongdong Zhang. ["Curriculum learning for natural language understanding."](summary/NLU_CL.md) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 6095-6104. 2020. [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.542.pdf)]
+
+* Lee-Thorp, James, Joshua Ainslie, Ilya Eckstein, and Santiago Ontanon. ["FNet: Mixing Tokens with Fourier Transforms."](summary/FNet.md) arXiv preprint arXiv:2105.03824 (2021).
+
 
 ## Multi task learning
 
