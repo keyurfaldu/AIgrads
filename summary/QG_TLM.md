@@ -15,4 +15,10 @@ This paper formulate question generation as a decoder only language model and fi
 * Automated evaluation using BLEU scores and METEOR and ROUGE-L scores.
 * Human evaluation on relevance, difficulty and naturalness. Cohen's Kappa for IAA
 * It performs bunch of other analysis on top of how questions are generated.
+* Numbers are much worse than UniLM or other SOTA methods, but those methods are also "answer-aware" methods.
+* Results can be seen as below:
 
+<p align="center">
+        <img width=600 src="images/qg_tlm_metrics.png">
+        <em>Source: Author</em>
+        </p>
