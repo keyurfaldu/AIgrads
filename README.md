@@ -238,6 +238,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Sultan, Md Arafat, Shubham Chandel, Ramón Fernandez Astudillo, and Vittorio Castelli. ["On the importance of diversity in question generation for QA."](summary/QG_diversity.md) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 5651-5656. 2020.[[arXiv](https://www.aclweb.org/anthology/2020.acl-main.500.pdf)]
 
+* Lopez, Luis Enrico, Diane Kathryn Cruz, Jan Christian Blaise Cruz, and Charibeth Cheng. ["Simplifying Paragraph-level Question Generation via Transformer Language Models."](summary/QG_TLM.md) arXiv preprint arXiv:2005.01107 (2020)[[arXiv](https://arxiv.org/pdf/2005.01107.pdf)].
+
 ## Question Answering
 * [Retrieve, Rerank, Read, then Iterate:
 Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.md) Peng Qi, Christopher Manning et al. 2020 [[arXiv](https://arxiv.org/pdf/2010.12527.pdf)]
