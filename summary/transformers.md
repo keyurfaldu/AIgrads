@@ -35,7 +35,7 @@ Major contributions:
         * To facilitate residual connections, dimensions of each layer, embeddings etc are kept constant.
 
     * **Decoder**:
-        * Stack of N=6 layers. In addition to tow sub-layers, decoder inserts one more multi-head attention over output of encoder stack. Where K, V comes from encoders and Query comes from decoder.
+        * Stack of N=6 layers. In addition to two sub-layers, decoder inserts one more multi-head attention over output of encoder stack. Where K, V comes from encoders and Query comes from decoder.
     * Masking to make sure self-attention does not attent subsequent positions.
 
     <p align="center">

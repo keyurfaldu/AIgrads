@@ -347,7 +347,7 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 
 * [AllenNLP Interpret: A Framework for Explaining Predictions of NLP Models](summary/allen_nlp.md), Wallace et al, 2019 EMNLP [[arXiv](https://www.aclweb.org/anthology/D19-3002.pdf)]
 
-## AI Ethics & Futuer
+## AI Ethics & Future
 
 * [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](summary/meaning.md) Bender, Koller, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.463.pdf)]
 
