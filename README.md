@@ -80,8 +80,6 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Fine-Tuning Pretrained Language Models: Weight Initializations, Data Orders, and Early Stopping](summary/finetuning_wi_do.md), Dodge et al. 2020  [[arXiv](https://arxiv.org/pdf/2002.06305.pdf)]
 
-* [Taming Pretrained Transformers for Extreme Multi-label Text Classification](summary/XMC_XTransformer.md)], Wei-Cheng Chang, Hsiang-Fu Yu, Kai Zhong, Yiming Yang, Inderjit S. Dhillon, 2020 [[arXiv](https://assets.amazon.science/32/d7/bb602e97419ead030dde419b9191/taming-pretrained-transformers-for-extreme-multi-label-text-classification.pdf)]
-
 * [If Beam Search is the Answer, What was the Question?](summary/beam_search_objective.md), Clara Meister, Tim Vieira, Ryan Cotterell, Oct 2020, EMNLP [[arXiv](https://arxiv.org/pdf/2010.02650.pdf)]
 
 * Xu, Benfeng, Licheng Zhang, Zhendong Mao, Quan Wang, Hongtao Xie, and Yongdong Zhang. ["Curriculum learning for natural language understanding."](summary/NLU_CL.md) In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pp. 6095-6104. 2020. [[ACLWeb](https://www.aclweb.org/anthology/2020.acl-main.542.pdf)]
@@ -200,6 +198,10 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Understanding Attention for Text Classification](summary/understanding_attention.md), Xiaobing Sun and Wei Lu, Singapore University, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.312.pdf)]
 
 ## Extreme Classification
+
+* [Taming Pretrained Transformers for Extreme Multi-label Text Classification](summary/XMC_XTransformer.md)], Wei-Cheng Chang, Hsiang-Fu Yu, Kai Zhong, Yiming Yang, Inderjit S. Dhillon, 2020 [[arXiv](https://assets.amazon.science/32/d7/bb602e97419ead030dde419b9191/taming-pretrained-transformers-for-extreme-multi-label-text-classification.pdf)]
+
+
 * Dahiya, Kunal, Deepak Saini, Anshul Mittal, Ankush Shaw, Kushal Dave, Akshay Soni, Himanshu Jain, Sumeet Agarwal, and Manik Varma. ["DeepXML: A Deep Extreme Multi-Label Learning Framework Applied to Short Text Documents."](summary/DeepXML.md) In Proceedings of the 14th ACM International Conference on Web Search and Data Mining, pp. 31-39. 2021.[[arXiv](http://manikvarma.org/pubs/dahiya21-main.pdf)]
 
 ## Conversational AI
