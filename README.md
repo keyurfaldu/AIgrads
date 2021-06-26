@@ -199,6 +199,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [Understanding Attention for Text Classification](summary/understanding_attention.md), Xiaobing Sun and Wei Lu, Singapore University, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.312.pdf)]
 
+## Extreme Classification
+* Dahiya, Kunal, Deepak Saini, Anshul Mittal, Ankush Shaw, Kushal Dave, Akshay Soni, Himanshu Jain, Sumeet Agarwal, and Manik Varma. ["DeepXML: A Deep Extreme Multi-Label Learning Framework Applied to Short Text Documents."](summary/DeepXML.md) In Proceedings of the 14th ACM International Conference on Web Search and Data Mining, pp. 31-39. 2021.[[arXiv](http://manikvarma.org/pubs/dahiya21-main.pdf)]
+
 ## Conversational AI
 
 * [Zero-Shot Transfer Learning with Synthesized Data for Multi-Domain Dialogue State Tracking](summary/cai_synthetic_data.md), Giovanni Campagna Agata Foryciarz Mehrad Moradshahi Monica S. Lam, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.12.pdf)]
