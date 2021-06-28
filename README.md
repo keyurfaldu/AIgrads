@@ -246,8 +246,7 @@ This is a niche collection of research papers which are proven to be gradients p
 * Lopez, Luis Enrico, Diane Kathryn Cruz, Jan Christian Blaise Cruz, and Charibeth Cheng. ["Simplifying Paragraph-level Question Generation via Transformer Language Models."](summary/QG_TLM.md) arXiv preprint arXiv:2005.01107 (2020)[[arXiv](https://arxiv.org/pdf/2005.01107.pdf)].
 
 ## Question Answering
-* [Retrieve, Rerank, Read, then Iterate:
-Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.md) Peng Qi, Christopher Manning et al. 2020 [[arXiv](https://arxiv.org/pdf/2010.12527.pdf)]
+* [Retrieve, Rerank, Read, then Iterate: Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.md) Peng Qi, Christopher Manning et al. 2020 [[arXiv](https://arxiv.org/pdf/2010.12527.pdf)]
 
 * [Explain Yourself! Leveraging Language Models for Commonsense Reasoning](summary/CAGE.md) Rajani, McCann, Xiong, Richard Socher, 2019 [[arXiv](https://arxiv.org/pdf/1906.02361.pdf)]
 
@@ -262,6 +261,8 @@ Answering Open-Domain Questions of Arbitrary Complexity from Text](summary/IRRR.
 * Khashabi, Daniel, Tushar Khot, Ashish Sabharwal, Oyvind Tafjord, Peter Clark, and Hannaneh Hajishirzi. ["Unifiedqa: Crossing format boundaries with a single qa system."](summary/unifiedQA.md) arXiv preprint [[arXiv:2005.00700](https://arxiv.org/pdf/2005.00700.pdf)] (2020).
 
 * Gomez-Perez, Jose Manuel, and Raul Ortega. ["ISAAQ--Mastering Textbook Questions with Pre-trained Transformers and Bottom-Up and Top-Down Attention."](summary/ISAAQ.md) arXiv preprint [[arXiv:2010.00562](https://arxiv.org/pdf/2010.00562.pdf)] (2020).
+
+* Wang, Peifeng, Nanyun Peng, Filip Ilievski, Pedro Szekely, and Xiang Ren. ["Connecting the dots: A knowledgeable path generator for commonsense question answering."](summary/ConnectingDots.md) arXiv preprint arXiv:2005.00691 (2020).
 
 ## Meta Learning
 * [DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference](summary/DReCa.md) Shikhar Murty,  Tatsunori B. Hashimoto, Christopher D. Manning, 2020 [[arXiv](https://openreview.net/pdf?id=PqsalKqGudW)]
