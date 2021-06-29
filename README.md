@@ -390,6 +390,9 @@ This is a niche collection of research papers which are proven to be gradients p
 * [Individualized Bayesian Knowledge Tracing
 Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger, and Geoffrey J. Gordon, CMU, [[Springer 2013](https://www.cs.cmu.edu/~ggordon/yudelson-koedinger-gordon-individualized-bayesian-knowledge-tracing.pdf)]
 
+## Speech Synthesis
+* Li, Naihan, Shujie Liu, Yanqing Liu, Sheng Zhao, and Ming Liu. ["Neural speech synthesis with transformer network."](summary/TransformerTTS.md) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, pp. 6706-6713. 2019.[ (AAAI)](https://ojs.aaai.org/index.php/AAAI/article/download/4642/4520)
+
 ## Machine Learning Fundametals
 * [Linear Regression](summary/Linear_Regression.pdf)
 * [Logistic Regression](summary/Logistic_Regression.pdf)
