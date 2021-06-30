@@ -393,6 +393,8 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 ## Speech Synthesis
 * Li, Naihan, Shujie Liu, Yanqing Liu, Sheng Zhao, and Ming Liu. ["Neural speech synthesis with transformer network."](summary/TransformerTTS.md) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 33, no. 01, pp. 6706-6713. 2019.[ (AAAI)](https://ojs.aaai.org/index.php/AAAI/article/download/4642/4520)
 
+* Ren, Yi, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, and Tie-Yan Liu. ["Fastspeech: Fast, robust and controllable text to speech."](summary/fastspeech.md) arXiv preprint arXiv:1905.09263 (2019).
+
 ## Machine Learning Fundametals
 * [Linear Regression](summary/Linear_Regression.pdf)
 * [Logistic Regression](summary/Logistic_Regression.pdf)
