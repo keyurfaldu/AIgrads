@@ -395,6 +395,8 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 
 * Ren, Yi, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, and Tie-Yan Liu. ["Fastspeech: Fast, robust and controllable text to speech."](summary/fastspeech.md) arXiv preprint arXiv:1905.09263 (2019).
 
+* Łańcucki, Adrian. ["Fastpitch: Parallel text-to-speech with pitch prediction."](summary/fastpitch.md) In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 6588-6592. IEEE, 2021 [[Arxiv](https://arxiv.org/pdf/2006.06873.pdf)].
+
 ## Machine Learning Fundametals
 * [Linear Regression](summary/Linear_Regression.pdf)
 * [Logistic Regression](summary/Logistic_Regression.pdf)
