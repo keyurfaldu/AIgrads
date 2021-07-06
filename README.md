@@ -264,6 +264,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Wang, Peifeng, Nanyun Peng, Filip Ilievski, Pedro Szekely, and Xiang Ren. ["Connecting the dots: A knowledgeable path generator for commonsense question answering."](summary/ConnectingDots.md) arXiv preprint arXiv:2005.00691 (2020).
 
+* Saxena, Apoorv, Soumen Chakrabarti, and Partha Talukdar. ["Question Answering Over Temporal Knowledge Graphs."](summary/CRONKGQA.md) arXiv preprint arXiv:2106.01515 (2021)[[arXiv](https://arxiv.org/pdf/2106.01515.pdf)].
+
+
 ## Meta Learning
 * [DReCa: A General Task Augmentation Strategy for Few-Shot Natural Language Inference](summary/DReCa.md) Shikhar Murty,  Tatsunori B. Hashimoto, Christopher D. Manning, 2020 [[arXiv](https://openreview.net/pdf?id=PqsalKqGudW)]
 
