@@ -400,6 +400,8 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 
 * Łańcucki, Adrian. ["Fastpitch: Parallel text-to-speech with pitch prediction."](summary/fastpitch.md) In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 6588-6592. IEEE, 2021 [[Arxiv](https://arxiv.org/pdf/2006.06873.pdf)].
 
+* Boersma, Paul. ["Accurate short-term analysis of the fundamental frequency and the harmonics-to-noise ratio of a sampled sound."](summary/fundamental_freq.md) In Proceedings of the institute of phonetic sciences, vol. 17, no. 1193, pp. 97-110. 1993.
+
 ## Machine Learning Fundametals
 * [Linear Regression](summary/Linear_Regression.pdf)
 * [Logistic Regression](summary/Logistic_Regression.pdf)
