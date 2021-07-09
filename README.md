@@ -402,6 +402,8 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 
 * Boersma, Paul. ["Accurate short-term analysis of the fundamental frequency and the harmonics-to-noise ratio of a sampled sound."](summary/fundamental_freq.md) In Proceedings of the institute of phonetic sciences, vol. 17, no. 1193, pp. 97-110. 1993.
 
+* Ren, Yi, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, and Tie-Yan Liu. [Fastspeech 2: Fast and high-quality end-to-end text to speech.](summary/fastspeech2.md) arXiv preprint arXiv:2006.04558 (2020).
+
 ## Machine Learning Fundametals
 * [Linear Regression](summary/Linear_Regression.pdf)
 * [Logistic Regression](summary/Logistic_Regression.pdf)
