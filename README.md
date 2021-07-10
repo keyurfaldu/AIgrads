@@ -404,6 +404,8 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 
 * Ren, Yi, Chenxu Hu, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, and Tie-Yan Liu. [Fastspeech 2: Fast and high-quality end-to-end text to speech.](summary/fastspeech2.md) arXiv preprint arXiv:2006.04558 (2020).
 
+* McAuliffe, Michael, Michaela Socolof, Sarah Mihuc, Michael Wagner, and Morgan Sonderegger. ["Montreal Forced Aligner: Trainable Text-Speech Alignment Using Kaldi."](summary/MFA.md) In Interspeech, vol. 2017, pp. 498-502. 2017. [[PDF](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1386.PDF)]
+
 ## Machine Learning Fundametals
 * [Linear Regression](summary/Linear_Regression.pdf)
 * [Logistic Regression](summary/Logistic_Regression.pdf)
