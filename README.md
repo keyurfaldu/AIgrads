@@ -385,6 +385,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Cheng, Hao, Xiaodong Liu, Lis Pereira, Yaoliang Yu, and Jianfeng Gao. ["Posterior Differential Regularization with f-divergence for Improving Model Robustness."](summary/PDR.md) arXiv preprint arXiv:2010.12638 (2020) [[arXiv](https://arxiv.org/pdf/2010.12638.pdf)].
 
+* Holtzman, Ari, Jan Buys, Li Du, Maxwell Forbes, and Yejin Choi. ["The curious case of neural text degeneration."](summary/Nucleus.md) arXiv preprint [[arXiv:1904.09751](https://arxiv.org/pdf/1904.09751.pdf)] (2019).
+
 ## Learning Outcomes 
 * [Prerequisite-Driven Deep Knowledge Tracing](summary/PDKTC.md) Penghe Chen, Yu Lu, Vincent W. Zheng, Yang Pian, ICDM 2018 [[arXiv](https://aic-fe.bnu.edu.cn/docs/20190108101850881476.pdf)]
 
