@@ -332,6 +332,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Feng, Yanlin, Xinyue Chen, Bill Yuchen Lin, Peifeng Wang, Jun Yan, and Xiang Ren. ["Scalable multi-hop relational reasoning for knowledge-aware question answering."](summary/MHGRN.md) arXiv preprint [[arXiv:2005.00646](https://arxiv.org/pdf/2005.00646.pdf)] (2020).
 
+* Sun, Yu, Shuohuan Wang, Shikun Feng, Siyu Ding, Chao Pang, Junyuan Shang, Jiaxiang Liu et al. ["ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation."](summary/ERNIE3.md) arXiv preprint [arXiv:2107.02137](https://arxiv.org/pdf/2107.02137.pdf) (2021).
+
 ## KG Embeddings
 
 * [Convolutional 2D Knowledge Graph Embeddings](summary/ConvE.md), Dettmers et al, AAAI 2018 [[arXiv](https://arxiv.org/abs/1707.01476)]
