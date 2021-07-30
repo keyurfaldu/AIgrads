@@ -345,6 +345,10 @@ This is a niche collection of research papers which are proven to be gradients p
 ## Math Word Problems
 * Tan, Minghuan, Lei Wang, Lingxiao Jiang, and Jing Jiang. ["Investigating Math Word Problems using Pretrained Multilingual Language Models."](summary/MWP_MLM.md) arXiv preprint arXiv:2105.08928 (2021)[[arXiv](https://arxiv.org/pdf/2105.08928.pdf)].
 
+* Amini, Aida, Saadia Gabriel, Peter Lin, Rik Koncel-Kedziorski, Yejin Choi, and Hannaneh Hajishirzi. ["MathQA: Towards interpretable math word problem solving with operation-based formalisms."](summary/MathQA.md) arXiv preprint [[arXiv:1905.13319](https://arxiv.org/abs/1905.13319)] (2019).
+
+* Zhang, Jipeng, Lei Wang, Roy Ka-Wei Lee, Yi Bin, Yan Wang, Jie Shao, and Ee-Peng Lim. ["Graph-to-tree learning for solving math word problems."](summary/GraphTreeMWF.md) Association for Computational Linguistics, [ACL](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6276&context=sis_research), 2020.
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 
