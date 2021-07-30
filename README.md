@@ -109,6 +109,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [LearningQ: A Large-scale Dataset for Educational Question Generation](summary/learningQ.md) Guanliang Chen et al. AAAI 2018, [[PDF](https://doc.rero.ch/record/309023/files/yan_lls.pdf)]
 
+* Petroni, Fabio, Aleksandra Piktus, Angela Fan, Patrick Lewis, Majid Yazdani, Nicola De Cao, James Thorne et al. ["Kilt: a benchmark for knowledge intensive language tasks."](summary/KILT.md) arXiv preprint [[arXiv:2009.02252](https://aclanthology.org/2021.naacl-main.200.pdf) (2020).
+
 * Khot, Tushar, Peter Clark, Michal Guerquin, Peter Jansen, and Ashish Sabharwal. ["QASC: A Dataset for Question Answering via Sentence Composition."](summary/QASC.md) In AAAI, pp. 8082-8090. 2020.
 
 ## Knowledge Probes
