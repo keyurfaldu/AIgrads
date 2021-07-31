@@ -353,6 +353,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Zhang, Jipeng, Lei Wang, Roy Ka-Wei Lee, Yi Bin, Yan Wang, Jie Shao, and Ee-Peng Lim. ["Graph-to-tree learning for solving math word problems."](summary/GraphTreeMWF.md) Association for Computational Linguistics, [ACL](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=6276&context=sis_research), 2020.
 
+* Saxton, David, Edward Grefenstette, Felix Hill, and Pushmeet Kohli. ["Analysing mathematical reasoning abilities of neural models."](summary/MathematicsDataset.md) arXiv preprint [[arXiv:1904.01557](https://arxiv.org/pdf/1904.01557.pdf)] (2019).
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 
