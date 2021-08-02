@@ -355,6 +355,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Saxton, David, Edward Grefenstette, Felix Hill, and Pushmeet Kohli. ["Analysing mathematical reasoning abilities of neural models."](summary/MathematicsDataset.md) arXiv preprint [[arXiv:1904.01557](https://arxiv.org/pdf/1904.01557.pdf)] (2019).
 
+* Ran, Qiu, Yankai Lin, Peng Li, Jie Zhou, and Zhiyuan Liu. ["NumNet: Machine reading comprehension with numerical reasoning."](summary/NumNet.md) arXiv preprint arXiv:1910.06701 (2019).
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 
