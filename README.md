@@ -357,6 +357,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Ran, Qiu, Yankai Lin, Peng Li, Jie Zhou, and Zhiyuan Liu. ["NumNet: Machine reading comprehension with numerical reasoning."](summary/NumNet.md) arXiv preprint arXiv:1910.06701 (2019).
 
+* Xie, Zhipeng, and Shichao Sun. ["A Goal-Driven Tree-Structured Neural Model for Math Word Problems."](summary/GoalDriveTree_MWP.md) In IJCAI, pp. 5299-5305. 2019.
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 
