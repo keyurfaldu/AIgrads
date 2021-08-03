@@ -361,6 +361,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Wang, Yan, Xiaojiang Liu, and Shuming Shi. ["Deep neural solver for math word problems."](summary/Math23K.md) In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 845-854. 2017 [[PDF](https://aclanthology.org/D17-1088.pdf)].
 
+* Li, Jierui, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai, and Dongxiang Zhang. ["Modeling intra-relation in math word problems with different functional multi-head attentions."](summary/MWP_Intra_Relation.md) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 6162-6167. 2019.
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 

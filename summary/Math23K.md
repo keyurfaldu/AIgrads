@@ -4,7 +4,7 @@
 
 
 **Whats Unique**
-This paper presents first seq2seq deep neural network model to generate equation for math linear algebra problems. It also releases Math23K dataset.
+This paper presents first seq2seq deep neural network model to generate equation for math linear algebra problems. It also releases Math23K dataset of 23K math linear algebra questions.
 
 **How Does It Work**
 * It uses GRU as encoder and LSTM as decoder for seq2seq model. Architecture is as follow:
