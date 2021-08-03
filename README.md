@@ -359,6 +359,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Xie, Zhipeng, and Shichao Sun. ["A Goal-Driven Tree-Structured Neural Model for Math Word Problems."](summary/GoalDriveTree_MWP.md) In IJCAI, pp. 5299-5305. 2019.
 
+* Wang, Yan, Xiaojiang Liu, and Shuming Shi. ["Deep neural solver for math word problems."](summary/Math23K.md) In Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing, pp. 845-854. 2017 [[PDF](https://aclanthology.org/D17-1088.pdf)].
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 
