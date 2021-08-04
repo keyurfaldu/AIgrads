@@ -363,6 +363,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Li, Jierui, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai, and Dongxiang Zhang. ["Modeling intra-relation in math word problems with different functional multi-head attentions."](summary/MWP_Intra_Relation.md) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 6162-6167. 2019.
 
+* Liang, Zhenwen, Jipeng Zhang, Jie Shao, and Xiangliang Zhang. ["MWP-BERT: A Strong Baseline for Math Word Problems."](summary/MWP-BERT.md) arXiv preprint [[arXiv:2107.13435](https://arxiv.org/abs/2107.13435)] (2021).
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 
