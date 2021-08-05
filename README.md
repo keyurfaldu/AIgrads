@@ -365,6 +365,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Liang, Zhenwen, Jipeng Zhang, Jie Shao, and Xiangliang Zhang. ["MWP-BERT: A Strong Baseline for Math Word Problems."](summary/MWP-BERT.md) arXiv preprint [[arXiv:2107.13435](https://arxiv.org/abs/2107.13435)] (2021).
 
+* Liu, Qianying, Wenyu Guan, Sujian Li, Fei Cheng, Daisuke Kawahara, and Sadao Kurohashi. ["Reverse Operation based Data Augmentation for Solving Math Word Problems."](summary/MWP_RODA.md) arXiv preprint [[arXiv:2010.01556](https://arxiv.org/pdf/2010.01556.pdf)] (2020).
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 
