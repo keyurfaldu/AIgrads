@@ -367,6 +367,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Liu, Qianying, Wenyu Guan, Sujian Li, Fei Cheng, Daisuke Kawahara, and Sadao Kurohashi. ["Reverse Operation based Data Augmentation for Solving Math Word Problems."](summary/MWP_RODA.md) arXiv preprint [[arXiv:2010.01556](https://arxiv.org/pdf/2010.01556.pdf)] (2020).
 
+* Hong, Yining, Qing Li, Daniel Ciao, Siyuan Huang, and Song-Chun Zhu. ["Learning by Fixing: Solving Math Word Problems with Weak Supervision."](summary/MWP_LBF_weaksupervision.md) In AAAI Conference on Artificial Intelligence. [[PDF](https://www.aaai.org/AAAI21Papers/AAAI-5790.HongY.pdf)] 2021.
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 
