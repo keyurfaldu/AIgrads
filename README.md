@@ -369,6 +369,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Hong, Yining, Qing Li, Daniel Ciao, Siyuan Huang, and Song-Chun Zhu. ["Learning by Fixing: Solving Math Word Problems with Weak Supervision."](summary/MWP_LBF_weaksupervision.md) In AAAI Conference on Artificial Intelligence. [[PDF](https://www.aaai.org/AAAI21Papers/AAAI-5790.HongY.pdf)] 2021.
 
+* Hong, Yining, Qing Li, Ran Gong, Daniel Ciao, Siyuan Huang, and Song-Chun Zhu. ["SMART: A Situation Model for Algebra Story Problems via Attributed Grammar."](MWP_smart.md) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 14, pp. 13009-13017. 2021. [[PDF](https://arxiv.org/pdf/2012.14011.pdf)]
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 
