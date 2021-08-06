@@ -371,6 +371,14 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Hong, Yining, Qing Li, Ran Gong, Daniel Ciao, Siyuan Huang, and Song-Chun Zhu. ["SMART: A Situation Model for Algebra Story Problems via Attributed Grammar."](MWP_smart.md) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 14, pp. 13009-13017. 2021. [[PDF](https://arxiv.org/pdf/2012.14011.pdf)]
 
+* Qin, Jinghui, Xiaodan Liang, Yining Hong, Jianheng Tang, and Liang Lin. ["Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks."](summary/NSSolver.md) arXiv preprint [arXiv:2107.01431](https://arxiv.org/pdf/2107.01431.pdf) (2021).
+
+* Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang,
+and Liang Lin. 2020. Semantically-aligned universal tree-structured solver for math word problems.
+In Proceedings of the 2020 Conference on Empirical
+Methods in Natural Language Processing (EMNLP),
+pages 3780–3789.
+
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
 
