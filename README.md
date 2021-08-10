@@ -350,7 +350,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Ji, Shaoxiong, Shirui Pan, Erik Cambria, Pekka Marttinen, and S. Yu Philip. "A survey on knowledge graphs: Representation, acquisition, and applications." IEEE Transactions on Neural Networks and Learning Systems (2021).
 
-* Lecue, Freddy. "On the role of knowledge graphs in explainable AI." Semantic Web 11, no. 1 (2020): 41-51.
+* Lecue, Freddy. ["On the role of knowledge graphs in explainable AI."](summary/RoleKG_XAI.md) Semantic Web 11, no. 1 (2020): 41-51. [[PDF](http://www.semantic-web-journal.net/system/files/swj2198.pdf)]
 
 ## Math Word Problems
 * Tan, Minghuan, Lei Wang, Lingxiao Jiang, and Jing Jiang. ["Investigating Math Word Problems using Pretrained Multilingual Language Models."](summary/MWP_MLM.md) arXiv preprint arXiv:2105.08928 (2021)[[arXiv](https://arxiv.org/pdf/2105.08928.pdf)].
