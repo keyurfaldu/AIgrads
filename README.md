@@ -380,6 +380,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Lample, Guillaume, and François Charton. ["Deep learning for symbolic mathematics."](summary/DLMath.md) arXiv preprint [arXiv:1912.01412](https://arxiv.org/abs/1912.01412) (2019).
 
+* Miao, Shen-Yun, Chao-Chun Liang, and Keh-Yih Su. ["A diverse corpus for evaluating and developing english math word problem solvers."](summary/MWP_evaluation.md) arXiv preprint [arXiv:2106.15772](https://arxiv.org/pdf/2106.15772.pdf) (2021).
+
+
 * Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang,
 and Liang Lin. 2020. Semantically-aligned universal tree-structured solver for math word problems.
 In Proceedings of the 2020 Conference on Empirical
