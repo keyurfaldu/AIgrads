@@ -370,7 +370,6 @@ This is a niche collection of research papers which are proven to be gradients p
 * Li, Jierui, Lei Wang, Jipeng Zhang, Yan Wang, Bing Tian Dai, and Dongxiang Zhang. ["Modeling intra-relation in math word problems with different functional multi-head attentions."](summary/MWP_Intra_Relation.md) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, pp. 6162-6167. 2019.
 
 * Liang, Zhenwen, Jipeng Zhang, Jie Shao, and Xiangliang Zhang. ["MWP-BERT: A Strong Baseline for Math Word Problems."](summary/MWP-BERT.md) arXiv preprint [[arXiv:2107.13435](https://arxiv.org/abs/2107.13435)] (2021).
-
 * Liu, Qianying, Wenyu Guan, Sujian Li, Fei Cheng, Daisuke Kawahara, and Sadao Kurohashi. ["Reverse Operation based Data Augmentation for Solving Math Word Problems."](summary/MWP_RODA.md) arXiv preprint [[arXiv:2010.01556](https://arxiv.org/pdf/2010.01556.pdf)] (2020).
 
 * Hong, Yining, Qing Li, Daniel Ciao, Siyuan Huang, and Song-Chun Zhu. ["Learning by Fixing: Solving Math Word Problems with Weak Supervision."](summary/MWP_LBF_weaksupervision.md) In AAAI Conference on Artificial Intelligence. [[PDF](https://www.aaai.org/AAAI21Papers/AAAI-5790.HongY.pdf)] 2021.
@@ -378,6 +377,8 @@ This is a niche collection of research papers which are proven to be gradients p
 * Hong, Yining, Qing Li, Ran Gong, Daniel Ciao, Siyuan Huang, and Song-Chun Zhu. ["SMART: A Situation Model for Algebra Story Problems via Attributed Grammar."](MWP_smart.md) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 14, pp. 13009-13017. 2021. [[PDF](https://arxiv.org/pdf/2012.14011.pdf)]
 
 * Qin, Jinghui, Xiaodan Liang, Yining Hong, Jianheng Tang, and Liang Lin. ["Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks."](summary/NSSolver.md) arXiv preprint [arXiv:2107.01431](https://arxiv.org/pdf/2107.01431.pdf) (2021).
+
+* Lample, Guillaume, and François Charton. ["Deep learning for symbolic mathematics."](summary/DLMath.md) arXiv preprint [arXiv:1912.01412](https://arxiv.org/abs/1912.01412) (2019).
 
 * Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang,
 and Liang Lin. 2020. Semantically-aligned universal tree-structured solver for math word problems.
