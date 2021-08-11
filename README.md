@@ -383,11 +383,7 @@ This is a niche collection of research papers which are proven to be gradients p
 * Miao, Shen-Yun, Chao-Chun Liang, and Keh-Yih Su. ["A diverse corpus for evaluating and developing english math word problem solvers."](summary/MWP_evaluation.md) arXiv preprint [arXiv:2106.15772](https://arxiv.org/pdf/2106.15772.pdf) (2021).
 
 
-* Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang,
-and Liang Lin. 2020. Semantically-aligned universal tree-structured solver for math word problems.
-In Proceedings of the 2020 Conference on Empirical
-Methods in Natural Language Processing (EMNLP),
-pages 3780–3789.
+* Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang, and Liang Lin. 2020. [Semantically-aligned universal tree-structured solver for math word problems.](summary/SAU_solver.md) In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing ([EMNLP](https://aclanthology.org/2020.emnlp-main.309.pdf)), pages 3780–3789.
 
 ## Emperical Systems
 * [Why Reinvent the Wheel – Let’s Build Question Answering Systems Together](summary/frankenstein.md) Kuldeep Singh et al., IW3C2 2018 [[arXiv](http://jens-lehmann.org/files/2018/www_qa_pipelines.pdf)]
