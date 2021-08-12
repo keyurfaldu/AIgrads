@@ -385,9 +385,9 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Jinghui Qin, Lihui Lin, Xiaodan Liang, Rumin Zhang, and Liang Lin. 2020. [Semantically-aligned universal tree-structured solver for math word problems.](summary/SAU_solver.md) In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing ([EMNLP](https://aclanthology.org/2020.emnlp-main.309.pdf)), pages 3780–3789.
 
-* Patel, Arkil, Satwik Bhattamishra, and Navin Goyal. ["Are NLP Models really able to Solve Simple Math Word Problems?."](SVAMP.md) arXiv preprint [[arXiv:2103.07191](https://arxiv.org/pdf/2103.07191.pdf)] (2021).
+* Patel, Arkil, Satwik Bhattamishra, and Navin Goyal. ["Are NLP Models really able to Solve Simple Math Word Problems?."](summary/SVAMP.md) arXiv preprint [[arXiv:2103.07191](https://arxiv.org/pdf/2103.07191.pdf)] (2021).
 
-* Griffith, Kaden, and Jugal Kalita. ["Solving Arithmetic Word Problems with Transformers and Preprocessing of Problem Text."](MWP_Preprocessing.md) arXiv preprint [[arXiv:2106.00893](https://arxiv.org/pdf/2106.00893.pdf)] (2021).
+* Griffith, Kaden, and Jugal Kalita. ["Solving Arithmetic Word Problems with Transformers and Preprocessing of Problem Text."](summary/MWP_Preprocessing.md) arXiv preprint [[arXiv:2106.00893](https://arxiv.org/pdf/2106.00893.pdf)] (2021).
 
 * Thawani, Avijit, Jay Pujara, Pedro A. Szekely, and Filip Ilievski. "Representing Numbers in NLP: a Survey and a Vision." arXiv preprint arXiv:2103.13136 (2021).
 
