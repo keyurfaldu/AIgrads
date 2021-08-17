@@ -374,7 +374,7 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Hong, Yining, Qing Li, Daniel Ciao, Siyuan Huang, and Song-Chun Zhu. ["Learning by Fixing: Solving Math Word Problems with Weak Supervision."](summary/MWP_LBF_weaksupervision.md) In AAAI Conference on Artificial Intelligence. [[PDF](https://www.aaai.org/AAAI21Papers/AAAI-5790.HongY.pdf)] 2021.
 
-* Hong, Yining, Qing Li, Ran Gong, Daniel Ciao, Siyuan Huang, and Song-Chun Zhu. ["SMART: A Situation Model for Algebra Story Problems via Attributed Grammar."](MWP_smart.md) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 14, pp. 13009-13017. 2021. [[PDF](https://arxiv.org/pdf/2012.14011.pdf)]
+* Hong, Yining, Qing Li, Ran Gong, Daniel Ciao, Siyuan Huang, and Song-Chun Zhu. ["SMART: A Situation Model for Algebra Story Problems via Attributed Grammar."](summary/MWP_smart.md) In Proceedings of the AAAI Conference on Artificial Intelligence, vol. 35, no. 14, pp. 13009-13017. 2021. [[PDF](https://arxiv.org/pdf/2012.14011.pdf)]
 
 * Qin, Jinghui, Xiaodan Liang, Yining Hong, Jianheng Tang, and Liang Lin. ["Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks."](summary/NSSolver.md) arXiv preprint [arXiv:2107.01431](https://arxiv.org/pdf/2107.01431.pdf) (2021).
 
@@ -388,6 +388,8 @@ This is a niche collection of research papers which are proven to be gradients p
 * Patel, Arkil, Satwik Bhattamishra, and Navin Goyal. ["Are NLP Models really able to Solve Simple Math Word Problems?."](summary/SVAMP.md) arXiv preprint [[arXiv:2103.07191](https://arxiv.org/pdf/2103.07191.pdf)] (2021).
 
 * Griffith, Kaden, and Jugal Kalita. ["Solving Arithmetic Word Problems with Transformers and Preprocessing of Problem Text."](summary/MWP_Preprocessing.md) arXiv preprint [[arXiv:2106.00893](https://arxiv.org/pdf/2106.00893.pdf)] (2021).
+
+* Liu, Qianying, Wenyv Guan, Sujian Li, and Daisuke Kawahara. ["Tree-structured decoding for solving math word problems."](summary/TreeStructuredDecoding.md) In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pp. 2370-2379. 2019. [PDF](https://aclanthology.org/D19-1241.pdf)
 
 * Thawani, Avijit, Jay Pujara, Pedro A. Szekely, and Filip Ilievski. "Representing Numbers in NLP: a Survey and a Vision." arXiv preprint arXiv:2103.13136 (2021).
 
