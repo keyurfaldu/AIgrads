@@ -456,6 +456,8 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 
 * McAuliffe, Michael, Michaela Socolof, Sarah Mihuc, Michael Wagner, and Morgan Sonderegger. ["Montreal Forced Aligner: Trainable Text-Speech Alignment Using Kaldi."](summary/MFA.md) In Interspeech, vol. 2017, pp. 498-502. 2017. [[PDF](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1386.PDF)]
 
+* Weiss, Ron J., R. J. Skerry-Ryan, Eric Battenberg, Soroosh Mariooryad, and Diederik P. Kingma. ["Wave-Tacotron: Spectrogram-free end-to-end text-to-speech synthesis."](summary/wave_tacotron.md) In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 5679-5683. [[IEEE, 2021](https://arxiv.org/pdf/2011.03568.pdf)].
+
 ## Machine Learning Fundametals
 * [Linear Regression](summary/Linear_Regression.pdf)
 * [Logistic Regression](summary/Logistic_Regression.pdf)
