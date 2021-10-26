@@ -95,6 +95,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](summary/bam_multi_task.md), Kevin Clark, Christopher D. Manning et al. [[arXiv](https://arxiv.org/pdf/1907.04829.pdf)]
 
+* [Multitask Prompted Training Enables Zero-Shot Task Generalization](summary/Mutlitask_prompted_training_T0.md),Victor Sanh, Albert Webson, Colin Raffel et al. 2021, [[arXiv](https://arxiv.org/abs/2110.08207)]
+
 ## Datasets, Benchmarks & Metrics
 
 * [ConceptNet 5.5: An Open Multilingual Graph of General Knowledge](summary/conceptNet.md), Robyn Speer et al. AAAI 2017 [[arXiv](https://arxiv.org/pdf/1612.03975.pdf)]
@@ -198,6 +200,11 @@ This is a niche collection of research papers which are proven to be gradients p
 ]
 
 * [Understanding Attention for Text Classification](summary/understanding_attention.md), Xiaobing Sun and Wei Lu, Singapore University, ACL 2020 [[arXiv](https://www.aclweb.org/anthology/2020.acl-main.312.pdf)]
+
+## Few Shots Learning
+
+* Schick, Timo, and Hinrich Schütze. ["It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners."](summary/PET.md) arXiv preprint [[arXiv:2009.07118](https://arxiv.org/pdf/2009.07118.pdf)] (2020).
+
 
 ## Extreme Classification
 
