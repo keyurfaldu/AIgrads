@@ -54,6 +54,10 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Fedus, William, Barret Zoph, and Noam Shazeer. ["Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity."](summary/switch_transformers.md) arXiv preprint arXiv:2101.03961 (2021) [[arXiv](https://arxiv.org/pdf/2101.03961.pdf)].
 
+## Computer Vision
+
+* Bell, Sean, Yiqun Liu, Sami Alsheikh, Yina Tang, Edward Pizzi, M. Henning, Karun Singh, Omkar Parkhi, and Fedor Borisyuk. ["Groknet: Unified computer vision model trunk and embeddings for commerce."](summary/Groknet.md) In Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, pp. 2608-2616. 2020. [[PDF](https://ai.facebook.com/research/publications/groknet-unified-computer-vision-model-trunk-and-embeddings-for-commerce/)]
+
 ## Fine Tuning & Down-stream Tasks
 
 * [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](summary/GlossBERT.md) Huang et al. 2020 [[arXiv](summary/https://arxiv.org/pdf/1908.07245.pdf)]
