@@ -446,6 +446,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Holtzman, Ari, Jan Buys, Li Du, Maxwell Forbes, and Yejin Choi. ["The curious case of neural text degeneration."](summary/Nucleus.md) arXiv preprint [[arXiv:1904.09751](https://arxiv.org/pdf/1904.09751.pdf)] (2019).
 
+* Sablayrolles, Alexandre, Matthijs Douze, Cordelia Schmid, and Hervé Jégou. ["Spreading vectors for similarity search."](summary/Catelyzer.md) arXiv preprint arXiv:1806.03198 (2018) [[PDF](https://arxiv.org/pdf/1806.03198.pdf)].
+
 ## Learning Outcomes 
 * [Prerequisite-Driven Deep Knowledge Tracing](summary/PDKTC.md) Penghe Chen, Yu Lu, Vincent W. Zheng, Yang Pian, ICDM 2018 [[arXiv](https://aic-fe.bnu.edu.cn/docs/20190108101850881476.pdf)]
 
