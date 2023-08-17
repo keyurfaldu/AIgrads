@@ -1,4 +1,4 @@
-# grad-AI
+# AIgrads
 This is a niche collection of research papers which are proven to be gradients pushing the field of Natural Language Processing, Deep Learning and Artificial Intelligence
 
 ## NLP Pretraining and Architectures
