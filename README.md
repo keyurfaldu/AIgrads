@@ -1,6 +1,10 @@
 # AIgrads
 This is a niche collection of research papers which are proven to be gradients pushing the field of Natural Language Processing, Deep Learning and Artificial Intelligence
 
+## Large Language Models
+
+* Touvron, Hugo, et al. ["Llama: Open and efficient foundation language models."](summary/llama.md) arXiv preprint arXiv:2302.13971 (2023). [[arXiv](https://arxiv.org/pdf/2302.13971.pdf)]
+
 ## NLP Pretraining and Architectures
 
 * [UNILMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training](summary/unilmv2.md) Hangbo Bao et al. 2020 [[arXiv](https://arxiv.org/pdf/2002.12804.pdf)]
