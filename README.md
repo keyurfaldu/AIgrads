@@ -5,6 +5,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Touvron, Hugo, et al. ["Llama: Open and efficient foundation language models."](summary/llama.md) arXiv preprint arXiv:2302.13971 (2023). [[arXiv](https://arxiv.org/pdf/2302.13971.pdf)]
 
+* Wu, Shijie, et al. ["Bloomberggpt: A large language model for finance."](summary/bloombergGPT.md) arXiv preprint arXiv:2303.17564 (2023) [[PDF](https://arxiv.org/pdf/2303.17564.pdf)].
+
 ## NLP Pretraining and Architectures
 
 * [UNILMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training](summary/unilmv2.md) Hangbo Bao et al. 2020 [[arXiv](https://arxiv.org/pdf/2002.12804.pdf)]
