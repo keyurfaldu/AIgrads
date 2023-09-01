@@ -3,6 +3,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Large Language Models
 
+* Hu, Edward J., et al. ["Lora: Low-rank adaptation of large language models."](summary/LORA.md) arXiv preprint arXiv:2106.09685 (2021). [[PDF](https://arxiv.org/pdf/2106.09685.pdf)]
+
 * Touvron, Hugo, et al. ["Llama: Open and efficient foundation language models."](summary/llama.md) arXiv preprint arXiv:2302.13971 (2023). [[arXiv](https://arxiv.org/pdf/2302.13971.pdf)]
 
 * Wu, Shijie, et al. ["Bloomberggpt: A large language model for finance."](summary/bloombergGPT.md) arXiv preprint arXiv:2303.17564 (2023) [[PDF](https://arxiv.org/pdf/2303.17564.pdf)].
