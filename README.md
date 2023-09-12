@@ -3,6 +3,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Large Language Models
 
+* Dao, Tri, et al. ["Flashattention: Fast and memory-efficient exact attention with io-awareness."](summary/flash.md) Advances in Neural Information Processing Systems 35 (2022): 16344-16359. [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/67d57c32e20fd0a7a302cb81d36e40d5-Paper-Conference.pdf)]
+
 * Hu, Edward J., et al. ["Lora: Low-rank adaptation of large language models."](summary/LORA.md) arXiv preprint arXiv:2106.09685 (2021). [[PDF](https://arxiv.org/pdf/2106.09685.pdf)]
 
 * Touvron, Hugo, et al. ["Llama: Open and efficient foundation language models."](summary/llama.md) arXiv preprint arXiv:2302.13971 (2023). [[arXiv](https://arxiv.org/pdf/2302.13971.pdf)]
