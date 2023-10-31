@@ -13,6 +13,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 * Yang, H., Liu, X. Y., & Wang, C. D. (2023). [FinGPT: Open-Source Financial Large Language Models.](summary/FinGPT.md) arXiv preprint arXiv:2306.06031. [PDF](https://arxiv.org/pdf/2306.06031.pdf)
 
+* Wei, Jason, et al. [Chain-of-thought prompting elicits reasoning in large language models.](summary/ChainOfThought.md) Advances in Neural Information Processing Systems 35 (2022): 24824-24837. [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/9d5609613524ecf4f15af0f7b31abca4-Paper-Conference.pdf)
+
 ## NLP Pretraining and Architectures
 
 * [UNILMv2: Pseudo-Masked Language Models for Unified Language Model Pre-Training](summary/unilmv2.md) Hangbo Bao et al. 2020 [[arXiv](https://arxiv.org/pdf/2002.12804.pdf)]
