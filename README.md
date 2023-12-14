@@ -3,6 +3,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Large Language Models
 
+* Liu, Zhengzhong, et al. ["LLM360: Towards Fully Transparent Open-Source LLMs."](summary/LLM360.md) arXiv preprint arXiv:2312.06550 (2023) [[PDF](https://arxiv.org/pdf/2312.06550.pdf)].
+
 * Dao, Tri, et al. ["Flashattention: Fast and memory-efficient exact attention with io-awareness."](summary/flash.md) Advances in Neural Information Processing Systems 35 (2022): 16344-16359. [[PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/67d57c32e20fd0a7a302cb81d36e40d5-Paper-Conference.pdf)]
 
 * Hu, Edward J., et al. ["Lora: Low-rank adaptation of large language models."](summary/LORA.md) arXiv preprint arXiv:2106.09685 (2021). [[PDF](https://arxiv.org/pdf/2106.09685.pdf)]
