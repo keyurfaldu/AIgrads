@@ -14,10 +14,13 @@
 <img width=600 src="images/Mistral7B_SWA.png">
 <em>Source: Author</em>
 </p>
-- Mistral7B matches the performance of LAMMA of size 3x larger, and outperforms LAMMA models of similar sizes. 
+
+
+- Mistral7B matches the performance of LAMMA of size 3x larger, and outperforms LAMMA models of similar sizes.
+ 
 - System prompts to enforce guardrails are really effective on Mistral as compared to Lamma. 
     - System prompt: Always assist with care, respect, and truth. Respond with utmost utility yet securely. Avoid harmful, unethical, prejudiced, or negative content. Ensure replies promote fairness and positivity
     - Note, Lamma refuse to answer question "how to kill linux process", but Mistral gives correct answer.
 
-    
+
 
