@@ -3,6 +3,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Large Language Models
 
+* Pelrine, Kellin, et al. ["Exploiting Novel GPT-4 APIs."](summary/GPT4_exploits.md) arXiv preprint arXiv:2312.14302 (2023) [[PDF](https://arxiv.org/pdf/2312.14302.pdf)].
+
 * Jiang, Albert Q., et al. ["Mistral 7B."](summary/Mistral7B.md) arXiv preprint arXiv:2310.06825 (2023) [[PDF](https://arxiv.org/pdf/2310.06825.pdf)].
 
 * Liu, Zhengzhong, et al. ["LLM360: Towards Fully Transparent Open-Source LLMs."](summary/LLM360.md) arXiv preprint arXiv:2312.06550 (2023) [[PDF](https://arxiv.org/pdf/2312.06550.pdf)].
