@@ -3,6 +3,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Large Language Models
 
+* McIntosh, Timothy R., et al. ["From google gemini to openai q*(q-star): A survey of reshaping the generative artificial intelligence (ai) research landscape."](summary/GenAI_survey_2023.md) arXiv preprint arXiv:2312.10868 (2023) [PDF](https://arxiv.org/pdf/2312.10868.pdf).
+
 * Pelrine, Kellin, et al. ["Exploiting Novel GPT-4 APIs."](summary/GPT4_exploits.md) arXiv preprint arXiv:2312.14302 (2023) [[PDF](https://arxiv.org/pdf/2312.14302.pdf)].
 
 * Jiang, Albert Q., et al. ["Mistral 7B."](summary/Mistral7B.md) arXiv preprint arXiv:2310.06825 (2023) [[PDF](https://arxiv.org/pdf/2310.06825.pdf)].
