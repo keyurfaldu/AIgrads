@@ -3,6 +3,8 @@ This is a niche collection of research papers which are proven to be gradients p
 
 ## Large Language Models
 
+* Wang, Dongsheng, et al. ["DocLLM: A layout-aware generative language model for multimodal document understanding."](summary/DocLLM.md) arXiv preprint arXiv:2401.00908 (2023) [[PDF](https://arxiv.org/pdf/2401.00908.pdf)].
+
 * McIntosh, Timothy R., et al. ["From google gemini to openai q*(q-star): A survey of reshaping the generative artificial intelligence (ai) research landscape."](summary/GenAI_survey_2023.md) arXiv preprint arXiv:2312.10868 (2023) [PDF](https://arxiv.org/pdf/2312.10868.pdf).
 
 * Pelrine, Kellin, et al. ["Exploiting Novel GPT-4 APIs."](summary/GPT4_exploits.md) arXiv preprint arXiv:2312.14302 (2023) [[PDF](https://arxiv.org/pdf/2312.14302.pdf)].
