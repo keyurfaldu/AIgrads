@@ -31,7 +31,7 @@ LLM Architecture
 - Attentions between inputs and bounding boxes are used to explot multi modality
 - Following figure gives detailed illustration
 
-p align="center">
+<p align="center">
 <img width=600 src="images/DocLLM_arch.png">
 <em>Source: Author</em>
 </p>
