@@ -1,6 +1,10 @@
 # AIgrads
 This is a niche collection of research papers which are proven to be gradients pushing the field of Natural Language Processing, Deep Learning and Artificial Intelligence
 
+## RAG
+
+* Lin, X. V., Chen, X., Chen, M., Shi, W., Lomeli, M., James, R., ... & Yih, S. (2023). ["Ra-dit: Retrieval-augmented dual instruction tuning."](summary/RADIT.md) arXiv preprint arXiv:2310.01352 [[PDF](https://arxiv.org/pdf/2310.01352)].
+
 ## Large Language Models
 
 * Wang, Dongsheng, et al. ["DocLLM: A layout-aware generative language model for multimodal document understanding."](summary/DocLLM.md) arXiv preprint arXiv:2401.00908 (2023) [[PDF](https://arxiv.org/pdf/2401.00908.pdf)].
