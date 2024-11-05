@@ -502,7 +502,10 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 
 ## Asset Price Prediction
 
+* Gezici, B., & Sefer, E. (2024). [Deep transformer-based asset price and direction prediction.](summary/vit_asset_price_prediction.md) IEEE Access.
+
 * JuHyok, U., Lu, P., Kim, C., Ryu, U., & Pak, K. (2020). ["A new LSTM based reversal point prediction method using upward/downward reversal point feature sets"](summary/lstm_trend_reversal.md). Chaos, Solitons & Fractals, 132, 109559.
+
 
 
 ## Machine Learning Fundametals
