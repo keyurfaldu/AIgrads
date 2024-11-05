@@ -499,6 +499,12 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 
 * Weiss, Ron J., R. J. Skerry-Ryan, Eric Battenberg, Soroosh Mariooryad, and Diederik P. Kingma. ["Wave-Tacotron: Spectrogram-free end-to-end text-to-speech synthesis."](summary/wave_tacotron.md) In ICASSP 2021-2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 5679-5683. [[IEEE, 2021](https://arxiv.org/pdf/2011.03568.pdf)].
 
+
+## Asset Price Prediction
+
+* JuHyok, U., Lu, P., Kim, C., Ryu, U., & Pak, K. (2020). ["A new LSTM based reversal point prediction method using upward/downward reversal point feature sets"](summary/lstm_trend_reversal.md). Chaos, Solitons & Fractals, 132, 109559.
+
+
 ## Machine Learning Fundametals
 * [Linear Regression](summary/Linear_Regression.pdf)
 * [Logistic Regression](summary/Logistic_Regression.pdf)
