@@ -506,6 +506,9 @@ Models](summary/Individualised_BKT.md) Michael V. Yudelson, Kenneth R. Koedinger
 
 * JuHyok, U., Lu, P., Kim, C., Ryu, U., & Pak, K. (2020). ["A new LSTM based reversal point prediction method using upward/downward reversal point feature sets"](summary/lstm_trend_reversal.md). Chaos, Solitons & Fractals, 132, 109559.
 
+* Grinsztajn, L., Oyallon, E., & Varoquaux, G. (2022). [Why do tree-based models still outperform deep learning on typical tabular data?.](summary/tree_models_on_tabulardata.md) Advances in neural information processing systems, 35, 507-520.
+
+* Gorishniy, Y., Rubachev, I., Khrulkov, V., & Babenko, A. (2021). [Revisiting deep learning models for tabular data.](summary/FT_transformer.md) Advances in Neural Information Processing Systems, 34, 18932-18943.
 
 
 ## Machine Learning Fundametals
